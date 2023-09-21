@@ -1,0 +1,34 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3           |summary                                                                                      |link                                           |
+|--------------------------|--------------|------------------|---------------------------------------------------------------------------------------------|-----------------------------------------------|
+|2023-09-20 00:00:06.555130|CVE-2023-41179|cvss:0 (Not_rated)|(Arbitrary Command, Execute arbitrary command)                                               |https://www.cve.org/CVERecord?id=CVE-2023-41179|
+|2023-09-20 01:00:03.672597|CVE-2023-41890|cvss:7.5 (HIGH)   |(SAML, ASP.NET)                                                                              |https://www.cve.org/CVERecord?id=CVE-2023-41890|
+|2023-09-20 03:00:03.948952|CVE-2023-22513|cvss:0 (Not_rated)|(Atlassian, Remote code execution, Execute arbitrary code)                                   |https://www.cve.org/CVERecord?id=CVE-2023-22513|
+|2023-09-20 09:00:04.495986|CVE-2023-40932|cvss:0 (Not_rated)|(XSS, cross-site scripting)                                                                  |https://www.cve.org/CVERecord?id=CVE-2023-40932|
+|2023-09-20 09:00:05.357200|CVE-2023-40931|cvss:0 (Not_rated)|(PHP, SQL injection)                                                                         |https://www.cve.org/CVERecord?id=CVE-2023-40931|
+|2023-09-20 10:00:04.569373|CVE-2023-39575|cvss:0 (Not_rated)|(XSS, Reflected Cross-Site Scripting, cross-site scripting)                                  |https://www.cve.org/CVERecord?id=CVE-2023-39575|
+|2023-09-20 10:00:05.471973|CVE-2023-36319|cvss:0 (Not_rated)|(PHP, Remote Attack, File Upload, Execute arbitrary code)                                    |https://www.cve.org/CVERecord?id=CVE-2023-36319|
+|2023-09-20 11:00:04.181527|CVE-2023-31009|cvss:8.3 (HIGH)   |(Input validation, Information disclosure, Escalation of Privilege, Denial of service)       |https://www.cve.org/CVERecord?id=CVE-2023-31009|
+|2023-09-20 11:00:05.067370|CVE-2023-31008|cvss:7.3 (HIGH)   |(Input validation, Information disclosure, Escalation of Privilege, Denial of service)       |https://www.cve.org/CVERecord?id=CVE-2023-31008|
+|2023-09-20 11:00:05.990055|CVE-2023-38888|cvss:0 (Not_rated)|(Remote Attack, Cross Site Scripting, Execute arbitrary code, obtain sensitive information)  |https://www.cve.org/CVERecord?id=CVE-2023-38888|
+|2023-09-20 11:00:06.896817|CVE-2023-38887|cvss:0 (Not_rated)|(Remote Attack, File Upload, Execute arbitrary code, obtain sensitive information)           |https://www.cve.org/CVERecord?id=CVE-2023-38887|
+|2023-09-20 11:00:07.796139|CVE-2023-25534|cvss:5.7 (MEDIUM) |(Input validation, Information disclosure, Escalation of Privilege, Denial of service)       |https://www.cve.org/CVERecord?id=CVE-2023-25534|
+|2023-09-20 11:00:08.768664|CVE-2023-25533|cvss:8.3 (HIGH)   |(Input validation, Information disclosure, Escalation of Privilege)                          |https://www.cve.org/CVERecord?id=CVE-2023-25533|
+|2023-09-20 11:00:09.683677|CVE-2023-25531|cvss:7.6 (HIGH)   |(Information disclosure, Escalation of Privilege, Denial of service)                         |https://www.cve.org/CVERecord?id=CVE-2023-25531|
+|2023-09-20 11:00:10.562027|CVE-2023-25530|cvss:8 (HIGH)     |(Input validation, Information disclosure, Escalation of Privilege, Denial of service)       |https://www.cve.org/CVERecord?id=CVE-2023-25530|
+|2023-09-20 11:00:11.464595|CVE-2023-25529|cvss:8 (HIGH)     |(Information disclosure, Escalation of Privilege)                                            |https://www.cve.org/CVERecord?id=CVE-2023-25529|
+|2023-09-20 11:00:12.359490|CVE-2023-25528|cvss:8.8 (HIGH)   |(Arbitrary code execution, Information disclosure, Plugin, Denial of service, Stack Overflow)|https://www.cve.org/CVERecord?id=CVE-2023-25528|
+|2023-09-20 11:00:13.273716|CVE-2023-25527|cvss:7.8 (HIGH)   |(Information disclosure, Escalation of Privilege, Denial of service)                         |https://www.cve.org/CVERecord?id=CVE-2023-25527|
+|2023-09-20 11:00:14.160220|CVE-2023-40934|cvss:0 (Not_rated)|(Nagios XI, SQL injection)                                                                   |https://www.cve.org/CVERecord?id=CVE-2023-40934|
+|2023-09-20 11:00:15.095126|CVE-2023-40933|cvss:0 (Not_rated)|(Nagios XI, SQL injection)                                                                   |https://www.cve.org/CVERecord?id=CVE-2023-40933|
+|2023-09-20 12:00:05.453298|CVE-2023-31014|cvss:4.2 (MEDIUM) |(Information disclosure, Denial of service)                                                  |https://www.cve.org/CVERecord?id=CVE-2023-31014|
+|2023-09-20 12:00:06.369013|CVE-2023-31013|cvss:6.1 (MEDIUM) |(Input validation, Information disclosure, Escalation of Privilege)                          |https://www.cve.org/CVERecord?id=CVE-2023-31013|
+|2023-09-20 12:00:07.440687|CVE-2023-31012|cvss:6.1 (MEDIUM) |(Input validation, Information disclosure, Escalation of Privilege)                          |https://www.cve.org/CVERecord?id=CVE-2023-31012|
+|2023-09-20 12:00:08.558070|CVE-2023-31015|cvss:6.6 (MEDIUM) |(Information disclosure, Escalation of Privilege, Denial of service)                         |https://www.cve.org/CVERecord?id=CVE-2023-31015|
+|2023-09-20 12:00:09.466993|CVE-2023-31011|cvss:5.2 (MEDIUM) |(Input validation, Information disclosure, Escalation of Privilege)                          |https://www.cve.org/CVERecord?id=CVE-2023-31011|
+|2023-09-20 12:00:10.398066|CVE-2023-31010|cvss:6.8 (MEDIUM) |(Input validation, Information disclosure, Escalation of Privilege, Denial of service)       |https://www.cve.org/CVERecord?id=CVE-2023-31010|
+|2023-09-20 15:00:04.097024|CVE-2023-26144|cvss:5.3 (MEDIUM) |(GraphQL, Denial of service)                                                                 |https://www.cve.org/CVERecord?id=CVE-2023-26144|
+|2023-09-20 18:00:04.868944|CVE-2022-47562|cvss:7.5 (HIGH)   |(Remote Attack, Denial of service)                                                           |https://www.cve.org/CVERecord?id=CVE-2022-47562|
+|2023-09-20 20:00:06.941461|CVE-2023-5084 |cvss:0 (Not_rated)|(XSS, cross-site scripting)                                                                  |https://www.cve.org/CVERecord?id=CVE-2023-5084 |
+|2023-09-20 20:00:08.058110|CVE-2023-34047|cvss:3.1 (LOW)    |(GraphQL)                                                                                    |https://www.cve.org/CVERecord?id=CVE-2023-34047|
