@@ -1,0 +1,39 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3            |summary                                                                        |link                                           |
+|--------------------------|--------------|-------------------|-------------------------------------------------------------------------------|-----------------------------------------------|
+|2023-09-21 00:00:07.184838|CVE-2023-0462 |cvss:0 (Not_rated) |(Execute arbitrary code, Arbitrary code execution)                             |https://www.cve.org/CVERecord?id=CVE-2023-0462 |
+|2023-09-21 00:00:08.096242|CVE-2023-0118 |cvss:0 (Not_rated) |(Execute arbitrary code, Arbitrary code execution)                             |https://www.cve.org/CVERecord?id=CVE-2023-0118 |
+|2023-09-21 00:00:09.003994|CVE-2022-1438 |cvss:0 (Not_rated) |(XSS, cross-site scripting)                                                    |https://www.cve.org/CVERecord?id=CVE-2022-1438 |
+|2023-09-21 01:00:04.776291|CVE-2023-42464|cvss:0 (Not_rated) |(Remote code execution, Type confusion)                                        |https://www.cve.org/CVERecord?id=CVE-2023-42464|
+|2023-09-21 02:00:03.370511|CVE-2023-2262 |cvss:9.8 (CRITICAL)|(Remote code execution, Buffer Overflow)                                       |https://www.cve.org/CVERecord?id=CVE-2023-2262 |
+|2023-09-21 03:00:04.163351|CVE-2023-43502|cvss:0 (Not_rated) |(Jenkins, Plugin)                                                              |https://www.cve.org/CVERecord?id=CVE-2023-43502|
+|2023-09-21 03:00:05.078442|CVE-2023-43501|cvss:0 (Not_rated) |(Jenkins, Plugin)                                                              |https://www.cve.org/CVERecord?id=CVE-2023-43501|
+|2023-09-21 03:00:06.003715|CVE-2023-43500|cvss:0 (Not_rated) |(Jenkins, Plugin)                                                              |https://www.cve.org/CVERecord?id=CVE-2023-43500|
+|2023-09-21 03:00:06.949775|CVE-2023-43499|cvss:0 (Not_rated) |(Jenkins, XSS, Stored Cross-Site Scripting, cross-site scripting, Plugin)      |https://www.cve.org/CVERecord?id=CVE-2023-43499|
+|2023-09-21 03:00:07.853379|CVE-2023-43498|cvss:0 (Not_rated) |(Jenkins, File Upload)                                                         |https://www.cve.org/CVERecord?id=CVE-2023-43498|
+|2023-09-21 03:00:08.755773|CVE-2023-43497|cvss:0 (Not_rated) |(Jenkins, File Upload)                                                         |https://www.cve.org/CVERecord?id=CVE-2023-43497|
+|2023-09-21 03:00:09.676836|CVE-2023-43496|cvss:0 (Not_rated) |(Jenkins, Arbitrary code execution, Plugin)                                    |https://www.cve.org/CVERecord?id=CVE-2023-43496|
+|2023-09-21 03:00:10.594392|CVE-2023-43495|cvss:0 (Not_rated) |(Jenkins, XSS, Stored Cross-Site Scripting, cross-site scripting)              |https://www.cve.org/CVERecord?id=CVE-2023-43495|
+|2023-09-21 03:00:11.456832|CVE-2023-43494|cvss:0 (Not_rated) |(Jenkins)                                                                      |https://www.cve.org/CVERecord?id=CVE-2023-43494|
+|2023-09-21 03:00:12.372568|CVE-2023-42656|cvss:6.1 (MEDIUM)  |(XSS, Reflected Cross-Site Scripting, cross-site scripting)                    |https://www.cve.org/CVERecord?id=CVE-2023-42656|
+|2023-09-21 04:00:05.114198|CVE-2023-40619|cvss:0 (Not_rated) |(PHP, Remote code execution)                                                   |https://www.cve.org/CVERecord?id=CVE-2023-40619|
+|2023-09-21 04:00:06.026794|CVE-2023-40618|cvss:0 (Not_rated) |(PHP, Remote Attack, XSS, Reflected Cross-Site Scripting, cross-site scripting)|https://www.cve.org/CVERecord?id=CVE-2023-40618|
+|2023-09-21 05:00:04.696595|CVE-2023-43377|cvss:0 (Not_rated) |(PHP, XSS, cross-site scripting)                                               |https://www.cve.org/CVERecord?id=CVE-2023-43377|
+|2023-09-21 05:00:05.668369|CVE-2023-43376|cvss:0 (Not_rated) |(PHP, XSS, cross-site scripting)                                               |https://www.cve.org/CVERecord?id=CVE-2023-43376|
+|2023-09-21 05:00:06.589261|CVE-2023-43375|cvss:0 (Not_rated) |(PHP, SQL injection)                                                           |https://www.cve.org/CVERecord?id=CVE-2023-43375|
+|2023-09-21 05:00:12.460968|CVE-2023-43374|cvss:0 (Not_rated) |(PHP, SQL injection)                                                           |https://www.cve.org/CVERecord?id=CVE-2023-43374|
+|2023-09-21 05:00:13.382032|CVE-2023-43373|cvss:0 (Not_rated) |(PHP, SQL injection)                                                           |https://www.cve.org/CVERecord?id=CVE-2023-43373|
+|2023-09-21 05:00:14.306337|CVE-2023-43371|cvss:0 (Not_rated) |(PHP, SQL injection)                                                           |https://www.cve.org/CVERecord?id=CVE-2023-43371|
+|2023-09-21 06:00:05.262059|CVE-2023-42335|cvss:0 (Not_rated) |(Remote Attack, File Upload, Execute arbitrary code)                           |https://www.cve.org/CVERecord?id=CVE-2023-42335|
+|2023-09-21 06:00:06.205314|CVE-2023-42334|cvss:0 (Not_rated) |(Remote Attack, IDOR)                                                          |https://www.cve.org/CVERecord?id=CVE-2023-42334|
+|2023-09-21 06:00:07.064418|CVE-2023-42331|cvss:0 (Not_rated) |(PHP, Remote Attack, File Upload, Execute arbitrary code)                      |https://www.cve.org/CVERecord?id=CVE-2023-42331|
+|2023-09-21 07:00:04.355206|CVE-2023-42322|cvss:0 (Not_rated) |(Remote Attack, Insecure permission, obtain sensitive information)             |https://www.cve.org/CVERecord?id=CVE-2023-42322|
+|2023-09-21 07:00:05.303242|CVE-2023-42321|cvss:0 (Not_rated) |(PHP, Remote Attack, Execute arbitrary code)                                   |https://www.cve.org/CVERecord?id=CVE-2023-42321|
+|2023-09-21 07:00:06.213523|CVE-2023-38876|cvss:0 (Not_rated) |(PHP, Remote Attack, XSS, Reflected Cross-Site Scripting, cross-site scripting)|https://www.cve.org/CVERecord?id=CVE-2023-38876|
+|2023-09-21 07:00:07.138645|CVE-2023-38875|cvss:0 (Not_rated) |(PHP, Remote Attack, XSS, Reflected Cross-Site Scripting, cross-site scripting)|https://www.cve.org/CVERecord?id=CVE-2023-38875|
+|2023-09-21 08:00:04.153460|CVE-2023-36234|cvss:0 (Not_rated) |(XSS, Cross Site Scripting, Execute arbitrary code)                            |https://www.cve.org/CVERecord?id=CVE-2023-36234|
+|2023-09-21 08:00:05.099399|CVE-2023-36109|cvss:0 (Not_rated) |(Remote Attack, Execute arbitrary code, Buffer Overflow)                       |https://www.cve.org/CVERecord?id=CVE-2023-36109|
+|2023-09-21 16:00:05.564046|CVE-2023-43669|cvss:0 (Not_rated) |(Remote Attack, Denial of service)                                             |https://www.cve.org/CVERecord?id=CVE-2023-43669|
+|2023-09-21 17:00:03.496011|CVE-2023-4292 |cvss:5.3 (MEDIUM)  |(SQL injection, Critical)                                                      |https://www.cve.org/CVERecord?id=CVE-2023-4292 |
+|2023-09-21 17:00:04.356830|CVE-2023-4152 |cvss:7.5 (HIGH)    |(Remote Attack, Path Traversal)                                                |https://www.cve.org/CVERecord?id=CVE-2023-4152 |
