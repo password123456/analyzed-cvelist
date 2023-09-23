@@ -30,3 +30,4 @@ ID | Item | Channel
 
 
 As an open project, there is the potential for ongoing improvement.</p>
+If you helpful, please consider giving it a "star"🌟 to support further improvements.
