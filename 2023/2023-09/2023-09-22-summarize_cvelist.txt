@@ -1,0 +1,15 @@
+# Timezone is GMT/UTC+9
+
+|datetime|cve_id        |cvss_v3            |summary                                                    |link                                           |
+|--------|--------------|-------------------|-----------------------------------------------------------|-----------------------------------------------|
+|00:06.0 |CVE-2023-43309|cvss:0 (Not_rated) |(XSS, Stored Cross-Site Scripting, cross-site scripting)   |https://www.cve.org/CVERecord?id=CVE-2023-43309|
+|00:07.0 |CVE-2023-43274|cvss:0 (Not_rated) |(PHP, SQL injection)                                       |https://www.cve.org/CVERecord?id=CVE-2023-43274|
+|00:05.0 |CVE-2023-42457|cvss:7.5 (HIGH)    |(Nginx)                                                    |https://www.cve.org/CVERecord?id=CVE-2023-42457|
+|00:05.9 |CVE-2023-40183|cvss:7.5 (HIGH)    |(DataEase)                                                 |https://www.cve.org/CVERecord?id=CVE-2023-40183|
+|00:05.5 |CVE-2023-42810|cvss:9.8 (CRITICAL)|(Node.js, Command injection)                               |https://www.cve.org/CVERecord?id=CVE-2023-42810|
+|00:04.8 |CVE-2023-38343|cvss:0 (Not_rated) |(XXE, XML external entity)                                 |https://www.cve.org/CVERecord?id=CVE-2023-38343|
+|00:04.3 |CVE-2023-38344|cvss:0 (Not_rated) |(Ivanti)                                                   |https://www.cve.org/CVERecord?id=CVE-2023-38344|
+|00:04.9 |CVE-2023-41616|cvss:0 (Not_rated) |(XSS, Reflected Cross-Site Scripting, cross-site scripting)|https://www.cve.org/CVERecord?id=CVE-2023-41616|
+|00:06.0 |CVE-2023-41614|cvss:0 (Not_rated) |(XSS, Stored Cross-Site Scripting, cross-site scripting)   |https://www.cve.org/CVERecord?id=CVE-2023-41614|
+|00:04.0 |CVE-2023-23362|cvss:8.8 (HIGH)    |(Command injection, Execute command)                       |https://www.cve.org/CVERecord?id=CVE-2023-23362|
+|00:04.6 |CVE-2023-43770|cvss:0 (Not_rated) |(PHP, XSS)                                                 |https://www.cve.org/CVERecord?id=CVE-2023-43770|
