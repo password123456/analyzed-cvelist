@@ -1,7 +1,7 @@
 # Timezone is GMT/UTC+9
 
-|datetime|cve_id        |cvss_v3            |summary                                                    |link                                           |
-|--------|--------------|-------------------|-----------------------------------------------------------|-----------------------------------------------|
+|datetime                  |cve_id        |cvss_v3            |summary                                                    |link                                           |
+|--------------------------|--------------|-------------------|-----------------------------------------------------------|-----------------------------------------------|
 |2023-09-22 00:00:06.020345|CVE-2023-43309|cvss:0 (Not_rated) |(XSS, Stored Cross-Site Scripting, cross-site scripting)   |https://www.cve.org/CVERecord?id=CVE-2023-43309|
 |2023-09-22 00:00:07.041770|CVE-2023-43274|cvss:0 (Not_rated) |(PHP, SQL injection)                                       |https://www.cve.org/CVERecord?id=CVE-2023-43274|
 |2023-09-22 01:00:04.980007|CVE-2023-42457|cvss:7.5 (HIGH)    |(Nginx)                                                    |https://www.cve.org/CVERecord?id=CVE-2023-42457|
