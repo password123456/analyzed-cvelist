@@ -1,0 +1,15 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3            |summary                                                    |link                                           |
+|--------------------------|--------------|-------------------|-----------------------------------------------------------|-----------------------------------------------|
+|2023-09-23 00:00:06.877393|CVE-2022-3874 |cvss:0 (Not_rated) |(Command injection, Command execution, Arbitrary Command)  |https://www.cve.org/CVERecord?id=CVE-2022-3874 |
+|2023-09-23 01:00:03.165512|CVE-2023-43144|cvss:0 (Not_rated) |(PHP, SQL injection)                                       |https://www.cve.org/CVERecord?id=CVE-2023-43144|
+|2023-09-23 01:00:04.069964|CVE-2023-23766|cvss:4.5 (MEDIUM)  |(GitHub Enterprise Server)                                 |https://www.cve.org/CVERecord?id=CVE-2023-23766|
+|2023-09-23 03:00:04.385855|CVE-2023-42821|cvss:7.5 (HIGH)    |(Denial of service, out-of-bounds)                         |https://www.cve.org/CVERecord?id=CVE-2023-42821|
+|2023-09-23 03:00:05.293287|CVE-2023-41031|cvss:8 (HIGH)      |(Command injection, Execute command, crafted request)      |https://www.cve.org/CVERecord?id=CVE-2023-41031|
+|2023-09-23 04:00:05.293879|CVE-2023-43640|cvss:6.5 (MEDIUM)  |(SQL injection, Information disclosure)                    |https://www.cve.org/CVERecord?id=CVE-2023-43640|
+|2023-09-23 06:00:05.165551|CVE-2023-40989|cvss:0 (Not_rated) |(Remote Attack, SQL injection, Execute arbitrary code, crafted request)|https://www.cve.org/CVERecord?id=CVE-2023-40989|
+|2023-09-23 10:00:04.844573|CVE-2023-43470|cvss:0 (Not_rated) |(PHP, Remote Attack, SQL injection, Execute arbitrary code)|https://www.cve.org/CVERecord?id=CVE-2023-43470|
+|2023-09-23 10:00:05.801540|CVE-2023-43469|cvss:0 (Not_rated) |(PHP, Remote Attack, SQL injection, Execute arbitrary code)|https://www.cve.org/CVERecord?id=CVE-2023-43469|
+|2023-09-23 10:00:06.664033|CVE-2023-43468|cvss:0 (Not_rated) |(PHP, Remote Attack, SQL injection, Execute arbitrary code)|https://www.cve.org/CVERecord?id=CVE-2023-43468|
+|2023-09-23 18:00:05.386180|CVE-2023-5134 |cvss:4.3 (MEDIUM)  |(WordPress, Information disclosure)                        |https://www.cve.org/CVERecord?id=CVE-2023-5134 |
