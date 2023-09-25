@@ -1,0 +1,3 @@
+# Timezone is GMT/UTC+9
+
+No data today :)
