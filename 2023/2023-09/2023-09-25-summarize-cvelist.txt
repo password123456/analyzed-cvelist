@@ -1,0 +1,13 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3           |summary                                                            |link                                           |
+|--------------------------|--------------|------------------|-------------------------------------------------------------------|-----------------------------------------------|
+|2023-09-25 09:00:04.878885|CVE-2023-1636 |cvss:0 (Not_rated)|(OpenStack)                                                        |https://www.cve.org/CVERecord?id=CVE-2023-1636 |
+|2023-09-25 09:00:05.753158|CVE-2023-1633 |cvss:0 (Not_rated)|(OpenStack)                                                        |https://www.cve.org/CVERecord?id=CVE-2023-1633 |
+|2023-09-25 09:00:06.692152|CVE-2023-1625 |cvss:0 (Not_rated)|(OpenStack)                                                        |https://www.cve.org/CVERecord?id=CVE-2023-1625 |
+|2023-09-25 09:00:10.554770|CVE-2022-3596 |cvss:0 (Not_rated)|(OpenStack, Remote Attack)                                         |https://www.cve.org/CVERecord?id=CVE-2022-3596 |
+|2023-09-25 09:00:12.586506|CVE-2022-3261 |cvss:0 (Not_rated)|(OpenStack)                                                        |https://www.cve.org/CVERecord?id=CVE-2022-3261 |
+|2023-09-25 11:00:04.582686|CVE-2023-41949|cvss:5.9 (MEDIUM) |(XSS, cross-site scripting, Plugin)                                |https://www.cve.org/CVERecord?id=CVE-2023-41949|
+|2023-09-25 11:00:05.456695|CVE-2023-41948|cvss:5.9 (MEDIUM) |(XSS, Stored Cross-Site Scripting, cross-site scripting, Plugin)   |https://www.cve.org/CVERecord?id=CVE-2023-41948|
+|2023-09-25 11:00:06.368792|CVE-2023-41874|cvss:7.1 (HIGH)   |(XSS, Reflected Cross-Site Scripting, cross-site scripting, Plugin)|https://www.cve.org/CVERecord?id=CVE-2023-41874|
+|2023-09-25 12:00:05.053560|CVE-2023-41872|cvss:7.1 (HIGH)   |(XSS, Reflected Cross-Site Scripting, cross-site scripting, Plugin)|https://www.cve.org/CVERecord?id=CVE-2023-41872|
