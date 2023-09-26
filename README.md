@@ -27,6 +27,7 @@ Any other No paid plan </p>
 ID | Item | Channel
 ----- | ----- | ----- 
 1 | Latest CVE 0day exploit | <a href="https://t.me/+uFZPB44S23o3ZmI1"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
+2 | Summarize Latest CVEs   | <a href="https://t.me/FLfFW5Nq4g80ZmY1"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
 
 
 As an open project, there is the potential for ongoing improvement.</p>
