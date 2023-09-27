@@ -1,0 +1,38 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3            |summary                                                                                         |link                                           |
+|--------------------------|--------------|-------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------|
+|2023-09-26 01:00:04.058926|CVE-2023-43456|cvss:0 (Not_rated) |(PHP, Remote Attack, Cross Site Scripting, Execute arbitrary code, obtain sensitive information)|https://www.cve.org/CVERecord?id=CVE-2023-43456|
+|2023-09-26 02:00:03.886207|CVE-2023-3550 |cvss:7.3 (HIGH)    |(Remote Attack, File Upload)                                                                    |https://www.cve.org/CVERecord?id=CVE-2023-3550 |
+|2023-09-26 02:00:04.760236|CVE-2023-0633 |cvss:7.2 (HIGH)    |(Docker, Privilege Escalation)                                                                  |https://www.cve.org/CVERecord?id=CVE-2023-0633 |
+|2023-09-26 02:00:05.689289|CVE-2023-0627 |cvss:6.7 (MEDIUM)  |(Docker, Privilege Escalation)                                                                  |https://www.cve.org/CVERecord?id=CVE-2023-0627 |
+|2023-09-26 02:00:06.601329|CVE-2023-0626 |cvss:8 (HIGH)      |(Docker)                                                                                        |https://www.cve.org/CVERecord?id=CVE-2023-0626 |
+|2023-09-26 02:00:07.495467|CVE-2023-0625 |cvss:8 (HIGH)      |(Docker)                                                                                        |https://www.cve.org/CVERecord?id=CVE-2023-0625 |
+|2023-09-26 03:00:03.890765|CVE-2023-43382|cvss:0 (Not_rated) |(Remote Attack, Execute arbitrary code, Directory traversal)                                    |https://www.cve.org/CVERecord?id=CVE-2023-43382|
+|2023-09-26 03:00:04.812387|CVE-2023-43339|cvss:0 (Not_rated) |(XSS, cross-site scripting, Execute arbitrary code)                                             |https://www.cve.org/CVERecord?id=CVE-2023-43339|
+|2023-09-26 03:00:05.734897|CVE-2023-40163|cvss:9.8 (CRITICAL)|(Memory corruption, out-of-bounds)                                                              |https://www.cve.org/CVERecord?id=CVE-2023-40163|
+|2023-09-26 03:00:06.683288|CVE-2023-39453|cvss:9.8 (CRITICAL)|(use-after-free, Arbitrary code execution)                                                      |https://www.cve.org/CVERecord?id=CVE-2023-39453|
+|2023-09-26 03:00:07.609938|CVE-2023-35002|cvss:9.8 (CRITICAL)|(Arbitrary code execution, Buffer Overflow)                                                     |https://www.cve.org/CVERecord?id=CVE-2023-35002|
+|2023-09-26 03:00:08.565018|CVE-2023-32653|cvss:9.8 (CRITICAL)|(Arbitrary code execution, out-of-bounds)                                                       |https://www.cve.org/CVERecord?id=CVE-2023-32653|
+|2023-09-26 03:00:09.458691|CVE-2023-32614|cvss:7 (HIGH)      |(Memory corruption, Buffer Overflow)                                                            |https://www.cve.org/CVERecord?id=CVE-2023-32614|
+|2023-09-26 03:00:10.393044|CVE-2023-32284|cvss:8.1 (HIGH)    |(Memory corruption, out-of-bounds)                                                              |https://www.cve.org/CVERecord?id=CVE-2023-32284|
+|2023-09-26 03:00:11.367186|CVE-2023-28393|cvss:5.6 (MEDIUM)  |(Memory corruption, Buffer Overflow)                                                            |https://www.cve.org/CVERecord?id=CVE-2023-28393|
+|2023-09-26 03:00:12.292666|CVE-2023-23567|cvss:8.1 (HIGH)    |(Arbitrary code execution, Buffer Overflow)                                                     |https://www.cve.org/CVERecord?id=CVE-2023-23567|
+|2023-09-26 03:00:13.184608|CVE-2023-5166 |cvss:8 (HIGH)      |(Docker)                                                                                        |https://www.cve.org/CVERecord?id=CVE-2023-5166 |
+|2023-09-26 03:00:14.067470|CVE-2023-5165 |cvss:7.1 (HIGH)    |(Docker)                                                                                        |https://www.cve.org/CVERecord?id=CVE-2023-5165 |
+|2023-09-26 05:00:05.299043|CVE-2023-43319|cvss:0 (Not_rated) |(XSS, Cross Site Scripting)                                                                     |https://www.cve.org/CVERecord?id=CVE-2023-43319|
+|2023-09-26 05:00:06.263355|CVE-2023-41871|cvss:7.1 (HIGH)    |(XSS, Reflected Cross-Site Scripting, cross-site scripting, Plugin)                             |https://www.cve.org/CVERecord?id=CVE-2023-41871|
+|2023-09-26 05:00:07.193605|CVE-2023-41868|cvss:7.1 (HIGH)    |(XSS, Reflected Cross-Site Scripting, cross-site scripting, Plugin)                             |https://www.cve.org/CVERecord?id=CVE-2023-41868|
+|2023-09-26 05:00:08.114967|CVE-2023-41867|cvss:7.1 (HIGH)    |(XSS, Reflected Cross-Site Scripting, cross-site scripting, Plugin)                             |https://www.cve.org/CVERecord?id=CVE-2023-41867|
+|2023-09-26 05:00:09.068395|CVE-2023-41863|cvss:7.1 (HIGH)    |(XSS, Stored Cross-Site Scripting, cross-site scripting, Plugin)                                |https://www.cve.org/CVERecord?id=CVE-2023-41863|
+|2023-09-26 06:00:04.625202|CVE-2023-43644|cvss:9.1 (CRITICAL)|(crafted request, authentication bypass)                                                        |https://www.cve.org/CVERecord?id=CVE-2023-43644|
+|2023-09-26 06:00:05.552997|CVE-2023-43458|cvss:0 (Not_rated) |(Remote Attack, XSS, Cross Site Scripting, Execute arbitrary code, obtain sensitive information)|https://www.cve.org/CVERecord?id=CVE-2023-43458|
+|2023-09-26 06:00:06.453518|CVE-2022-4244 |cvss:0 (Not_rated) |(Path Traversal, Directory traversal, Critical)                                                 |https://www.cve.org/CVERecord?id=CVE-2022-4244 |
+|2023-09-26 06:00:07.372790|CVE-2022-4137 |cvss:0 (Not_rated) |(XSS, Reflected Cross-Site Scripting, cross-site scripting)                                     |https://www.cve.org/CVERecord?id=CVE-2022-4137 |
+|2023-09-26 07:00:04.967168|CVE-2023-43457|cvss:0 (Not_rated) |(PHP, Remote Attack, Gain Privileges)                                                           |https://www.cve.org/CVERecord?id=CVE-2023-43457|
+|2023-09-26 07:00:05.890291|CVE-2023-43132|cvss:0 (Not_rated) |(PHP, SQL injection)                                                                            |https://www.cve.org/CVERecord?id=CVE-2023-43132|
+|2023-09-26 07:00:06.768974|CVE-2023-42426|cvss:0 (Not_rated) |(Froala Editor, Remote Attack, XSS, cross-site scripting, Execute arbitrary code)               |https://www.cve.org/CVERecord?id=CVE-2023-42426|
+|2023-09-26 07:00:07.663026|CVE-2023-5129 |cvss:10 (CRITICAL) |(out-of-bounds, Out of Bounds)                                                                  |https://www.cve.org/CVERecord?id=CVE-2023-5129 |
+|2023-09-26 08:00:05.440460|CVE-2023-43326|cvss:0 (Not_rated) |(XSS, cross-site scripting)                                                                     |https://www.cve.org/CVERecord?id=CVE-2023-43326|
+|2023-09-26 09:00:05.554269|CVE-2023-43278|cvss:0 (Not_rated) |(PHP)                                                                                           |https://www.cve.org/CVERecord?id=CVE-2023-43278|
+|2023-09-26 11:42:05.969353|CVE-2022-4039 |cvss:0 (Not_rated) |(Red Hat Single Sign-On)                                                                        |https://www.cve.org/CVERecord?id=CVE-2022-4039 |
