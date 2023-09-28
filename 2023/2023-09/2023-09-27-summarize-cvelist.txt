@@ -1,0 +1,7 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id       |cvss_v3  |summary                          |link                                          |
+|--------------------------|-------------|---------|---------------------------------|----------------------------------------------|
+|2023-09-27 02:00:08.856618|CVE-2023-5173|cvss:None|(out-of-bounds, Integer Overflow)|https://www.cve.org/CVERecord?id=CVE-2023-5173|
+|2023-09-27 09:00:11.178877|CVE-2023-5176|cvss:None|(Firefox, Memory corruption)     |https://www.cve.org/CVERecord?id=CVE-2023-5176|
+|2023-09-27 09:00:12.074560|CVE-2023-5174|cvss:None|(Firefox, use-after-free)        |https://www.cve.org/CVERecord?id=CVE-2023-5174|
