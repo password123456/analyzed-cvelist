@@ -1,0 +1,27 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3            |summary                                                         |link                                           |
+|--------------------------|--------------|-------------------|----------------------------------------------------------------|-----------------------------------------------|
+|2023-09-30 00:00:05.963492|CVE-2023-5263 |cvss:6.3 (MEDIUM)  |(PHP, Critical)                                                 |https://www.cve.org/CVERecord?id=CVE-2023-5263 |
+|2023-09-30 00:00:07.636775|CVE-2023-5262 |cvss:6.3 (MEDIUM)  |(PHP, Unrestricted Upload, Critical)                            |https://www.cve.org/CVERecord?id=CVE-2023-5262 |
+|2023-09-30 01:00:05.144745|CVE-2023-5267 |cvss:5.5 (MEDIUM)  |(PHP, SQL injection, Critical)                                  |https://www.cve.org/CVERecord?id=CVE-2023-5267 |
+|2023-09-30 01:00:06.114410|CVE-2023-5266 |cvss:6.3 (MEDIUM)  |(PHP, SQL injection, Critical)                                  |https://www.cve.org/CVERecord?id=CVE-2023-5266 |
+|2023-09-30 01:00:07.123708|CVE-2023-5265 |cvss:5.5 (MEDIUM)  |(PHP, SQL injection, Critical)                                  |https://www.cve.org/CVERecord?id=CVE-2023-5265 |
+|2023-09-30 01:00:08.189533|CVE-2023-5264 |cvss:6.3 (MEDIUM)  |(PHP, SQL injection, Critical)                                  |https://www.cve.org/CVERecord?id=CVE-2023-5264 |
+|2023-09-30 01:00:09.423394|CVE-2023-43740|cvss:9.1 (CRITICAL)|(PHP, Remote code execution, File Upload)                       |https://www.cve.org/CVERecord?id=CVE-2023-43740|
+|2023-09-30 02:00:04.434315|CVE-2023-5268 |cvss:6.3 (MEDIUM)  |(PHP, SQL injection, Critical)                                  |https://www.cve.org/CVERecord?id=CVE-2023-5268 |
+|2023-09-30 03:00:04.114342|CVE-2023-3024 |cvss:5.9 (MEDIUM)  |(Memory access, out-of-bounds)                                  |https://www.cve.org/CVERecord?id=CVE-2023-3024 |
+|2023-09-30 06:00:05.676823|CVE-2023-5285 |cvss:6.3 (MEDIUM)  |(PHP, SQL injection, Critical)                                  |https://www.cve.org/CVERecord?id=CVE-2023-5285 |
+|2023-09-30 06:00:06.784685|CVE-2023-43655|cvss:6.4 (MEDIUM)  |(PHP, Remote code execution)                                    |https://www.cve.org/CVERecord?id=CVE-2023-43655|
+|2023-09-30 07:00:04.741019|CVE-2023-5293 |cvss:4.7 (MEDIUM)  |(PHP, SQL injection, Critical)                                  |https://www.cve.org/CVERecord?id=CVE-2023-5293 |
+|2023-09-30 07:00:05.737943|CVE-2023-5287 |cvss:2.4 (LOW)     |(PHP)                                                           |https://www.cve.org/CVERecord?id=CVE-2023-5287 |
+|2023-09-30 08:00:05.659040|CVE-2023-5297 |cvss:3.7 (LOW)     |(PHP)                                                           |https://www.cve.org/CVERecord?id=CVE-2023-5297 |
+|2023-09-30 08:00:06.839906|CVE-2023-5296 |cvss:4.3 (MEDIUM)  |(PHP)                                                           |https://www.cve.org/CVERecord?id=CVE-2023-5296 |
+|2023-09-30 08:00:08.168742|CVE-2023-5294 |cvss:4.7 (MEDIUM)  |(PHP, SQL injection, Critical)                                  |https://www.cve.org/CVERecord?id=CVE-2023-5294 |
+|2023-09-30 11:00:04.363533|CVE-2023-5320 |cvss:0 (Not_rated) |(PHP, phpmyfaq)                                                 |https://www.cve.org/CVERecord?id=CVE-2023-5320 |
+|2023-09-30 11:00:05.311123|CVE-2023-5319 |cvss:0 (Not_rated) |(PHP, phpmyfaq)                                                 |https://www.cve.org/CVERecord?id=CVE-2023-5319 |
+|2023-09-30 11:00:06.249553|CVE-2023-5317 |cvss:0 (Not_rated) |(PHP, phpmyfaq)                                                 |https://www.cve.org/CVERecord?id=CVE-2023-5317 |
+|2023-09-30 11:00:07.229930|CVE-2023-5316 |cvss:0 (Not_rated) |(PHP, phpmyfaq)                                                 |https://www.cve.org/CVERecord?id=CVE-2023-5316 |
+|2023-09-30 11:00:08.244224|CVE-2023-5227 |cvss:0 (Not_rated) |(PHP, phpmyfaq, Unrestricted Upload)                            |https://www.cve.org/CVERecord?id=CVE-2023-5227 |
+|2023-09-30 16:00:06.024763|CVE-2023-5298 |cvss:5.5 (MEDIUM)  |(PHP, SQL injection, Critical)                                  |https://www.cve.org/CVERecord?id=CVE-2023-5298 |
+|2023-09-30 20:00:05.455402|CVE-2023-5300 |cvss:6.3 (MEDIUM)  |(SQL injection, Critical)                                       |https://www.cve.org/CVERecord?id=CVE-2023-5300 |
