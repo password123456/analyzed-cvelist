@@ -1,0 +1,8 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id       |cvss_v3          |summary|link                                          |
+|--------------------------|-------------|-----------------|-------|----------------------------------------------|
+|2023-10-01 00:00:06.239212|CVE-2023-5303|cvss:3.5 (LOW)   |(PHP)  |https://www.cve.org/CVERecord?id=CVE-2023-5303|
+|2023-10-01 01:00:04.670496|CVE-2023-5313|cvss:5.3 (MEDIUM)|(PHP)  |https://www.cve.org/CVERecord?id=CVE-2023-5313|
+|2023-10-01 01:00:05.564981|CVE-2023-5305|cvss:3.5 (LOW)   |(PHP)  |https://www.cve.org/CVERecord?id=CVE-2023-5305|
+|2023-10-01 01:00:06.465571|CVE-2023-5304|cvss:3.5 (LOW)   |(PHP)  |https://www.cve.org/CVERecord?id=CVE-2023-5304|
