@@ -1,0 +1,17 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3           |summary                                                   |link                                           |
+|--------------------------|--------------|------------------|----------------------------------------------------------|-----------------------------------------------|
+|2023-10-02 07:00:04.452836|CVE-2023-5324 |cvss:4.3 (MEDIUM) |(Denial of service, Critical)                             |https://www.cve.org/CVERecord?id=CVE-2023-5324 |
+|2023-10-02 13:00:04.586015|CVE-2023-32830|cvss:0 (Not_rated)|(Escalation of Privilege, Out of Bounds)                  |https://www.cve.org/CVERecord?id=CVE-2023-32830|
+|2023-10-02 13:00:05.667706|CVE-2023-32829|cvss:0 (Not_rated)|(Escalation of Privilege, Out of Bounds, Integer Overflow)|https://www.cve.org/CVERecord?id=CVE-2023-32829|
+|2023-10-02 13:00:06.675595|CVE-2023-32828|cvss:0 (Not_rated)|(Escalation of Privilege, Out of Bounds, Integer Overflow)|https://www.cve.org/CVERecord?id=CVE-2023-32828|
+|2023-10-02 13:00:07.642133|CVE-2023-32827|cvss:0 (Not_rated)|(Input validation, Escalation of Privilege, Out of Bounds)|https://www.cve.org/CVERecord?id=CVE-2023-32827|
+|2023-10-02 13:00:08.647607|CVE-2023-32826|cvss:0 (Not_rated)|(Input validation, Escalation of Privilege, Out of Bounds)|https://www.cve.org/CVERecord?id=CVE-2023-32826|
+|2023-10-02 13:00:09.667470|CVE-2023-32823|cvss:0 (Not_rated)|(Memory corruption, Escalation of Privilege)              |https://www.cve.org/CVERecord?id=CVE-2023-32823|
+|2023-10-02 13:00:10.680155|CVE-2023-32822|cvss:0 (Not_rated)|(Escalation of Privilege, Out of Bounds)                  |https://www.cve.org/CVERecord?id=CVE-2023-32822|
+|2023-10-02 13:00:11.658913|CVE-2023-32821|cvss:0 (Not_rated)|(Escalation of Privilege, Out of Bounds)                  |https://www.cve.org/CVERecord?id=CVE-2023-32821|
+|2023-10-02 13:00:12.676540|CVE-2023-20819|cvss:0 (Not_rated)|(Escalation of Privilege, Out of Bounds)                  |https://www.cve.org/CVERecord?id=CVE-2023-20819|
+|2023-10-02 15:00:05.255831|CVE-2023-42132|cvss:0 (Not_rated)|(XXE, XML external entity)                                |https://www.cve.org/CVERecord?id=CVE-2023-42132|
+|2023-10-02 18:00:05.285519|CVE-2023-41731|cvss:5.9 (MEDIUM) |(WordPress, Plugin)                                       |https://www.cve.org/CVERecord?id=CVE-2023-41731|
+|2023-10-02 23:00:04.013226|CVE-2023-41580|cvss:0 (Not_rated)|(PHP)                                                     |https://www.cve.org/CVERecord?id=CVE-2023-41580|
