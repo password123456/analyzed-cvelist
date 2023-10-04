@@ -1,0 +1,17 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3            |summary                                                     |link                                           |
+|--------------------------|--------------|-------------------|------------------------------------------------------------|-----------------------------------------------|
+|2023-10-03 00:00:06.117298|CVE-2023-3744 |cvss:9.9 (CRITICAL)|(PHP, Server-side Request Forgery)                          |https://www.cve.org/CVERecord?id=CVE-2023-3744 |
+|2023-10-03 05:00:06.121612|CVE-2023-37605|cvss:0 (Not_rated) |(Denial of service, Buffer Overflow, crafted request)       |https://www.cve.org/CVERecord?id=CVE-2023-37605|
+|2023-10-03 06:00:05.173157|CVE-2023-43835|cvss:0 (Not_rated) |(PHP, Remote code execution, Code Injection)                |https://www.cve.org/CVERecord?id=CVE-2023-43835|
+|2023-10-03 07:00:05.775361|CVE-2023-44009|cvss:0 (Not_rated) |(Remote Attack, File Upload, Execute arbitrary code)        |https://www.cve.org/CVERecord?id=CVE-2023-44009|
+|2023-10-03 07:00:06.811072|CVE-2023-44008|cvss:0 (Not_rated) |(Remote Attack, File Upload, Execute arbitrary code)        |https://www.cve.org/CVERecord?id=CVE-2023-44008|
+|2023-10-03 07:00:07.885872|CVE-2023-43361|cvss:0 (Not_rated) |(Execute arbitrary code, Denial of service, Buffer Overflow)|https://www.cve.org/CVERecord?id=CVE-2023-43361|
+|2023-10-03 08:00:05.329273|CVE-2023-44012|cvss:0 (Not_rated) |(Remote Attack, Execute arbitrary code)                     |https://www.cve.org/CVERecord?id=CVE-2023-44012|
+|2023-10-03 08:00:06.630420|CVE-2023-44011|cvss:0 (Not_rated) |(Remote Attack, Execute arbitrary code)                     |https://www.cve.org/CVERecord?id=CVE-2023-44011|
+|2023-10-03 09:00:06.574048|CVE-2023-43980|cvss:0 (Not_rated) |(PHP, SQL injection)                                        |https://www.cve.org/CVERecord?id=CVE-2023-43980|
+|2023-10-03 10:00:06.253990|CVE-2023-36628|cvss:8.8 (HIGH)    |(Vmware, Privilege Escalation)                              |https://www.cve.org/CVERecord?id=CVE-2023-36628|
+|2023-10-03 13:00:04.964728|CVE-2023-5345 |cvss:7.8 (HIGH)    |(use-after-free, Privilege Escalation)                      |https://www.cve.org/CVERecord?id=CVE-2023-5345 |
+|2023-10-03 22:00:04.456336|CVE-2023-4103 |cvss:8.8 (HIGH)    |(SQL injection, Information disclosure)                     |https://www.cve.org/CVERecord?id=CVE-2023-4103 |
+|2023-10-03 22:00:05.361534|CVE-2023-4098 |cvss:8.8 (HIGH)    |(SQL injection, Information disclosure)                     |https://www.cve.org/CVERecord?id=CVE-2023-4098 |
