@@ -1,0 +1,14 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3            |summary                                           |link                                           |
+|--------------------------|--------------|-------------------|--------------------------------------------------|-----------------------------------------------|
+|2023-10-04 00:00:08.624921|CVE-2023-2544 |cvss:5.3 (MEDIUM)  |(PHP)                                             |https://www.cve.org/CVERecord?id=CVE-2023-2544 |
+|2023-10-04 01:00:04.461683|CVE-2023-4882 |cvss:7.5 (HIGH)    |(PHP)                                             |https://www.cve.org/CVERecord?id=CVE-2023-4882 |
+|2023-10-04 07:00:04.638602|CVE-2023-44974|cvss:0 (Not_rated) |(PHP, File Upload, Execute arbitrary code, Plugin)|https://www.cve.org/CVERecord?id=CVE-2023-44974|
+|2023-10-04 07:00:05.574235|CVE-2023-44973|cvss:0 (Not_rated) |(PHP, File Upload, Execute arbitrary code)        |https://www.cve.org/CVERecord?id=CVE-2023-44973|
+|2023-10-04 07:00:06.474525|CVE-2023-39645|cvss:0 (Not_rated) |(PHP, SQL injection)                              |https://www.cve.org/CVERecord?id=CVE-2023-39645|
+|2023-10-04 18:00:06.825776|CVE-2023-4911 |cvss:0 (Not_rated) |(Buffer Overflow, GLIBC_TUNABLES)                 |https://www.cve.org/CVERecord?id=CVE-2023-4911 |
+|2023-10-04 22:00:04.421652|CVE-2023-3361 |cvss:0 (Not_rated) |(Kubernetes)                                      |https://www.cve.org/CVERecord?id=CVE-2023-3361 |
+|2023-10-04 22:00:05.407930|CVE-2023-3038 |cvss:9.8 (CRITICAL)|(Remote Attack, SQL injection)                    |https://www.cve.org/CVERecord?id=CVE-2023-3038 |
+|2023-10-04 23:00:05.791008|CVE-2023-4494 |cvss:9.8 (CRITICAL)|(Arbitrary code execution, Buffer Overflow)       |https://www.cve.org/CVERecord?id=CVE-2023-4494 |
+|2023-10-04 23:00:06.851948|CVE-2023-4491 |cvss:9.8 (CRITICAL)|(Arbitrary code execution, Buffer Overflow)       |https://www.cve.org/CVERecord?id=CVE-2023-4491 |
