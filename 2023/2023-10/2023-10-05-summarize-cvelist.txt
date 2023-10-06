@@ -1,0 +1,19 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3            |summary                                                      |link                                           |
+|--------------------------|--------------|-------------------|-------------------------------------------------------------|-----------------------------------------------|
+|2023-10-05 00:00:06.827496|CVE-2023-22515|cvss:0 (Not_rated) |(Atlassian)                                                  |https://www.cve.org/CVERecord?id=CVE-2023-22515|
+|2023-10-05 01:00:04.409835|CVE-2023-3665 |cvss:5.5 (MEDIUM)  |(Code Injection, Denial of service)                          |https://www.cve.org/CVERecord?id=CVE-2023-3665 |
+|2023-10-05 02:00:05.665467|CVE-2023-43838|cvss:0 (Not_rated) |(File Upload, Execute arbitrary code)                        |https://www.cve.org/CVERecord?id=CVE-2023-43838|
+|2023-10-05 02:00:06.724472|CVE-2022-36276|cvss:9.9 (CRITICAL)|(Remote Attack, SQL injection)                               |https://www.cve.org/CVERecord?id=CVE-2022-36276|
+|2023-10-05 03:00:04.392951|CVE-2023-20259|cvss:8.6 (HIGH)    |(Remote Attack, Denial of service)                           |https://www.cve.org/CVERecord?id=CVE-2023-20259|
+|2023-10-05 03:00:05.357763|CVE-2023-20101|cvss:9.8 (CRITICAL)|(Remote Attack, Arbitrary Command, Execute arbitrary command)|https://www.cve.org/CVERecord?id=CVE-2023-20101|
+|2023-10-05 05:00:05.172837|CVE-2023-42448|cvss:8.1 (HIGH)    |(Redis)                                                      |https://www.cve.org/CVERecord?id=CVE-2023-42448|
+|2023-10-05 05:00:06.183028|CVE-2023-39191|cvss:0 (Not_rated) |(Execute arbitrary code, Input validation)                   |https://www.cve.org/CVERecord?id=CVE-2023-39191|
+|2023-10-05 05:00:07.175802|CVE-2023-3576 |cvss:0 (Not_rated) |(Libtiff, Denial of service)                                 |https://www.cve.org/CVERecord?id=CVE-2023-3576 |
+|2023-10-05 05:00:08.160518|CVE-2023-3428 |cvss:0 (Not_rated) |(ImageMagick, Denial of service, Buffer Overflow)            |https://www.cve.org/CVERecord?id=CVE-2023-3428 |
+|2023-10-05 06:00:06.650846|CVE-2023-42809|cvss:9.7 (CRITICAL)|(Redis, Execute arbitrary code)                              |https://www.cve.org/CVERecord?id=CVE-2023-42809|
+|2023-10-05 07:00:04.425042|CVE-2023-43809|cvss:7.5 (HIGH)    |(Remote Attack, Insufficient Validation)                     |https://www.cve.org/CVERecord?id=CVE-2023-43809|
+|2023-10-05 07:00:05.423990|CVE-2023-43799|cvss:5 (MEDIUM)    |(GraphQL)                                                    |https://www.cve.org/CVERecord?id=CVE-2023-43799|
+|2023-10-05 08:00:05.643610|CVE-2023-43321|cvss:0 (Not_rated) |(File Upload, Execute arbitrary code)                        |https://www.cve.org/CVERecord?id=CVE-2023-43321|
+|2023-10-05 16:00:07.124927|CVE-2023-4237 |cvss:0 (Not_rated) |(Ansible Automation Platform)                                |https://www.cve.org/CVERecord?id=CVE-2023-4237 |
