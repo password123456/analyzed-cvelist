@@ -1,0 +1,17 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3            |summary                                                                         |link                                           |
+|--------------------------|--------------|-------------------|--------------------------------------------------------------------------------|-----------------------------------------------|
+|2023-10-06 04:00:05.536114|CVE-2023-5346 |cvss:0 (Not_rated) |(Google Chrome, Remote Attack, Type confusion, Heap corruption)                 |https://www.cve.org/CVERecord?id=CVE-2023-5346 |
+|2023-10-06 04:00:06.460669|CVE-2023-43073|cvss:4.3 (MEDIUM)  |(Remote Attack, Input validation)                                               |https://www.cve.org/CVERecord?id=CVE-2023-43073|
+|2023-10-06 04:00:07.377917|CVE-2023-43069|cvss:7.8 (HIGH)    |(Docker, Command injection)                                                     |https://www.cve.org/CVERecord?id=CVE-2023-43069|
+|2023-10-06 04:00:08.352202|CVE-2023-43068|cvss:7.8 (HIGH)    |(Command injection, Remote Attack, Arbitrary Command, Execute arbitrary command)|https://www.cve.org/CVERecord?id=CVE-2023-43068|
+|2023-10-06 05:00:04.996552|CVE-2023-42755|cvss:0 (Not_rated) |(Denial of service, out-of-bounds)                                              |https://www.cve.org/CVERecord?id=CVE-2023-42755|
+|2023-10-06 05:00:05.944754|CVE-2023-41175|cvss:0 (Not_rated) |(Libtiff, Remote Attack, Denial of service, Buffer Overflow, Integer Overflow)  |https://www.cve.org/CVERecord?id=CVE-2023-41175|
+|2023-10-06 05:00:06.946116|CVE-2023-40745|cvss:0 (Not_rated) |(Libtiff, Remote Attack, Denial of service, Buffer Overflow, Integer Overflow)  |https://www.cve.org/CVERecord?id=CVE-2023-40745|
+|2023-10-06 05:00:07.853070|CVE-2023-32485|cvss:9.8 (CRITICAL)|(Input validation, Critical)                                                    |https://www.cve.org/CVERecord?id=CVE-2023-32485|
+|2023-10-06 06:00:05.239919|CVE-2023-44024|cvss:0 (Not_rated) |(PHP, Remote Attack, SQL injection, Execute arbitrary code, crafted request)    |https://www.cve.org/CVERecord?id=CVE-2023-44024|
+|2023-10-06 06:00:06.156023|CVE-2023-43981|cvss:0 (Not_rated) |(PHP)                                                                           |https://www.cve.org/CVERecord?id=CVE-2023-43981|
+|2023-10-06 06:00:07.083966|CVE-2023-43983|cvss:0 (Not_rated) |(PHP, SQL injection)                                                            |https://www.cve.org/CVERecord?id=CVE-2023-43983|
+|2023-10-06 15:00:04.958410|CVE-2023-26153|cvss:8.3 (HIGH)    |(Command injection, Execute command)                                            |https://www.cve.org/CVERecord?id=CVE-2023-26153|
+|2023-10-06 20:00:05.860837|CVE-2023-4530 |cvss:9.8 (CRITICAL)|(SQL injection, Improper Neutralization)                                        |https://www.cve.org/CVERecord?id=CVE-2023-4530 |
