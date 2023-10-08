@@ -1,0 +1,14 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3            |summary                                                      |link                                           |
+|--------------------------|--------------|-------------------|-------------------------------------------------------------|-----------------------------------------------|
+|2023-10-07 00:00:06.754471|CVE-2023-38703|cvss:9.8 (CRITICAL)|(use-after-free, Memory corruption)                          |https://www.cve.org/CVERecord?id=CVE-2023-38703|
+|2023-10-07 02:00:04.558141|CVE-2023-44233|cvss:5.4 (MEDIUM)  |(WordPress, Plugin)                                          |https://www.cve.org/CVERecord?id=CVE-2023-44233|
+|2023-10-07 02:00:05.677326|CVE-2023-39928|cvss:8.8 (HIGH)    |(use-after-free, Arbitrary code execution, Memory corruption)|https://www.cve.org/CVERecord?id=CVE-2023-39928|
+|2023-10-07 04:00:05.177786|CVE-2023-45239|cvss:0 (Not_rated) |(Remote code execution, Input validation)                    |https://www.cve.org/CVERecord?id=CVE-2023-45239|
+|2023-10-07 05:00:05.524908|CVE-2023-21252|cvss:0 (Not_rated) |(Input validation, Denial of service)                        |https://www.cve.org/CVERecord?id=CVE-2023-21252|
+|2023-10-07 08:00:04.844806|CVE-2023-45322|cvss:0 (Not_rated) |(use-after-free, Critical)                                   |https://www.cve.org/CVERecord?id=CVE-2023-45322|
+|2023-10-07 09:00:06.064956|CVE-2023-44860|cvss:0 (Not_rated) |(Remote Attack, Denial of service)                           |https://www.cve.org/CVERecord?id=CVE-2023-44860|
+|2023-10-07 09:00:07.116205|CVE-2023-44061|cvss:0 (Not_rated) |(Remote Attack, File Upload, Execute arbitrary code)         |https://www.cve.org/CVERecord?id=CVE-2023-44061|
+|2023-10-07 10:00:05.141768|CVE-2023-36123|cvss:0 (Not_rated) |(Execute arbitrary code, Directory traversal)                |https://www.cve.org/CVERecord?id=CVE-2023-36123|
+|2023-10-07 11:00:05.328156|CVE-2023-45199|cvss:0 (Not_rated) |(Remote code execution, Buffer Overflow)                     |https://www.cve.org/CVERecord?id=CVE-2023-45199|
