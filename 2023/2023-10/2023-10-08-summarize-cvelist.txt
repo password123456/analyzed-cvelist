@@ -1,0 +1,7 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3           |summary                                             |link                                           |
+|--------------------------|--------------|------------------|----------------------------------------------------|-----------------------------------------------|
+|2023-10-08 14:00:04.358471|CVE-2023-40632|cvss:0 (Not_rated)|(Use after free, Information disclosure)            |https://www.cve.org/CVERecord?id=CVE-2023-40632|
+|2023-10-08 15:00:04.660312|CVE-2023-40652|cvss:0 (Not_rated)|(Input validation, Denial of service, Out of Bounds)|https://www.cve.org/CVERecord?id=CVE-2023-40652|
+|2023-10-08 15:00:05.545275|CVE-2023-40651|cvss:0 (Not_rated)|(Denial of service, Out of Bounds)                  |https://www.cve.org/CVERecord?id=CVE-2023-40651|
