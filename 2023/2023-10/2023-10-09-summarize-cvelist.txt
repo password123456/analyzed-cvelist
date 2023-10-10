@@ -1,0 +1,11 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3           |summary                                 |link                                           |
+|--------------------------|--------------|------------------|----------------------------------------|-----------------------------------------------|
+|2023-10-09 14:00:05.112001|CVE-2023-45354|cvss:0 (Not_rated)|(Remote Attack, Execute arbitrary code) |https://www.cve.org/CVERecord?id=CVE-2023-45354|
+|2023-10-09 14:00:06.077747|CVE-2023-45352|cvss:0 (Not_rated)|(Path Traversal, Execute arbitrary code)|https://www.cve.org/CVERecord?id=CVE-2023-45352|
+|2023-10-09 15:00:05.857193|CVE-2023-45367|cvss:0 (Not_rated)|(PHP, Denial of service)                |https://www.cve.org/CVERecord?id=CVE-2023-45367|
+|2023-10-09 15:00:06.878262|CVE-2023-45364|cvss:0 (Not_rated)|(PHP)                                   |https://www.cve.org/CVERecord?id=CVE-2023-45364|
+|2023-10-09 15:00:07.854201|CVE-2023-45363|cvss:0 (Not_rated)|(PHP, Denial of service)                |https://www.cve.org/CVERecord?id=CVE-2023-45363|
+|2023-10-09 22:00:07.888990|CVE-2023-43696|cvss:8.2 (HIGH)   |(Remote Attack, Improper access control)|https://www.cve.org/CVERecord?id=CVE-2023-43696|
+|2023-10-09 23:00:04.738527|CVE-2023-43698|cvss:7.1 (HIGH)   |(Remote Attack, Improper Neutralization)|https://www.cve.org/CVERecord?id=CVE-2023-43698|
