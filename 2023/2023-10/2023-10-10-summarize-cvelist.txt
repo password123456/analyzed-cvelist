@@ -1,0 +1,25 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3            |summary                                                |link                                           |
+|--------------------------|--------------|-------------------|-------------------------------------------------------|-----------------------------------------------|
+|2023-10-10 01:00:05.042497|CVE-2023-44393|cvss:9.3 (CRITICAL)|(PHP, Plugin)                                          |https://www.cve.org/CVERecord?id=CVE-2023-44393|
+|2023-10-10 02:00:04.145016|CVE-2023-41047|cvss:6.2 (MEDIUM)  |(Arbitrary Command, Execute arbitrary command)         |https://www.cve.org/CVERecord?id=CVE-2023-41047|
+|2023-10-10 02:00:05.123953|CVE-2023-5365 |cvss:0 (Not_rated) |(Information disclosure, Escalation of Privilege)      |https://www.cve.org/CVERecord?id=CVE-2023-5365 |
+|2023-10-10 04:00:05.358274|CVE-2023-39194|cvss:0 (Not_rated) |(Information disclosure, out-of-bounds)                |https://www.cve.org/CVERecord?id=CVE-2023-39194|
+|2023-10-10 04:00:06.823262|CVE-2023-39193|cvss:0 (Not_rated) |(Information disclosure, out-of-bounds)                |https://www.cve.org/CVERecord?id=CVE-2023-39193|
+|2023-10-10 04:00:07.950110|CVE-2023-39192|cvss:0 (Not_rated) |(Information disclosure, out-of-bounds)                |https://www.cve.org/CVERecord?id=CVE-2023-39192|
+|2023-10-10 04:00:08.876738|CVE-2023-39189|cvss:0 (Not_rated) |(Information disclosure, out-of-bounds)                |https://www.cve.org/CVERecord?id=CVE-2023-39189|
+|2023-10-10 05:00:04.873750|CVE-2023-41670|cvss:5.4 (MEDIUM)  |(memcached, Plugin)                                    |https://www.cve.org/CVERecord?id=CVE-2023-41670|
+|2023-10-10 05:00:05.993194|CVE-2023-5459 |cvss:6.5 (MEDIUM)  |(Denial of service, Critical)                          |https://www.cve.org/CVERecord?id=CVE-2023-5459 |
+|2023-10-10 06:00:05.057678|CVE-2023-44821|cvss:0 (Not_rated) |(Remote Attack, Denial of service, Buffer Overflow)    |https://www.cve.org/CVERecord?id=CVE-2023-44821|
+|2023-10-10 06:00:06.109745|CVE-2023-44392|cvss:8.3 (HIGH)    |(Kubernetes, Remote code execution, Code Injection)    |https://www.cve.org/CVERecord?id=CVE-2023-44392|
+|2023-10-10 08:00:05.553472|CVE-2023-5462 |cvss:6.5 (MEDIUM)  |(Denial of service, Critical)                          |https://www.cve.org/CVERecord?id=CVE-2023-5462 |
+|2023-10-10 11:00:05.054138|CVE-2023-5471 |cvss:6.3 (MEDIUM)  |(PHP, SQL injection, Critical)                         |https://www.cve.org/CVERecord?id=CVE-2023-5471 |
+|2023-10-10 12:00:06.123875|CVE-2023-41365|cvss:4.3 (MEDIUM)  |(XXE, XXE injection, Information disclosure)           |https://www.cve.org/CVERecord?id=CVE-2023-41365|
+|2023-10-10 13:00:04.832764|CVE-2023-42189|cvss:0 (Not_rated) |(Remote Attack, Insecure permission, Denial of service)|https://www.cve.org/CVERecord?id=CVE-2023-42189|
+|2023-10-10 21:00:04.796685|CVE-2023-43625|cvss:9.8 (CRITICAL)|(Remote Attack, Execute arbitrary code)                |https://www.cve.org/CVERecord?id=CVE-2023-43625|
+|2023-10-10 21:00:05.825659|CVE-2023-42796|cvss:7.5 (HIGH)    |(Remote Attack, Traverse Directories)                  |https://www.cve.org/CVERecord?id=CVE-2023-42796|
+|2023-10-10 21:00:06.824188|CVE-2023-37195|cvss:4.4 (MEDIUM)  |(Memory access, Denial of service)                     |https://www.cve.org/CVERecord?id=CVE-2023-37195|
+|2023-10-10 21:00:07.758803|CVE-2023-37194|cvss:6.7 (MEDIUM)  |(Memory access, Execute arbitrary code)                |https://www.cve.org/CVERecord?id=CVE-2023-37194|
+|2023-10-10 23:00:10.434138|CVE-2023-43787|cvss:0 (Not_rated) |(Execute arbitrary code, Integer Overflow)             |https://www.cve.org/CVERecord?id=CVE-2023-43787|
+|2023-10-10 23:00:11.388236|CVE-2023-41373|cvss:8.8 (HIGH)    |(Execute command, Directory traversal)                 |https://www.cve.org/CVERecord?id=CVE-2023-41373|
