@@ -1,0 +1,50 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3            |summary                                                                  |link                                           |
+|--------------------------|--------------|-------------------|-------------------------------------------------------------------------|-----------------------------------------------|
+|2023-10-12 02:00:05.412970|CVE-2023-35968|cvss:9.8 (CRITICAL)|(Buffer Overflow, Integer Overflow)                                      |https://www.cve.org/CVERecord?id=CVE-2023-35968|
+|2023-10-12 02:00:06.373550|CVE-2023-35967|cvss:9.8 (CRITICAL)|(Buffer Overflow, Integer Overflow)                                      |https://www.cve.org/CVERecord?id=CVE-2023-35967|
+|2023-10-12 02:00:07.376296|CVE-2023-35966|cvss:9.8 (CRITICAL)|(Buffer Overflow, Integer Overflow)                                      |https://www.cve.org/CVERecord?id=CVE-2023-35966|
+|2023-10-12 02:00:08.330960|CVE-2023-35965|cvss:9.8 (CRITICAL)|(Buffer Overflow, Integer Overflow)                                      |https://www.cve.org/CVERecord?id=CVE-2023-35965|
+|2023-10-12 02:00:09.348846|CVE-2023-35056|cvss:8.8 (HIGH)    |(Command execution, Buffer Overflow)                                     |https://www.cve.org/CVERecord?id=CVE-2023-35056|
+|2023-10-12 02:00:10.357497|CVE-2023-35055|cvss:8.8 (HIGH)    |(Command execution, Buffer Overflow)                                     |https://www.cve.org/CVERecord?id=CVE-2023-35055|
+|2023-10-12 02:00:11.364917|CVE-2023-34356|cvss:7.2 (HIGH)    |(Command injection, Command execution)                                   |https://www.cve.org/CVERecord?id=CVE-2023-34356|
+|2023-10-12 02:00:12.243686|CVE-2023-27380|cvss:7.2 (HIGH)    |(Command injection, Command execution)                                   |https://www.cve.org/CVERecord?id=CVE-2023-27380|
+|2023-10-12 02:00:13.236652|CVE-2023-24479|cvss:9.8 (CRITICAL)|(Command execution, Arbitrary Command, Authentication bypass)            |https://www.cve.org/CVERecord?id=CVE-2023-24479|
+|2023-10-12 02:00:14.192798|CVE-2023-34346|cvss:9.8 (CRITICAL)|(Command execution, Buffer Overflow)                                     |https://www.cve.org/CVERecord?id=CVE-2023-34346|
+|2023-10-12 02:00:15.142497|CVE-2023-28381|cvss:7.2 (HIGH)    |(Command injection, Command execution)                                   |https://www.cve.org/CVERecord?id=CVE-2023-28381|
+|2023-10-12 05:00:05.518456|CVE-2023-44962|cvss:0 (Not_rated) |(Remote Attack, File Upload)                                             |https://www.cve.org/CVERecord?id=CVE-2023-44962|
+|2023-10-12 05:00:06.450541|CVE-2023-44961|cvss:0 (Not_rated) |(Remote Attack, SQL injection, obtain sensitive information)             |https://www.cve.org/CVERecord?id=CVE-2023-44961|
+|2023-10-12 05:00:07.454527|CVE-2023-35645|cvss:0 (Not_rated) |(Memory corruption, Escalation of Privilege)                             |https://www.cve.org/CVERecord?id=CVE-2023-35645|
+|2023-10-12 06:00:05.131985|CVE-2023-40141|cvss:0 (Not_rated) |(Escalation of Privilege, Out of Bounds)                                 |https://www.cve.org/CVERecord?id=CVE-2023-40141|
+|2023-10-12 06:00:06.071629|CVE-2023-35661|cvss:0 (Not_rated) |(Information disclosure, Out of Bounds)                                  |https://www.cve.org/CVERecord?id=CVE-2023-35661|
+|2023-10-12 06:00:06.972468|CVE-2023-35655|cvss:0 (Not_rated) |(Escalation of Privilege, Buffer Overflow, Out of Bounds)                |https://www.cve.org/CVERecord?id=CVE-2023-35655|
+|2023-10-12 06:00:07.954158|CVE-2023-35662|cvss:0 (Not_rated) |(Remote code execution, Buffer Overflow, Out of Bounds)                  |https://www.cve.org/CVERecord?id=CVE-2023-35662|
+|2023-10-12 06:00:08.875774|CVE-2023-35660|cvss:0 (Not_rated) |(Use after free, Escalation of Privilege)                                |https://www.cve.org/CVERecord?id=CVE-2023-35660|
+|2023-10-12 06:00:09.799066|CVE-2023-35654|cvss:0 (Not_rated) |(Escalation of Privilege, Out of Bounds)                                 |https://www.cve.org/CVERecord?id=CVE-2023-35654|
+|2023-10-12 06:00:10.739028|CVE-2023-35649|cvss:0 (Not_rated) |(Remote code execution, Out of Bounds)                                   |https://www.cve.org/CVERecord?id=CVE-2023-35649|
+|2023-10-12 06:00:11.640944|CVE-2023-35646|cvss:0 (Not_rated) |(Remote code execution, Buffer Overflow)                                 |https://www.cve.org/CVERecord?id=CVE-2023-35646|
+|2023-10-12 07:00:05.351304|CVE-2023-45132|cvss:9.1 (CRITICAL)|(Nginx)                                                                  |https://www.cve.org/CVERecord?id=CVE-2023-45132|
+|2023-10-12 07:00:06.470934|CVE-2023-3781 |cvss:0 (Not_rated) |(use-after-free, Escalation of Privilege)                                |https://www.cve.org/CVERecord?id=CVE-2023-3781 |
+|2023-10-12 08:00:05.569108|CVE-2023-44188|cvss:5.3 (MEDIUM)  |(Denial of service, Race Condition)                                      |https://www.cve.org/CVERecord?id=CVE-2023-44188|
+|2023-10-12 08:00:06.932356|CVE-2023-44186|cvss:7.5 (HIGH)    |(Denial of service, Improper Handling of Exception)                      |https://www.cve.org/CVERecord?id=CVE-2023-44186|
+|2023-10-12 09:00:05.987283|CVE-2023-5487 |cvss:0 (Not_rated) |(Google Chrome, Inappropriate implementation)                            |https://www.cve.org/CVERecord?id=CVE-2023-5487 |
+|2023-10-12 09:00:06.915073|CVE-2023-5486 |cvss:0 (Not_rated) |(Google Chrome, Remote Attack, Inappropriate implementation)             |https://www.cve.org/CVERecord?id=CVE-2023-5486 |
+|2023-10-12 09:00:07.981559|CVE-2023-5485 |cvss:0 (Not_rated) |(Google Chrome, Remote Attack, Inappropriate implementation)             |https://www.cve.org/CVERecord?id=CVE-2023-5485 |
+|2023-10-12 09:00:08.979346|CVE-2023-5484 |cvss:0 (Not_rated) |(Google Chrome, Remote Attack, Inappropriate implementation)             |https://www.cve.org/CVERecord?id=CVE-2023-5484 |
+|2023-10-12 09:00:09.990385|CVE-2023-5483 |cvss:0 (Not_rated) |(Google Chrome, Remote Attack, Inappropriate implementation)             |https://www.cve.org/CVERecord?id=CVE-2023-5483 |
+|2023-10-12 09:00:10.987592|CVE-2023-5481 |cvss:0 (Not_rated) |(Google Chrome, Remote Attack, Inappropriate implementation)             |https://www.cve.org/CVERecord?id=CVE-2023-5481 |
+|2023-10-12 09:00:11.959546|CVE-2023-5479 |cvss:0 (Not_rated) |(Google Chrome, Inappropriate implementation)                            |https://www.cve.org/CVERecord?id=CVE-2023-5479 |
+|2023-10-12 09:00:12.954116|CVE-2023-5478 |cvss:0 (Not_rated) |(Google Chrome, Remote Attack, Inappropriate implementation)             |https://www.cve.org/CVERecord?id=CVE-2023-5478 |
+|2023-10-12 09:00:13.968990|CVE-2023-5477 |cvss:0 (Not_rated) |(Google Chrome, Inappropriate implementation)                            |https://www.cve.org/CVERecord?id=CVE-2023-5477 |
+|2023-10-12 09:00:14.966997|CVE-2023-5476 |cvss:0 (Not_rated) |(Google Chrome, Use after free, Remote Attack, Heap corruption)          |https://www.cve.org/CVERecord?id=CVE-2023-5476 |
+|2023-10-12 09:00:15.986390|CVE-2023-5475 |cvss:0 (Not_rated) |(Google Chrome, Inappropriate implementation)                            |https://www.cve.org/CVERecord?id=CVE-2023-5475 |
+|2023-10-12 09:00:16.927959|CVE-2023-5474 |cvss:0 (Not_rated) |(Google Chrome, Remote Attack, Buffer Overflow, Heap corruption)         |https://www.cve.org/CVERecord?id=CVE-2023-5474 |
+|2023-10-12 09:00:17.945798|CVE-2023-5473 |cvss:0 (Not_rated) |(Google Chrome, Use after free, Remote Attack, Heap corruption)          |https://www.cve.org/CVERecord?id=CVE-2023-5473 |
+|2023-10-12 09:00:18.922964|CVE-2023-5218 |cvss:0 (Not_rated) |(Google Chrome, Use after free, Remote Attack, Critical, Heap corruption)|https://www.cve.org/CVERecord?id=CVE-2023-5218 |
+|2023-10-12 09:00:33.499227|CVE-2023-3961 |cvss:None          |(Samba, Directory traversal, Denial of service)                          |https://www.cve.org/CVERecord?id=CVE-2023-3961 |
+|2023-10-12 16:00:05.291425|CVE-2023-40833|cvss:0 (Not_rated) |(Remote Attack, Gain Privileges)                                         |https://www.cve.org/CVERecord?id=CVE-2023-40833|
+|2023-10-12 22:00:04.134441|CVE-2023-23737|cvss:9.3 (CRITICAL)|(SQL injection, Plugin)                                                  |https://www.cve.org/CVERecord?id=CVE-2023-23737|
+|2023-10-12 22:00:05.135120|CVE-2023-23651|cvss:8.5 (HIGH)    |(SQL injection, Plugin)                                                  |https://www.cve.org/CVERecord?id=CVE-2023-23651|
+|2023-10-12 22:00:06.060708|CVE-2023-5046 |cvss:10 (CRITICAL) |(SQL injection, Improper Neutralization)                                 |https://www.cve.org/CVERecord?id=CVE-2023-5046 |
+|2023-10-12 22:00:07.076231|CVE-2023-5045 |cvss:10 (CRITICAL) |(SQL injection, Improper Neutralization)                                 |https://www.cve.org/CVERecord?id=CVE-2023-5045 |
