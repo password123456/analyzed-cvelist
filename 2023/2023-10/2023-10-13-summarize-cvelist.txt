@@ -1,0 +1,50 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3            |summary                                                           |link                                           |
+|--------------------------|--------------|-------------------|------------------------------------------------------------------|-----------------------------------------------|
+|2023-10-13 02:00:05.520585|CVE-2023-43147|cvss:0 (Not_rated) |(PHP)                                                             |https://www.cve.org/CVERecord?id=CVE-2023-43147|
+|2023-10-13 02:00:06.539773|CVE-2023-22308|cvss:7.5 (HIGH)    |(Denial of service, Integer Underflow)                            |https://www.cve.org/CVERecord?id=CVE-2023-22308|
+|2023-10-13 02:00:07.486117|CVE-2023-27395|cvss:9 (CRITICAL)  |(Arbitrary code execution, Buffer Overflow)                       |https://www.cve.org/CVERecord?id=CVE-2023-27395|
+|2023-10-13 03:00:04.367344|CVE-2023-45143|cvss:3.9 (LOW)     |(Node.js)                                                         |https://www.cve.org/CVERecord?id=CVE-2023-45143|
+|2023-10-13 03:00:05.388417|CVE-2023-45138|cvss:10 (CRITICAL) |(Remote code execution, Critical)                                 |https://www.cve.org/CVERecord?id=CVE-2023-45138|
+|2023-10-13 03:00:06.305854|CVE-2023-45133|cvss:9.4 (CRITICAL)|(Arbitrary code execution, Plugin)                                |https://www.cve.org/CVERecord?id=CVE-2023-45133|
+|2023-10-13 05:00:05.872868|CVE-2023-27312|cvss:5.4 (MEDIUM)  |(Vmware, Plugin)                                                  |https://www.cve.org/CVERecord?id=CVE-2023-27312|
+|2023-10-13 09:00:05.687665|CVE-2023-36839|cvss:6.5 (MEDIUM)  |(Denial of service, Improper Validation)                          |https://www.cve.org/CVERecord?id=CVE-2023-36839|
+|2023-10-13 10:00:05.046194|CVE-2023-44201|cvss:5 (MEDIUM)    |(Privilege Escalation, Critical)                                  |https://www.cve.org/CVERecord?id=CVE-2023-44201|
+|2023-10-13 10:00:06.123478|CVE-2023-44197|cvss:7.5 (HIGH)    |(Denial of service, out-of-bounds)                                |https://www.cve.org/CVERecord?id=CVE-2023-44197|
+|2023-10-13 10:00:07.121785|CVE-2023-44192|cvss:7.5 (HIGH)    |(Input validation, Denial of service)                             |https://www.cve.org/CVERecord?id=CVE-2023-44192|
+|2023-10-13 10:00:08.054904|CVE-2023-44185|cvss:7.5 (HIGH)    |(Input validation, Denial of service)                             |https://www.cve.org/CVERecord?id=CVE-2023-44185|
+|2023-10-13 10:00:09.033488|CVE-2023-44182|cvss:7.3 (HIGH)    |(Elevation of privilege, Privilege Escalation)                    |https://www.cve.org/CVERecord?id=CVE-2023-44182|
+|2023-10-13 10:00:10.036909|CVE-2023-44178|cvss:5.5 (MEDIUM)  |(Denial of service, Buffer Overflow)                              |https://www.cve.org/CVERecord?id=CVE-2023-44178|
+|2023-10-13 10:00:11.025178|CVE-2023-44177|cvss:5.5 (MEDIUM)  |(Denial of service, Buffer Overflow)                              |https://www.cve.org/CVERecord?id=CVE-2023-44177|
+|2023-10-13 10:00:12.027382|CVE-2023-44176|cvss:5.5 (MEDIUM)  |(Denial of service, Buffer Overflow)                              |https://www.cve.org/CVERecord?id=CVE-2023-44176|
+|2023-10-13 11:00:05.377118|CVE-2023-44204|cvss:6.5 (MEDIUM)  |(Denial of service, Improper Validation)                          |https://www.cve.org/CVERecord?id=CVE-2023-44204|
+|2023-10-13 16:43:01.068382|CVE-2023-38250|cvss:8 (HIGH)      |(SQL injection, Arbitrary code execution, Improper Neutralization)|https://www.cve.org/CVERecord?id=CVE-2023-38250|
+|2023-10-13 16:43:01.979397|CVE-2023-38249|cvss:8 (HIGH)      |(SQL injection, Arbitrary code execution, Improper Neutralization)|https://www.cve.org/CVERecord?id=CVE-2023-38249|
+|2023-10-13 16:43:02.849036|CVE-2023-38221|cvss:8 (HIGH)      |(SQL injection, Arbitrary code execution, Improper Neutralization)|https://www.cve.org/CVERecord?id=CVE-2023-38221|
+|2023-10-13 16:43:03.737829|CVE-2023-38218|cvss:8.8 (HIGH)    |(Input validation, Privilege Escalation)                          |https://www.cve.org/CVERecord?id=CVE-2023-38218|
+|2023-10-13 17:00:04.961428|CVE-2023-44203|cvss:6.5 (MEDIUM)  |(Juniper Networks, Denial of service)                             |https://www.cve.org/CVERecord?id=CVE-2023-44203|
+|2023-10-13 17:00:05.887415|CVE-2023-44199|cvss:7.5 (HIGH)    |(Juniper Networks, Denial of service)                             |https://www.cve.org/CVERecord?id=CVE-2023-44199|
+|2023-10-13 17:00:06.764411|CVE-2023-44198|cvss:5.8 (MEDIUM)  |(Juniper Networks)                                                |https://www.cve.org/CVERecord?id=CVE-2023-44198|
+|2023-10-13 17:00:07.725765|CVE-2023-44196|cvss:6.5 (MEDIUM)  |(Juniper Networks)                                                |https://www.cve.org/CVERecord?id=CVE-2023-44196|
+|2023-10-13 17:00:08.692925|CVE-2023-44195|cvss:5.4 (MEDIUM)  |(Juniper Networks)                                                |https://www.cve.org/CVERecord?id=CVE-2023-44195|
+|2023-10-13 17:00:09.640297|CVE-2023-44194|cvss:8.4 (HIGH)    |(Juniper Networks)                                                |https://www.cve.org/CVERecord?id=CVE-2023-44194|
+|2023-10-13 17:00:10.552098|CVE-2023-44193|cvss:5.5 (MEDIUM)  |(Juniper Networks, Denial of service)                             |https://www.cve.org/CVERecord?id=CVE-2023-44193|
+|2023-10-13 17:00:11.461789|CVE-2023-44191|cvss:7.5 (HIGH)    |(Juniper Networks, Denial of service)                             |https://www.cve.org/CVERecord?id=CVE-2023-44191|
+|2023-10-13 17:00:12.364891|CVE-2023-44184|cvss:6.5 (MEDIUM)  |(Juniper Networks, Denial of service)                             |https://www.cve.org/CVERecord?id=CVE-2023-44184|
+|2023-10-13 17:00:13.645415|CVE-2023-44183|cvss:6.5 (MEDIUM)  |(Juniper Networks, Input validation)                              |https://www.cve.org/CVERecord?id=CVE-2023-44183|
+|2023-10-13 17:00:14.861922|CVE-2023-44181|cvss:7.5 (HIGH)    |(Juniper Networks)                                                |https://www.cve.org/CVERecord?id=CVE-2023-44181|
+|2023-10-13 17:00:16.270124|CVE-2023-44175|cvss:6.5 (MEDIUM)  |(Juniper Networks, Denial of service)                             |https://www.cve.org/CVERecord?id=CVE-2023-44175|
+|2023-10-13 17:00:17.624263|CVE-2023-36843|cvss:7.5 (HIGH)    |(Juniper Networks, Denial of service)                             |https://www.cve.org/CVERecord?id=CVE-2023-36843|
+|2023-10-13 17:00:18.925474|CVE-2023-36841|cvss:7.5 (HIGH)    |(Juniper Networks, Denial of service)                             |https://www.cve.org/CVERecord?id=CVE-2023-36841|
+|2023-10-13 17:00:19.937751|CVE-2023-22392|cvss:6.5 (MEDIUM)  |(Juniper Networks, Denial of service)                             |https://www.cve.org/CVERecord?id=CVE-2023-22392|
+|2023-10-13 17:00:33.344643|CVE-2023-44190|cvss:6.1 (MEDIUM)  |(Juniper Networks)                                                |https://www.cve.org/CVERecord?id=CVE-2023-44190|
+|2023-10-13 17:00:34.555337|CVE-2023-44189|cvss:6.1 (MEDIUM)  |(Juniper Networks)                                                |https://www.cve.org/CVERecord?id=CVE-2023-44189|
+|2023-10-13 17:00:35.833616|CVE-2023-44187|cvss:5.9 (MEDIUM)  |(Juniper Networks, Exposure of Sensitive)                         |https://www.cve.org/CVERecord?id=CVE-2023-44187|
+|2023-10-13 20:00:05.725246|CVE-2023-38000|cvss:6.5 (MEDIUM)  |(WordPress, Plugin)                                               |https://www.cve.org/CVERecord?id=CVE-2023-38000|
+|2023-10-13 22:00:05.392061|CVE-2023-43079|cvss:7.3 (HIGH)    |(Execute arbitrary code, Improper access control)                 |https://www.cve.org/CVERecord?id=CVE-2023-43079|
+|2023-10-13 22:00:06.404724|CVE-2023-39999|cvss:4.3 (MEDIUM)  |(WordPress, Exposure of Sensitive)                                |https://www.cve.org/CVERecord?id=CVE-2023-39999|
+|2023-10-13 23:00:04.255168|CVE-2023-45468|cvss:0 (Not_rated) |(Denial of service, Buffer Overflow)                              |https://www.cve.org/CVERecord?id=CVE-2023-45468|
+|2023-10-13 23:00:05.441465|CVE-2023-45464|cvss:0 (Not_rated) |(Denial of service, Buffer Overflow)                              |https://www.cve.org/CVERecord?id=CVE-2023-45464|
+|2023-10-13 23:00:06.468305|CVE-2023-45463|cvss:0 (Not_rated) |(Denial of service, Buffer Overflow)                              |https://www.cve.org/CVERecord?id=CVE-2023-45463|
+|2023-10-13 23:00:07.469226|CVE-2023-45162|cvss:9.9 (CRITICAL)|(SQL injection, Arbitrary code execution)                         |https://www.cve.org/CVERecord?id=CVE-2023-45162|
