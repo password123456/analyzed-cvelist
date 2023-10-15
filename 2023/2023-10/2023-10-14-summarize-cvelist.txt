@@ -1,0 +1,23 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3           |summary                                       |link                                           |
+|--------------------------|--------------|------------------|----------------------------------------------|-----------------------------------------------|
+|2023-10-14 01:00:05.237378|CVE-2023-41682|cvss:7.9 (HIGH)   |(Path Traversal, Denial of service)           |https://www.cve.org/CVERecord?id=CVE-2023-41682|
+|2023-10-14 06:00:10.236293|CVE-2023-32976|cvss:6.6 (MEDIUM) |(Command injection, Execute command)          |https://www.cve.org/CVERecord?id=CVE-2023-32976|
+|2023-10-14 07:00:05.853485|CVE-2023-36559|cvss:4.2 (MEDIUM) |(Microsoft Edge)                              |https://www.cve.org/CVERecord?id=CVE-2023-36559|
+|2023-10-14 10:00:14.572375|CVE-2023-45674|cvss:7.7 (HIGH)   |(SQL injection, Information disclosure)       |https://www.cve.org/CVERecord?id=CVE-2023-45674|
+|2023-10-14 12:00:06.731500|CVE-2023-45853|cvss:0 (Not_rated)|(Buffer Overflow, Integer Overflow)           |https://www.cve.org/CVERecord?id=CVE-2023-45853|
+|2023-10-14 12:00:07.847258|CVE-2023-45852|cvss:0 (Not_rated)|(Arbitrary Command, Execute arbitrary command)|https://www.cve.org/CVERecord?id=CVE-2023-45852|
+|2023-10-14 14:00:04.718025|CVE-2023-30148|cvss:6.1 (MEDIUM) |(PHP)                                         |https://www.cve.org/CVERecord?id=CVE-2023-30148|
+|2023-10-14 15:00:05.676234|CVE-2023-26155|cvss:7.3 (HIGH)   |(Command injection, Command execution)        |https://www.cve.org/CVERecord?id=CVE-2023-26155|
+|2023-10-14 15:00:06.756423|CVE-2023-45856|cvss:0 (Not_rated)|(PHP, Remote code execution)                  |https://www.cve.org/CVERecord?id=CVE-2023-45856|
+|2023-10-14 15:00:07.793075|CVE-2023-44037|cvss:0 (Not_rated)|(Remote Attack, obtain sensitive information) |https://www.cve.org/CVERecord?id=CVE-2023-44037|
+|2023-10-14 18:00:10.976688|CVE-2023-39332|cvss:None         |(Node.js, Path Traversal)                     |https://www.cve.org/CVERecord?id=CVE-2023-39332|
+|2023-10-14 18:00:12.256014|CVE-2023-39331|cvss:None         |(Node.js, Path Traversal, Overwriting)        |https://www.cve.org/CVERecord?id=CVE-2023-39331|
+|2023-10-14 18:00:13.469239|CVE-2023-38552|cvss:None         |(Node.js)                                     |https://www.cve.org/CVERecord?id=CVE-2023-38552|
+|2023-10-14 18:00:16.063050|CVE-2023-38817|cvss:0 (Not_rated)|(NT AUTHORITY\SYSTEM, Gain Privileges)        |https://www.cve.org/CVERecord?id=CVE-2023-38817|
+|2023-10-14 20:00:05.664240|CVE-2023-45348|cvss:0 (Not_rated)|(Apache Airflow)                              |https://www.cve.org/CVERecord?id=CVE-2023-45348|
+|2023-10-14 20:00:06.724957|CVE-2023-42792|cvss:0 (Not_rated)|(Apache Airflow)                              |https://www.cve.org/CVERecord?id=CVE-2023-42792|
+|2023-10-14 20:00:07.960795|CVE-2023-42780|cvss:0 (Not_rated)|(Apache Airflow)                              |https://www.cve.org/CVERecord?id=CVE-2023-42780|
+|2023-10-14 20:00:08.928268|CVE-2023-42663|cvss:0 (Not_rated)|(Apache Airflow)                              |https://www.cve.org/CVERecord?id=CVE-2023-42663|
+|2023-10-14 21:00:05.261050|CVE-2023-5578 |cvss:3.5 (LOW)    |(PHP)                                         |https://www.cve.org/CVERecord?id=CVE-2023-5578 |
