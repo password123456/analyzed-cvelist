@@ -1,0 +1,10 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3           |summary                                      |link                                           |
+|--------------------------|--------------|------------------|---------------------------------------------|-----------------------------------------------|
+|2023-10-15 01:00:09.954601|CVE-2022-33165|cvss:6.8 (MEDIUM) |(Remote Attack, Traverse Directories)        |https://www.cve.org/CVERecord?id=CVE-2022-33165|
+|2023-10-15 01:00:10.920853|CVE-2022-33161|cvss:5.3 (MEDIUM) |(Remote Attack, obtain sensitive information)|https://www.cve.org/CVERecord?id=CVE-2022-33161|
+|2023-10-15 01:00:11.846552|CVE-2022-32755|cvss:5.5 (MEDIUM) |(Remote Attack, XXE, XML external entity)    |https://www.cve.org/CVERecord?id=CVE-2022-32755|
+|2023-10-15 03:00:05.860620|CVE-2023-40367|cvss:5.4 (MEDIUM) |(IBM QRadar)                                 |https://www.cve.org/CVERecord?id=CVE-2023-40367|
+|2023-10-15 03:00:06.764879|CVE-2023-30994|cvss:5.4 (MEDIUM) |(IBM QRadar)                                 |https://www.cve.org/CVERecord?id=CVE-2023-30994|
+|2023-10-15 07:00:05.010428|CVE-2023-45863|cvss:0 (Not_rated)|(out-of-bounds, Race Condition)              |https://www.cve.org/CVERecord?id=CVE-2023-45863|
