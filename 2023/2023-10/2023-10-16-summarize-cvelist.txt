@@ -1,0 +1,18 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3            |summary                                                  |link                                           |
+|--------------------------|--------------|-------------------|---------------------------------------------------------|-----------------------------------------------|
+|2023-10-16 16:00:04.738973|CVE-2023-45575|cvss:0 (Not_rated) |(Remote Attack, Execute arbitrary code, Buffer Overflow) |https://www.cve.org/CVERecord?id=CVE-2023-45575|
+|2023-10-16 16:00:05.870878|CVE-2023-45574|cvss:0 (Not_rated) |(Remote Attack, Execute arbitrary code, Buffer Overflow) |https://www.cve.org/CVERecord?id=CVE-2023-45574|
+|2023-10-16 16:00:06.925654|CVE-2023-45573|cvss:0 (Not_rated) |(Remote Attack, Execute arbitrary code, Buffer Overflow) |https://www.cve.org/CVERecord?id=CVE-2023-45573|
+|2023-10-16 16:00:08.243849|CVE-2023-45572|cvss:0 (Not_rated) |(Remote Attack, Execute arbitrary code, Buffer Overflow) |https://www.cve.org/CVERecord?id=CVE-2023-45572|
+|2023-10-16 17:00:04.921323|CVE-2023-45580|cvss:0 (Not_rated) |(Remote Attack, Execute arbitrary code, Buffer Overflow) |https://www.cve.org/CVERecord?id=CVE-2023-45580|
+|2023-10-16 17:00:05.931745|CVE-2023-45579|cvss:0 (Not_rated) |(Remote Attack, Execute arbitrary code, Buffer Overflow) |https://www.cve.org/CVERecord?id=CVE-2023-45579|
+|2023-10-16 17:00:06.867573|CVE-2023-45578|cvss:0 (Not_rated) |(Remote Attack, Execute arbitrary code, Buffer Overflow) |https://www.cve.org/CVERecord?id=CVE-2023-45578|
+|2023-10-16 17:00:07.857107|CVE-2023-45577|cvss:0 (Not_rated) |(Remote Attack, Execute arbitrary code)                  |https://www.cve.org/CVERecord?id=CVE-2023-45577|
+|2023-10-16 17:00:08.844594|CVE-2023-45576|cvss:0 (Not_rated) |(Remote Attack, Execute arbitrary code, Buffer Overflow) |https://www.cve.org/CVERecord?id=CVE-2023-45576|
+|2023-10-16 17:00:09.894340|CVE-2023-21413|cvss:9.1 (CRITICAL)|(Command injection, Remote code execution)               |https://www.cve.org/CVERecord?id=CVE-2023-21413|
+|2023-10-16 19:00:04.698257|CVE-2023-5422 |cvss:8.7 (HIGH)    |(OpenSSL)                                                |https://www.cve.org/CVERecord?id=CVE-2023-5422 |
+|2023-10-16 20:00:05.854234|CVE-2023-43667|cvss:0 (Not_rated) |(SQL injection, Improper Neutralization)                 |https://www.cve.org/CVERecord?id=CVE-2023-43667|
+|2023-10-16 22:00:05.155561|CVE-2023-4457 |cvss:5.5 (MEDIUM)  |(Grafana, Information disclosure, Plugin)                |https://www.cve.org/CVERecord?id=CVE-2023-4457 |
+|2023-10-16 22:00:06.080229|CVE-2023-3991 |cvss:10 (CRITICAL) |(Command injection, Command execution, Arbitrary Command)|https://www.cve.org/CVERecord?id=CVE-2023-3991 |
