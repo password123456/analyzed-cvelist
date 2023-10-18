@@ -1,0 +1,25 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3            |summary                                                        |link                                           |
+|--------------------------|--------------|-------------------|---------------------------------------------------------------|-----------------------------------------------|
+|2023-10-17 05:00:04.603233|CVE-2023-40180|cvss:7.5 (HIGH)    |(GraphQL, Denial of service)                                   |https://www.cve.org/CVERecord?id=CVE-2023-40180|
+|2023-10-17 05:00:05.557254|CVE-2023-45683|cvss:7.1 (HIGH)    |(SAML, SAML library)                                           |https://www.cve.org/CVERecord?id=CVE-2023-45683|
+|2023-10-17 05:00:06.578308|CVE-2023-45669|cvss:4.8 (MEDIUM)  |(Spring Security)                                              |https://www.cve.org/CVERecord?id=CVE-2023-45669|
+|2023-10-17 05:00:07.566276|CVE-2023-45148|cvss:4.3 (MEDIUM)  |(Redis, memcached)                                             |https://www.cve.org/CVERecord?id=CVE-2023-45148|
+|2023-10-17 07:00:05.855289|CVE-2023-43119|cvss:0 (Not_rated) |(Redis)                                                        |https://www.cve.org/CVERecord?id=CVE-2023-43119|
+|2023-10-17 08:00:05.544474|CVE-2023-40852|cvss:0 (Not_rated) |(PHP, SQL injection, obtain sensitive information)             |https://www.cve.org/CVERecord?id=CVE-2023-40852|
+|2023-10-17 08:00:06.660644|CVE-2023-40851|cvss:0 (Not_rated) |(PHP)                                                          |https://www.cve.org/CVERecord?id=CVE-2023-40851|
+|2023-10-17 10:00:05.954055|CVE-2023-44394|cvss:4.3 (MEDIUM)  |(PHP)                                                          |https://www.cve.org/CVERecord?id=CVE-2023-44394|
+|2023-10-17 10:00:06.935478|CVE-2023-44388|cvss:7.5 (HIGH)    |(Nginx)                                                        |https://www.cve.org/CVERecord?id=CVE-2023-44388|
+|2023-10-17 11:00:06.262121|CVE-2022-22377|cvss:5.3 (MEDIUM)  |(Remote Attack, obtain sensitive information)                  |https://www.cve.org/CVERecord?id=CVE-2022-22377|
+|2023-10-17 11:00:07.251818|CVE-2023-45807|cvss:5.4 (MEDIUM)  |(Kibana, ElasticSearch, OpenSearch)                            |https://www.cve.org/CVERecord?id=CVE-2023-45807|
+|2023-10-17 12:00:07.525717|CVE-2022-22386|cvss:5.3 (MEDIUM)  |(Remote Attack, obtain sensitive information)                  |https://www.cve.org/CVERecord?id=CVE-2022-22386|
+|2023-10-17 12:00:09.123571|CVE-2022-22375|cvss:7.2 (HIGH)    |(Arbitrary Command, Execute arbitrary command, crafted request)|https://www.cve.org/CVERecord?id=CVE-2022-22375|
+|2023-10-17 13:00:04.523908|CVE-2022-43891|cvss:2.7 (LOW)     |(Remote Attack, obtain sensitive information)                  |https://www.cve.org/CVERecord?id=CVE-2022-43891|
+|2023-10-17 14:00:04.632222|CVE-2023-34207|cvss:9.9 (CRITICAL)|(Unrestricted Upload, NT AUTHORITY\SYSTEM)                     |https://www.cve.org/CVERecord?id=CVE-2023-34207|
+|2023-10-17 17:00:04.732333|CVE-2023-39456|cvss:0 (Not_rated) |(Apache Traffic Server, Input validation)                      |https://www.cve.org/CVERecord?id=CVE-2023-39456|
+|2023-10-17 17:00:05.697070|CVE-2023-41752|cvss:0 (Not_rated) |(Apache Traffic Server, Exposure of Sensitive)                 |https://www.cve.org/CVERecord?id=CVE-2023-41752|
+|2023-10-17 18:00:04.673947|CVE-2023-4399 |cvss:6.6 (MEDIUM)  |(Grafana)                                                      |https://www.cve.org/CVERecord?id=CVE-2023-4399 |
+|2023-10-17 20:00:06.545735|CVE-2023-44990|cvss:5.9 (MEDIUM)  |(WordPress, Plugin)                                            |https://www.cve.org/CVERecord?id=CVE-2023-44990|
+|2023-10-17 20:00:07.483686|CVE-2023-44311|cvss:9.6 (CRITICAL)|(Remote Attack, Plugin)                                        |https://www.cve.org/CVERecord?id=CVE-2023-44311|
+|2023-10-17 23:00:05.224778|CVE-2023-44824|cvss:0 (Not_rated) |(PHP, File Upload, Execute arbitrary code)                     |https://www.cve.org/CVERecord?id=CVE-2023-44824|
