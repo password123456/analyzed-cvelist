@@ -1,0 +1,18 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3            |summary                                                            |link                                           |
+|--------------------------|--------------|-------------------|-------------------------------------------------------------------|-----------------------------------------------|
+|2023-10-19 00:00:06.928950|CVE-2023-45607|cvss:6.5 (MEDIUM)  |(WordPress, Plugin)                                                |https://www.cve.org/CVERecord?id=CVE-2023-45607|
+|2023-10-19 01:00:04.925283|CVE-2023-5631 |cvss:6.1 (MEDIUM)  |(PHP, Remote Attack)                                               |https://www.cve.org/CVERecord?id=CVE-2023-5631 |
+|2023-10-19 02:00:05.150202|CVE-2023-43250|cvss:0 (Not_rated) |(Denial of service, Buffer Overflow)                               |https://www.cve.org/CVERecord?id=CVE-2023-43250|
+|2023-10-19 06:00:05.298866|CVE-2023-4601 |cvss:8.1 (HIGH)    |(Arbitrary code execution, Information disclosure, Buffer Overflow)|https://www.cve.org/CVERecord?id=CVE-2023-4601 |
+|2023-10-19 07:00:04.562876|CVE-2023-45145|cvss:3.6 (LOW)     |(Redis, Race Condition)                                            |https://www.cve.org/CVERecord?id=CVE-2023-45145|
+|2023-10-19 08:00:04.624012|CVE-2023-45958|cvss:0 (Not_rated) |(PHP)                                                              |https://www.cve.org/CVERecord?id=CVE-2023-45958|
+|2023-10-19 08:00:06.041131|CVE-2023-45146|cvss:9.1 (CRITICAL)|(Remote code execution, Execute arbitrary code)                    |https://www.cve.org/CVERecord?id=CVE-2023-45146|
+|2023-10-19 12:00:07.145955|CVE-2023-4645 |cvss:5.3 (MEDIUM)  |(WordPress, Plugin)                                                |https://www.cve.org/CVERecord?id=CVE-2023-4645 |
+|2023-10-19 16:00:04.472132|CVE-2023-5241 |cvss:9.6 (CRITICAL)|(WordPress, PHP, Directory traversal, Critical)                    |https://www.cve.org/CVERecord?id=CVE-2023-5241 |
+|2023-10-19 18:00:09.727910|CVE-2023-35663|cvss:0 (Not_rated) |(Information disclosure, Out of Bounds)                            |https://www.cve.org/CVERecord?id=CVE-2023-35663|
+|2023-10-19 18:00:10.834621|CVE-2023-35656|cvss:0 (Not_rated) |(Information disclosure, Out of Bounds)                            |https://www.cve.org/CVERecord?id=CVE-2023-35656|
+|2023-10-19 20:00:05.844599|CVE-2022-25334|cvss:8.2 (CRITICAL)|(Arbitrary code execution, Overwriting, Stack Overflow)            |https://www.cve.org/CVERecord?id=CVE-2022-25334|
+|2023-10-19 23:00:05.036419|CVE-2023-45883|cvss:0 (Not_rated) |(Arbitrary code execution, Privilege Escalation)                   |https://www.cve.org/CVERecord?id=CVE-2023-45883|
+|2023-10-19 23:00:07.038205|CVE-2023-45384|cvss:0 (Not_rated) |(PHP, Unrestricted Upload)                                         |https://www.cve.org/CVERecord?id=CVE-2023-45384|
