@@ -1,0 +1,41 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3           |summary                                      |link                                           |
+|--------------------------|--------------|------------------|---------------------------------------------|-----------------------------------------------|
+|2023-10-20 01:00:04.658138|CVE-2023-35187|cvss:8.8 (HIGH)   |(Remote code execution, Directory traversal) |https://www.cve.org/CVERecord?id=CVE-2023-35187|
+|2023-10-20 01:00:05.559312|CVE-2023-46042|cvss:0 (Not_rated)|(PHP, Remote Attack, Execute arbitrary code) |https://www.cve.org/CVERecord?id=CVE-2023-46042|
+|2023-10-20 03:00:04.602943|CVE-2023-35126|cvss:7.8 (HIGH)   |(Arbitrary code execution, Memory corruption, out-of-bounds)|https://www.cve.org/CVERecord?id=CVE-2023-35126|
+|2023-10-20 04:00:05.553965|CVE-2023-39431|cvss:7.8 (HIGH)   |(Execute arbitrary code, out-of-bounds)      |https://www.cve.org/CVERecord?id=CVE-2023-39431|
+|2023-10-20 04:00:06.751669|CVE-2023-38128|cvss:7.8 (HIGH)   |(Arbitrary code execution, Memory corruption, Type confusion, out-of-bounds)|https://www.cve.org/CVERecord?id=CVE-2023-38128|
+|2023-10-20 04:00:07.749812|CVE-2023-38127|cvss:7.8 (HIGH)   |(Arbitrary code execution, Memory corruption, Integer Overflow)|https://www.cve.org/CVERecord?id=CVE-2023-38127|
+|2023-10-20 04:00:08.765979|CVE-2023-35986|cvss:7.8 (HIGH)   |(Execute arbitrary code, Buffer Overflow)    |https://www.cve.org/CVERecord?id=CVE-2023-35986|
+|2023-10-20 04:00:09.679004|CVE-2023-34366|cvss:7.8 (HIGH)   |(use-after-free, Arbitrary code execution, Memory corruption)|https://www.cve.org/CVERecord?id=CVE-2023-34366|
+|2023-10-20 04:00:10.555307|CVE-2023-5059 |cvss:7.8 (HIGH)   |(Execute arbitrary code, out-of-bounds)      |https://www.cve.org/CVERecord?id=CVE-2023-5059 |
+|2023-10-20 05:00:04.915842|CVE-2023-45826|cvss:6.5 (MEDIUM) |(PHP, SQL injection)                         |https://www.cve.org/CVERecord?id=CVE-2023-45826|
+|2023-10-20 05:00:05.962776|CVE-2023-45820|cvss:5.9 (MEDIUM) |(Websocket)                                  |https://www.cve.org/CVERecord?id=CVE-2023-45820|
+|2023-10-20 05:00:06.843097|CVE-2023-45809|cvss:2.7 (LOW)    |(Django)                                     |https://www.cve.org/CVERecord?id=CVE-2023-45809|
+|2023-10-20 06:00:04.726011|CVE-2023-40145|cvss:8.8 (HIGH)   |(Arbitrary Command, Execute arbitrary command)|https://www.cve.org/CVERecord?id=CVE-2023-40145|
+|2023-10-20 06:00:05.798609|CVE-2023-43492|cvss:9.8 (CRITICAL)|(CODESYS, Buffer Overflow)                   |https://www.cve.org/CVERecord?id=CVE-2023-43492|
+|2023-10-20 07:00:04.178344|CVE-2023-45821|cvss:5.4 (MEDIUM) |(Docker)                                     |https://www.cve.org/CVERecord?id=CVE-2023-45821|
+|2023-10-20 09:00:05.635895|CVE-2023-41896|cvss:7.1 (HIGH)   |(npm, Websocket)                             |https://www.cve.org/CVERecord?id=CVE-2023-41896|
+|2023-10-20 12:00:06.951005|CVE-2023-5646 |cvss:9.6 (CRITICAL)|(WordPress, PHP, Directory traversal, Critical)|https://www.cve.org/CVERecord?id=CVE-2023-5646 |
+|2023-10-20 14:00:05.544465|CVE-2023-46267|cvss:0 (Not_rated)|(PHP)                                        |https://www.cve.org/CVERecord?id=CVE-2023-46267|
+|2023-10-20 15:00:05.807017|CVE-2023-34052|cvss:0 (Not_rated)|(Vmware, Authentication bypass)              |https://www.cve.org/CVERecord?id=CVE-2023-34052|
+|2023-10-20 15:00:06.838019|CVE-2023-34051|cvss:0 (Not_rated)|(Vmware, Remote code execution, Authentication bypass)|https://www.cve.org/CVERecord?id=CVE-2023-34051|
+|2023-10-20 17:00:07.758416|CVE-2023-4942 |cvss:4.3 (MEDIUM) |(WordPress)                                  |https://www.cve.org/CVERecord?id=CVE-2023-4942 |
+|2023-10-20 17:00:08.755985|CVE-2023-4940 |cvss:4.3 (MEDIUM) |(WordPress)                                  |https://www.cve.org/CVERecord?id=CVE-2023-4940 |
+|2023-10-20 17:00:09.823951|CVE-2023-4937 |cvss:4.3 (MEDIUM) |(WordPress)                                  |https://www.cve.org/CVERecord?id=CVE-2023-4937 |
+|2023-10-20 17:00:10.804767|CVE-2023-4935 |cvss:4.3 (MEDIUM) |(WordPress)                                  |https://www.cve.org/CVERecord?id=CVE-2023-4935 |
+|2023-10-20 17:00:11.743958|CVE-2023-4920 |cvss:4.3 (MEDIUM) |(WordPress, Plugin)                          |https://www.cve.org/CVERecord?id=CVE-2023-4920 |
+|2023-10-20 17:00:12.779023|CVE-2023-4488 |cvss:9.8 (CRITICAL)|(WordPress, PHP)                             |https://www.cve.org/CVERecord?id=CVE-2023-4488 |
+|2023-10-20 18:00:05.001244|CVE-2023-4943 |cvss:4.3 (MEDIUM) |(WordPress)                                  |https://www.cve.org/CVERecord?id=CVE-2023-4943 |
+|2023-10-20 19:00:04.778806|CVE-2023-34046|cvss:6.7 (MEDIUM) |(Vmware)                                     |https://www.cve.org/CVERecord?id=CVE-2023-34046|
+|2023-10-20 19:00:05.737227|CVE-2023-34044|cvss:7.1 (HIGH)   |(Vmware, out-of-bounds)                      |https://www.cve.org/CVERecord?id=CVE-2023-34044|
+|2023-10-20 20:00:06.546132|CVE-2023-44256|cvss:6.4 (MEDIUM) |(Remote Attack, Server-side Request Forgery) |https://www.cve.org/CVERecord?id=CVE-2023-44256|
+|2023-10-20 20:00:07.650905|CVE-2023-34045|cvss:6.6 (MEDIUM) |(Vmware, Privilege Escalation)               |https://www.cve.org/CVERecord?id=CVE-2023-34045|
+|2023-10-20 21:00:05.019051|CVE-2023-4941 |cvss:4.3 (MEDIUM) |(WordPress)                                  |https://www.cve.org/CVERecord?id=CVE-2023-4941 |
+|2023-10-20 21:00:05.981342|CVE-2023-4926 |cvss:5.4 (MEDIUM) |(WordPress)                                  |https://www.cve.org/CVERecord?id=CVE-2023-4926 |
+|2023-10-20 21:00:06.946225|CVE-2023-4924 |cvss:5.4 (MEDIUM) |(WordPress)                                  |https://www.cve.org/CVERecord?id=CVE-2023-4924 |
+|2023-10-20 21:00:07.975733|CVE-2023-4923 |cvss:5.4 (MEDIUM) |(WordPress)                                  |https://www.cve.org/CVERecord?id=CVE-2023-4923 |
+|2023-10-20 21:00:08.975840|CVE-2023-4796 |cvss:4.3 (MEDIUM) |(WordPress, Information disclosure)          |https://www.cve.org/CVERecord?id=CVE-2023-4796 |
+|2023-10-20 21:00:09.976741|CVE-2023-4668 |cvss:5.3 (MEDIUM) |(WordPress, Plugin)                          |https://www.cve.org/CVERecord?id=CVE-2023-4668 |
