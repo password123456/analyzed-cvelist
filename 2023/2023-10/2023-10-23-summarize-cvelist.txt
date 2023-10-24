@@ -1,0 +1,21 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3           |summary                                            |link                                           |
+|--------------------------|--------------|------------------|---------------------------------------------------|-----------------------------------------------|
+|2023-10-23 07:00:04.424908|CVE-2023-46306|cvss:8.4 (HIGH)   |(PHP, Arbitrary Command, Execute arbitrary command)|https://www.cve.org/CVERecord?id=CVE-2023-46306|
+|2023-10-23 08:00:05.320496|CVE-2023-46301|cvss:0 (Not_rated)|(iTerm2)                                           |https://www.cve.org/CVERecord?id=CVE-2023-46301|
+|2023-10-23 08:00:06.323740|CVE-2023-46300|cvss:0 (Not_rated)|(iTerm2)                                           |https://www.cve.org/CVERecord?id=CVE-2023-46300|
+|2023-10-23 09:00:05.575046|CVE-2023-5696 |cvss:3.5 (LOW)    |(PHP)                                              |https://www.cve.org/CVERecord?id=CVE-2023-5696 |
+|2023-10-23 09:00:06.669598|CVE-2023-5695 |cvss:3.5 (LOW)    |(PHP)                                              |https://www.cve.org/CVERecord?id=CVE-2023-5695 |
+|2023-10-23 09:00:07.715761|CVE-2023-5694 |cvss:3.5 (LOW)    |(PHP)                                              |https://www.cve.org/CVERecord?id=CVE-2023-5694 |
+|2023-10-23 09:00:08.847313|CVE-2023-5693 |cvss:6.3 (MEDIUM) |(PHP, SQL injection, Critical)                     |https://www.cve.org/CVERecord?id=CVE-2023-5693 |
+|2023-10-23 10:00:05.136432|CVE-2023-5700 |cvss:5.5 (MEDIUM) |(PHP, SQL injection, Critical)                     |https://www.cve.org/CVERecord?id=CVE-2023-5700 |
+|2023-10-23 10:00:06.074377|CVE-2023-5699 |cvss:3.5 (LOW)    |(PHP)                                              |https://www.cve.org/CVERecord?id=CVE-2023-5699 |
+|2023-10-23 10:00:07.107337|CVE-2023-5698 |cvss:3.5 (LOW)    |(PHP)                                              |https://www.cve.org/CVERecord?id=CVE-2023-5698 |
+|2023-10-23 10:00:08.032514|CVE-2023-5697 |cvss:3.5 (LOW)    |(PHP)                                              |https://www.cve.org/CVERecord?id=CVE-2023-5697 |
+|2023-10-23 10:00:09.072099|CVE-2023-46322|cvss:0 (Not_rated)|(iTerm2)                                           |https://www.cve.org/CVERecord?id=CVE-2023-46322|
+|2023-10-23 10:00:10.070438|CVE-2023-46321|cvss:0 (Not_rated)|(iTerm2)                                           |https://www.cve.org/CVERecord?id=CVE-2023-46321|
+|2023-10-23 15:00:04.581318|CVE-2023-43624|cvss:0 (Not_rated)|(XXE, XML external entity)                         |https://www.cve.org/CVERecord?id=CVE-2023-43624|
+|2023-10-23 17:00:04.552363|CVE-2023-43622|cvss:0 (Not_rated)|(Apache HTTP Server)                               |https://www.cve.org/CVERecord?id=CVE-2023-43622|
+|2023-10-23 17:00:05.556590|CVE-2023-31122|cvss:0 (Not_rated)|(Apache HTTP Server, out-of-bounds)                |https://www.cve.org/CVERecord?id=CVE-2023-31122|
+|2023-10-23 23:00:04.956380|CVE-2023-5246 |cvss:8.8 (HIGH)   |(Remote Attack, Authentication bypass)             |https://www.cve.org/CVERecord?id=CVE-2023-5246 |
