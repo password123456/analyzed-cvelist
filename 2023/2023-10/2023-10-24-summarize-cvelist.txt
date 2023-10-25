@@ -1,0 +1,11 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3           |summary                                                        |link                                           |
+|--------------------------|--------------|------------------|---------------------------------------------------------------|-----------------------------------------------|
+|2023-10-24 00:00:07.323193|CVE-2023-28805|cvss:6.7 (MEDIUM) |(Input validation, Privilege Escalation)                       |https://www.cve.org/CVERecord?id=CVE-2023-28805|
+|2023-10-24 00:00:08.260379|CVE-2023-28793|cvss:7.8 (HIGH)   |(Code Injection, Buffer Overflow)                              |https://www.cve.org/CVERecord?id=CVE-2023-28793|
+|2023-10-24 01:00:04.743837|CVE-2023-42295|cvss:0 (Not_rated)|(Remote Attack, Execute arbitrary code, Denial of service)     |https://www.cve.org/CVERecord?id=CVE-2023-42295|
+|2023-10-24 02:00:04.313749|CVE-2023-43067|cvss:4.9 (MEDIUM) |(XXE, XML external entity)                                     |https://www.cve.org/CVERecord?id=CVE-2023-43067|
+|2023-10-24 05:00:06.133645|CVE-2023-46288|cvss:0 (Not_rated)|(Apache Airflow, Exposure of Sensitive)                        |https://www.cve.org/CVERecord?id=CVE-2023-46288|
+|2023-10-24 06:00:05.753859|CVE-2023-33839|cvss:7.2 (HIGH)   |(Arbitrary Command, Execute arbitrary command, crafted request)|https://www.cve.org/CVERecord?id=CVE-2023-33839|
+|2023-10-24 08:00:05.424889|CVE-2023-5633 |cvss:0 (Not_rated)|(Vmware, use-after-free)                                       |https://www.cve.org/CVERecord?id=CVE-2023-5633 |
