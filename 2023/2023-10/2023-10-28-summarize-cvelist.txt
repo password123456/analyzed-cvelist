@@ -1,0 +1,28 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3            |summary                                                                          |link                                           |
+|--------------------------|--------------|-------------------|---------------------------------------------------------------------------------|-----------------------------------------------|
+|2023-10-28 01:00:04.764182|CVE-2023-46604|cvss:10 (CRITICAL) |(Remote code execution, Remote Attack)                                           |https://www.cve.org/CVERecord?id=CVE-2023-46604|
+|2023-10-28 04:00:05.051420|CVE-2023-5827 |cvss:5.5 (MEDIUM)  |(SQL injection, Critical)                                                        |https://www.cve.org/CVERecord?id=CVE-2023-5827 |
+|2023-10-28 04:00:06.361297|CVE-2023-5826 |cvss:5.5 (MEDIUM)  |(PHP, SQL injection, Critical)                                                   |https://www.cve.org/CVERecord?id=CVE-2023-5826 |
+|2023-10-28 05:00:05.459455|CVE-2023-46246|cvss:4 (MEDIUM)    |(use-after-free, Integer Overflow)                                               |https://www.cve.org/CVERecord?id=CVE-2023-46246|
+|2023-10-28 05:00:06.374118|CVE-2023-27854|cvss:7.8 (HIGH)    |(Arbitrary code execution, Buffer Overflow)                                      |https://www.cve.org/CVERecord?id=CVE-2023-27854|
+|2023-10-28 06:00:04.762752|CVE-2023-46853|cvss:0 (Not_rated) |(memcached)                                                                      |https://www.cve.org/CVERecord?id=CVE-2023-46853|
+|2023-10-28 06:00:05.681508|CVE-2023-46852|cvss:0 (Not_rated) |(memcached, Buffer Overflow)                                                     |https://www.cve.org/CVERecord?id=CVE-2023-46852|
+|2023-10-28 06:00:06.659214|CVE-2023-5829 |cvss:6.3 (MEDIUM)  |(PHP, Unrestricted Upload, Critical)                                             |https://www.cve.org/CVERecord?id=CVE-2023-5829 |
+|2023-10-28 06:00:07.619081|CVE-2023-5828 |cvss:7.3 (HIGH)    |(SQL injection, Critical)                                                        |https://www.cve.org/CVERecord?id=CVE-2023-5828 |
+|2023-10-28 06:00:08.538016|CVE-2022-3702 |cvss:6.1 (MEDIUM)  |(Plugin, Denial of service)                                                      |https://www.cve.org/CVERecord?id=CVE-2022-3702 |
+|2023-10-28 06:00:09.464572|CVE-2022-3701 |cvss:7.8 (HIGH)    |(Execute arbitrary code, Plugin)                                                 |https://www.cve.org/CVERecord?id=CVE-2022-3701 |
+|2023-10-28 07:00:04.768777|CVE-2023-40131|cvss:0 (Not_rated) |(Use after free, Escalation of Privilege, Race Condition)                        |https://www.cve.org/CVERecord?id=CVE-2023-40131|
+|2023-10-28 07:00:05.675831|CVE-2023-40129|cvss:0 (Not_rated) |(Buffer Overflow, Out of Bounds)                                                 |https://www.cve.org/CVERecord?id=CVE-2023-40129|
+|2023-10-28 07:00:06.631354|CVE-2023-40128|cvss:0 (Not_rated) |(Escalation of Privilege, Buffer Overflow, Out of Bounds)                        |https://www.cve.org/CVERecord?id=CVE-2023-40128|
+|2023-10-28 07:00:12.693976|CVE-2023-40121|cvss:0 (Not_rated) |(SQL injection, Information disclosure)                                          |https://www.cve.org/CVERecord?id=CVE-2023-40121|
+|2023-10-28 07:00:13.638345|CVE-2023-40120|cvss:0 (Not_rated) |(Input validation, Escalation of Privilege)                                      |https://www.cve.org/CVERecord?id=CVE-2023-40120|
+|2023-10-28 08:00:04.956720|CVE-2023-46509|cvss:0 (Not_rated) |(PHP, Execute arbitrary code)                                                    |https://www.cve.org/CVERecord?id=CVE-2023-46509|
+|2023-10-28 08:00:05.981231|CVE-2023-44480|cvss:9.8 (CRITICAL)|(PHP, SQL injection)                                                             |https://www.cve.org/CVERecord?id=CVE-2023-44480|
+|2023-10-28 08:00:06.981747|CVE-2023-40140|cvss:0 (Not_rated) |(Use after free, Execute arbitrary code, Escalation of Privilege)                |https://www.cve.org/CVERecord?id=CVE-2023-40140|
+|2023-10-28 09:00:05.069435|CVE-2023-46587|cvss:0 (Not_rated) |(Execute arbitrary code, Buffer Overflow)                                        |https://www.cve.org/CVERecord?id=CVE-2023-46587|
+|2023-10-28 10:00:04.460653|CVE-2023-46490|cvss:0 (Not_rated) |(PHP, Cacti, Remote Attack, SQL injection, obtain sensitive information)         |https://www.cve.org/CVERecord?id=CVE-2023-46490|
+|2023-10-28 11:00:05.157107|CVE-2023-46468|cvss:0 (Not_rated) |(Remote Attack, Execute arbitrary code, Plugin)                                  |https://www.cve.org/CVERecord?id=CVE-2023-46468|
+|2023-10-28 11:00:06.252360|CVE-2023-46467|cvss:0 (Not_rated) |(Remote Attack, Execute arbitrary code)                                          |https://www.cve.org/CVERecord?id=CVE-2023-46467|
+|2023-10-28 18:00:06.157742|CVE-2023-46215|cvss:0 (Not_rated) |(Redis, Apache Airflow)                                                          |https://www.cve.org/CVERecord?id=CVE-2023-46215|
