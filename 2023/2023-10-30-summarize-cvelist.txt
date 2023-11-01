@@ -1,0 +1,6 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3           |summary                                     |link                                           |
+|--------------------------|--------------|------------------|--------------------------------------------|-----------------------------------------------|
+|2023-10-30 11:00:04.654952|CVE-2023-46865|cvss:0 (Not_rated)|(PHP)                                       |https://www.cve.org/CVERecord?id=CVE-2023-46865|
+|2023-10-30 17:00:05.141000|CVE-2023-45798|cvss:8.4 (HIGH)   |(Remote code execution, Improper Validation)|https://www.cve.org/CVERecord?id=CVE-2023-45798|
