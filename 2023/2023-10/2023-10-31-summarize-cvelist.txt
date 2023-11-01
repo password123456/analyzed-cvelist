@@ -1,0 +1,52 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3           |summary                                     |link                                           |
+|--------------------------|--------------|------------------|--------------------------------------------|-----------------------------------------------|
+|2023-10-31 01:00:04.957112|CVE-2022-4573 |cvss:6.7 (MEDIUM) |(Execute arbitrary code, Input validation)  |https://www.cve.org/CVERecord?id=CVE-2022-4573 |
+|2023-10-31 03:00:04.571505|CVE-2023-21309|cvss:0 (Not_rated)|(Information disclosure, Out of Bounds)     |https://www.cve.org/CVERecord?id=CVE-2023-21309|
+|2023-10-31 03:00:05.589449|CVE-2023-21308|cvss:0 (Not_rated)|(Escalation of Privilege, Out of Bounds)    |https://www.cve.org/CVERecord?id=CVE-2023-21308|
+|2023-10-31 03:00:06.549141|CVE-2023-21301|cvss:0 (Not_rated)|(Information disclosure, Escalation of Privilege)|https://www.cve.org/CVERecord?id=CVE-2023-21301|
+|2023-10-31 03:00:07.547371|CVE-2023-21296|cvss:0 (Not_rated)|(Information disclosure, Escalation of Privilege)|https://www.cve.org/CVERecord?id=CVE-2023-21296|
+|2023-10-31 03:00:08.474817|CVE-2023-21293|cvss:0 (Not_rated)|(Information disclosure, Escalation of Privilege)|https://www.cve.org/CVERecord?id=CVE-2023-21293|
+|2023-10-31 04:00:05.826418|CVE-2023-21385|cvss:0 (Not_rated)|(Information disclosure, Memory corruption, Out of Bounds)|https://www.cve.org/CVERecord?id=CVE-2023-21385|
+|2023-10-31 04:00:06.857998|CVE-2023-21381|cvss:0 (Not_rated)|(Use after free, Arbitrary code execution, Escalation of Privilege)|https://www.cve.org/CVERecord?id=CVE-2023-21381|
+|2023-10-31 04:00:07.743395|CVE-2023-21380|cvss:0 (Not_rated)|(Escalation of Privilege, Buffer Overflow, Out of Bounds)|https://www.cve.org/CVERecord?id=CVE-2023-21380|
+|2023-10-31 04:00:08.751239|CVE-2023-21379|cvss:0 (Not_rated)|(Information disclosure, Out of Bounds)     |https://www.cve.org/CVERecord?id=CVE-2023-21379|
+|2023-10-31 04:00:09.750518|CVE-2023-21375|cvss:0 (Not_rated)|(Escalation of Privilege, Integer Underflow, Out of Bounds)|https://www.cve.org/CVERecord?id=CVE-2023-21375|
+|2023-10-31 04:00:10.687305|CVE-2023-21372|cvss:0 (Not_rated)|(Escalation of Privilege, Out of Bounds)    |https://www.cve.org/CVERecord?id=CVE-2023-21372|
+|2023-10-31 05:00:05.499422|CVE-2023-21310|cvss:0 (Not_rated)|(Escalation of Privilege, Buffer Overflow, Out of Bounds)|https://www.cve.org/CVERecord?id=CVE-2023-21310|
+|2023-10-31 05:00:06.462487|CVE-2023-21298|cvss:0 (Not_rated)|(Information disclosure, Escalation of Privilege)|https://www.cve.org/CVERecord?id=CVE-2023-21298|
+|2023-10-31 05:00:07.378485|CVE-2023-47101|cvss:0 (Not_rated)|(VPN client, Privilege Escalation)          |https://www.cve.org/CVERecord?id=CVE-2023-47101|
+|2023-10-31 05:00:08.355195|CVE-2023-40101|cvss:0 (Not_rated)|(Information disclosure, Out of Bounds)     |https://www.cve.org/CVERecord?id=CVE-2023-40101|
+|2023-10-31 05:00:09.292585|CVE-2023-21395|cvss:0 (Not_rated)|(Use after free, Information disclosure, Out of Bounds)|https://www.cve.org/CVERecord?id=CVE-2023-21395|
+|2023-10-31 05:00:10.267735|CVE-2023-21392|cvss:0 (Not_rated)|(Use after free, Escalation of Privilege)   |https://www.cve.org/CVERecord?id=CVE-2023-21392|
+|2023-10-31 05:00:11.178057|CVE-2023-21391|cvss:0 (Not_rated)|(Input validation, Denial of service)       |https://www.cve.org/CVERecord?id=CVE-2023-21391|
+|2023-10-31 06:00:04.672884|CVE-2023-21324|cvss:0 (Not_rated)|(Information disclosure, Escalation of Privilege)|https://www.cve.org/CVERecord?id=CVE-2023-21324|
+|2023-10-31 06:00:05.736375|CVE-2023-21315|cvss:0 (Not_rated)|(Information disclosure, Buffer Overflow, Out of Bounds)|https://www.cve.org/CVERecord?id=CVE-2023-21315|
+|2023-10-31 06:00:06.749709|CVE-2023-21314|cvss:0 (Not_rated)|(Information disclosure, Out of Bounds)     |https://www.cve.org/CVERecord?id=CVE-2023-21314|
+|2023-10-31 07:00:05.557408|CVE-2023-21352|cvss:0 (Not_rated)|(Information disclosure, Out of Bounds)     |https://www.cve.org/CVERecord?id=CVE-2023-21352|
+|2023-10-31 07:00:06.652521|CVE-2023-21347|cvss:0 (Not_rated)|(Information disclosure, Out of Bounds)     |https://www.cve.org/CVERecord?id=CVE-2023-21347|
+|2023-10-31 07:00:07.745028|CVE-2023-21338|cvss:0 (Not_rated)|(Information disclosure, Escalation of Privilege)|https://www.cve.org/CVERecord?id=CVE-2023-21338|
+|2023-10-31 07:00:08.721246|CVE-2023-21337|cvss:0 (Not_rated)|(Information disclosure, Escalation of Privilege)|https://www.cve.org/CVERecord?id=CVE-2023-21337|
+|2023-10-31 08:00:05.464510|CVE-2023-21371|cvss:0 (Not_rated)|(Escalation of Privilege, Out of Bounds, Integer Overflow)|https://www.cve.org/CVERecord?id=CVE-2023-21371|
+|2023-10-31 08:00:06.518070|CVE-2023-21370|cvss:0 (Not_rated)|(Escalation of Privilege, Out of Bounds, Integer Overflow)|https://www.cve.org/CVERecord?id=CVE-2023-21370|
+|2023-10-31 08:00:07.523071|CVE-2023-21368|cvss:0 (Not_rated)|(Information disclosure, Out of Bounds)     |https://www.cve.org/CVERecord?id=CVE-2023-21368|
+|2023-10-31 08:00:08.493481|CVE-2023-21361|cvss:0 (Not_rated)|(Use after free, Escalation of Privilege)   |https://www.cve.org/CVERecord?id=CVE-2023-21361|
+|2023-10-31 08:00:09.464575|CVE-2023-21360|cvss:0 (Not_rated)|(Input validation, Escalation of Privilege, Out of Bounds)|https://www.cve.org/CVERecord?id=CVE-2023-21360|
+|2023-10-31 08:00:10.477607|CVE-2023-21359|cvss:0 (Not_rated)|(Information disclosure, Out of Bounds)     |https://www.cve.org/CVERecord?id=CVE-2023-21359|
+|2023-10-31 08:00:11.422991|CVE-2023-21357|cvss:0 (Not_rated)|(Information disclosure, Out of Bounds)     |https://www.cve.org/CVERecord?id=CVE-2023-21357|
+|2023-10-31 08:00:12.437453|CVE-2023-21355|cvss:0 (Not_rated)|(Use after free, Escalation of Privilege, Out of Bounds)|https://www.cve.org/CVERecord?id=CVE-2023-21355|
+|2023-10-31 08:00:13.638163|CVE-2023-21353|cvss:0 (Not_rated)|(Information disclosure, Out of Bounds)     |https://www.cve.org/CVERecord?id=CVE-2023-21353|
+|2023-10-31 09:00:05.810260|CVE-2023-5349 |cvss:0 (Not_rated)|(ImageMagick, Denial of service)            |https://www.cve.org/CVERecord?id=CVE-2023-5349 |
+|2023-10-31 09:00:06.876224|CVE-2023-42804|cvss:3.1 (LOW)    |(Path Traversal, Input validation)          |https://www.cve.org/CVERecord?id=CVE-2023-42804|
+|2023-10-31 09:00:07.823870|CVE-2023-46502|cvss:0 (Not_rated)|(Remote Attack, Execute arbitrary code, crafted request)|https://www.cve.org/CVERecord?id=CVE-2023-46502|
+|2023-10-31 09:00:08.787379|CVE-2023-46478|cvss:0 (Not_rated)|(Remote Attack, Execute arbitrary code)     |https://www.cve.org/CVERecord?id=CVE-2023-46478|
+|2023-10-31 10:00:05.710526|CVE-2023-42323|cvss:0 (Not_rated)|(PHP, Remote Attack, Execute arbitrary code)|https://www.cve.org/CVERecord?id=CVE-2023-42323|
+|2023-10-31 10:00:06.669220|CVE-2023-46138|cvss:3.7 (LOW)    |(JumpServer)                                |https://www.cve.org/CVERecord?id=CVE-2023-46138|
+|2023-10-31 11:00:05.861292|CVE-2023-5866 |cvss:0 (Not_rated)|(PHP, phpmyfaq)                             |https://www.cve.org/CVERecord?id=CVE-2023-5866 |
+|2023-10-31 11:00:06.936604|CVE-2023-5865 |cvss:0 (Not_rated)|(PHP, phpmyfaq, Insufficient session)       |https://www.cve.org/CVERecord?id=CVE-2023-5865 |
+|2023-10-31 12:00:06.460414|CVE-2023-46040|cvss:0 (Not_rated)|(PHP, Remote Attack, Execute arbitrary code)|https://www.cve.org/CVERecord?id=CVE-2023-46040|
+|2023-10-31 14:00:04.406355|CVE-2023-47174|cvss:0 (Not_rated)|(Spring Framework, Remote code execution)   |https://www.cve.org/CVERecord?id=CVE-2023-47174|
+|2023-10-31 15:00:05.658579|CVE-2023-43139|cvss:0 (Not_rated)|(PHP, Remote Attack, Execute arbitrary code)|https://www.cve.org/CVERecord?id=CVE-2023-43139|
+|2023-10-31 16:00:05.198770|CVE-2023-45996|cvss:0 (Not_rated)|(PHP, Remote Attack, SQL injection, Execute arbitrary code, obtain sensitive information)|https://www.cve.org/CVERecord?id=CVE-2023-45996|
+|2023-10-31 22:00:04.502046|CVE-2023-38994|cvss:7.9 (HIGH)   |(Execute arbitrary code, Gain Privileges)   |https://www.cve.org/CVERecord?id=CVE-2023-38994|
