@@ -1,0 +1,40 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3            |summary                                                              |link                                           |
+|--------------------------|--------------|-------------------|---------------------------------------------------------------------|-----------------------------------------------|
+|2023-11-01 00:00:07.227680|CVE-2023-28777|cvss:0 (Not_rated) |(SQL injection, Improper Neutralization)                             |https://www.cve.org/CVERecord?id=CVE-2023-28777|
+|2023-11-01 00:00:08.239912|CVE-2023-25047|cvss:0 (Not_rated) |(SQL injection, Improper Neutralization)                             |https://www.cve.org/CVERecord?id=CVE-2023-25047|
+|2023-11-01 00:00:09.824768|CVE-2023-25045|cvss:6.7 (MEDIUM)  |(SQL injection, Improper Neutralization)                             |https://www.cve.org/CVERecord?id=CVE-2023-25045|
+|2023-11-01 00:00:11.342484|CVE-2023-24000|cvss:0 (Not_rated) |(SQL injection, Improper Neutralization)                             |https://www.cve.org/CVERecord?id=CVE-2023-24000|
+|2023-11-01 01:00:04.545365|CVE-2023-42425|cvss:0 (Not_rated) |(Remote Attack, Execute arbitrary code, obtain sensitive information)|https://www.cve.org/CVERecord?id=CVE-2023-42425|
+|2023-11-01 01:00:05.491315|CVE-2023-33927|cvss:0 (Not_rated) |(SQL injection, Plugin, Improper Neutralization)                     |https://www.cve.org/CVERecord?id=CVE-2023-33927|
+|2023-11-01 01:00:06.406839|CVE-2023-31212|cvss:0 (Not_rated) |(SQL injection, Improper Neutralization)                             |https://www.cve.org/CVERecord?id=CVE-2023-31212|
+|2023-11-01 01:00:07.356359|CVE-2023-22518|cvss:0 (Not_rated) |(Atlassian, Confluence Data Center and Server)                       |https://www.cve.org/CVERecord?id=CVE-2023-22518|
+|2023-11-01 01:00:08.237270|CVE-2023-37966|cvss:0 (Not_rated) |(SQL injection, Improper Neutralization)                             |https://www.cve.org/CVERecord?id=CVE-2023-37966|
+|2023-11-01 01:00:09.232752|CVE-2023-35879|cvss:0 (Not_rated) |(SQL injection, Improper Neutralization)                             |https://www.cve.org/CVERecord?id=CVE-2023-35879|
+|2023-11-01 02:00:05.294267|CVE-2023-46248|cvss:9.1 (CRITICAL)|(Remote code execution, Arbitrary code execution, Critical)          |https://www.cve.org/CVERecord?id=CVE-2023-46248|
+|2023-11-01 02:00:06.331885|CVE-2023-46240|cvss:7.5 (HIGH)    |(PHP)                                                                |https://www.cve.org/CVERecord?id=CVE-2023-46240|
+|2023-11-01 07:00:05.549107|CVE-2023-43295|cvss:0 (Not_rated) |(Execute arbitrary code, crafted request)                            |https://www.cve.org/CVERecord?id=CVE-2023-43295|
+|2023-11-01 07:00:06.551060|CVE-2023-20886|cvss:8.8 (HIGH)    |(Vmware, SAML)                                                       |https://www.cve.org/CVERecord?id=CVE-2023-20886|
+|2023-11-01 07:00:07.477569|CVE-2023-3955 |cvss:8.8 (HIGH)    |(Kubernetes)                                                         |https://www.cve.org/CVERecord?id=CVE-2023-3955 |
+|2023-11-01 07:00:08.468049|CVE-2023-3676 |cvss:8.8 (HIGH)    |(Kubernetes)                                                         |https://www.cve.org/CVERecord?id=CVE-2023-3676 |
+|2023-11-01 08:00:05.865764|CVE-2023-44486|cvss:6.1 (MEDIUM)  |(PHP)                                                                |https://www.cve.org/CVERecord?id=CVE-2023-44486|
+|2023-11-01 08:00:06.853447|CVE-2023-44485|cvss:6.1 (MEDIUM)  |(PHP)                                                                |https://www.cve.org/CVERecord?id=CVE-2023-44485|
+|2023-11-01 08:00:07.876455|CVE-2023-44484|cvss:6.1 (MEDIUM)  |(PHP)                                                                |https://www.cve.org/CVERecord?id=CVE-2023-44484|
+|2023-11-01 08:00:08.835333|CVE-2023-5306 |cvss:6.1 (MEDIUM)  |(PHP)                                                                |https://www.cve.org/CVERecord?id=CVE-2023-5306 |
+|2023-11-01 18:00:05.181510|CVE-2023-4197 |cvss:7.5 (HIGH)    |(PHP, Input validation)                                              |https://www.cve.org/CVERecord?id=CVE-2023-4197 |
+|2023-11-01 20:00:06.533395|CVE-2023-1720 |cvss:9.6 (CRITICAL)|(PHP, Remote Attack)                                                 |https://www.cve.org/CVERecord?id=CVE-2023-1720 |
+|2023-11-01 20:00:07.624783|CVE-2023-1719 |cvss:7.5 (HIGH)    |(PHP, Remote Attack, Overwriting)                                    |https://www.cve.org/CVERecord?id=CVE-2023-1719 |
+|2023-11-01 20:00:08.626409|CVE-2023-1718 |cvss:7.5 (HIGH)    |(PHP, Remote Attack)                                                 |https://www.cve.org/CVERecord?id=CVE-2023-1718 |
+|2023-11-01 20:00:09.598650|CVE-2023-1717 |cvss:9.6 (CRITICAL)|(PHP, Remote Attack)                                                 |https://www.cve.org/CVERecord?id=CVE-2023-1717 |
+|2023-11-01 20:00:10.585320|CVE-2023-1714 |cvss:8.8 (HIGH)    |(PHP, Execute arbitrary code)                                        |https://www.cve.org/CVERecord?id=CVE-2023-1714 |
+|2023-11-01 20:00:11.535314|CVE-2023-1713 |cvss:8.8 (HIGH)    |(Apache HTTP Server, PHP, Execute arbitrary code)                    |https://www.cve.org/CVERecord?id=CVE-2023-1713 |
+|2023-11-01 20:00:12.594189|CVE-2022-48461|cvss:0 (Not_rated) |(Denial of service, Out of Bounds)                                   |https://www.cve.org/CVERecord?id=CVE-2022-48461|
+|2023-11-01 20:00:13.530606|CVE-2022-48459|cvss:0 (Not_rated) |(Input validation, Denial of service)                                |https://www.cve.org/CVERecord?id=CVE-2022-48459|
+|2023-11-01 20:00:14.580263|CVE-2022-48458|cvss:0 (Not_rated) |(Input validation, Denial of service)                                |https://www.cve.org/CVERecord?id=CVE-2022-48458|
+|2023-11-01 20:00:15.541399|CVE-2022-48457|cvss:0 (Not_rated) |(Input validation, Denial of service)                                |https://www.cve.org/CVERecord?id=CVE-2022-48457|
+|2023-11-01 20:00:16.569076|CVE-2022-48456|cvss:0 (Not_rated) |(Denial of service, Out of Bounds)                                   |https://www.cve.org/CVERecord?id=CVE-2022-48456|
+|2023-11-01 20:00:17.572039|CVE-2022-48455|cvss:0 (Not_rated) |(Denial of service, Out of Bounds)                                   |https://www.cve.org/CVERecord?id=CVE-2022-48455|
+|2023-11-01 20:00:18.566400|CVE-2022-48454|cvss:0 (Not_rated) |(Denial of service, Out of Bounds)                                   |https://www.cve.org/CVERecord?id=CVE-2022-48454|
+|2023-11-01 21:00:05.138972|CVE-2023-42653|cvss:0 (Not_rated) |(Denial of service, Out of Bounds)                                   |https://www.cve.org/CVERecord?id=CVE-2023-42653|
+|2023-11-01 22:00:06.043091|CVE-2023-42750|cvss:0 (Not_rated) |(Denial of service, Out of Bounds)                                   |https://www.cve.org/CVERecord?id=CVE-2023-42750|
