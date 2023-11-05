@@ -1,0 +1,25 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3           |summary                                     |link                                           |
+|--------------------------|--------------|------------------|--------------------------------------------|-----------------------------------------------|
+|2023-11-04 02:00:04.389434|CVE-2023-46980|cvss:0 (Not_rated)|(Remote Attack, Execute arbitrary code)     |https://www.cve.org/CVERecord?id=CVE-2023-46980|
+|2023-11-04 02:00:10.431283|CVE-2022-46818|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)    |https://www.cve.org/CVERecord?id=CVE-2022-46818|
+|2023-11-04 03:00:04.268467|CVE-2023-32508|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)    |https://www.cve.org/CVERecord?id=CVE-2023-32508|
+|2023-11-04 03:00:05.258941|CVE-2023-32121|cvss:0 (Not_rated)|(WordPress, SQL injection, Improper Neutralization)|https://www.cve.org/CVERecord?id=CVE-2023-32121|
+|2023-11-04 03:00:06.167929|CVE-2023-36529|cvss:0 (Not_rated)|(WordPress, SQL injection, Improper Neutralization)|https://www.cve.org/CVERecord?id=CVE-2023-36529|
+|2023-11-04 03:00:07.141366|CVE-2023-34179|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)    |https://www.cve.org/CVERecord?id=CVE-2023-34179|
+|2023-11-04 03:00:08.137807|CVE-2023-25990|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)    |https://www.cve.org/CVERecord?id=CVE-2023-25990|
+|2023-11-04 03:00:09.056273|CVE-2023-25800|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)    |https://www.cve.org/CVERecord?id=CVE-2023-25800|
+|2023-11-04 03:00:09.951834|CVE-2023-25700|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)    |https://www.cve.org/CVERecord?id=CVE-2023-25700|
+|2023-11-04 03:00:10.888194|CVE-2023-23369|cvss:9 (CRITICAL) |(Command injection, Execute command)        |https://www.cve.org/CVERecord?id=CVE-2023-23369|
+|2023-11-04 03:00:11.822888|CVE-2023-23368|cvss:9.8 (CRITICAL)|(Command injection, Execute command)        |https://www.cve.org/CVERecord?id=CVE-2023-23368|
+|2023-11-04 04:00:05.962867|CVE-2023-3893 |cvss:8.8 (HIGH)   |(Kubernetes)                                |https://www.cve.org/CVERecord?id=CVE-2023-3893 |
+|2023-11-04 06:00:06.102777|CVE-2023-41726|cvss:0 (Not_rated)|(Ivanti, Privilege Escalation)              |https://www.cve.org/CVERecord?id=CVE-2023-41726|
+|2023-11-04 06:00:07.041266|CVE-2023-41725|cvss:0 (Not_rated)|(Ivanti, File Upload, Privilege Escalation) |https://www.cve.org/CVERecord?id=CVE-2023-41725|
+|2023-11-04 06:00:08.078986|CVE-2022-43555|cvss:0 (Not_rated)|(Ivanti, Privilege Escalation, Missing Authentication)|https://www.cve.org/CVERecord?id=CVE-2022-43555|
+|2023-11-04 06:00:09.047023|CVE-2022-43554|cvss:0 (Not_rated)|(Ivanti, Privilege Escalation, Missing Authentication)|https://www.cve.org/CVERecord?id=CVE-2022-43554|
+|2023-11-04 09:00:04.846418|CVE-2023-36677|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)    |https://www.cve.org/CVERecord?id=CVE-2023-36677|
+|2023-11-04 10:00:06.547966|CVE-2023-40215|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)    |https://www.cve.org/CVERecord?id=CVE-2023-40215|
+|2023-11-04 10:00:07.545522|CVE-2023-38391|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)    |https://www.cve.org/CVERecord?id=CVE-2023-38391|
+|2023-11-04 10:00:08.855622|CVE-2023-35910|cvss:0 (Not_rated)|(WordPress, SQL injection, Improper Neutralization)|https://www.cve.org/CVERecord?id=CVE-2023-35910|
+|2023-11-04 10:00:09.747602|CVE-2023-32741|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)    |https://www.cve.org/CVERecord?id=CVE-2023-32741|
