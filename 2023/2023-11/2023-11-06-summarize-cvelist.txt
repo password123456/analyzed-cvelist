@@ -1,0 +1,41 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3           |summary                                               |link                                           |
+|--------------------------|--------------|------------------|------------------------------------------------------|-----------------------------------------------|
+|2023-11-06 12:00:06.967997|CVE-2023-46802|cvss:0 (Not_rated)|(XXE, XML external entity)                            |https://www.cve.org/CVERecord?id=CVE-2023-46802|
+|2023-11-06 14:00:04.908176|CVE-2023-32840|cvss:0 (Not_rated)|(Escalation of Privilege, Out of Bounds)              |https://www.cve.org/CVERecord?id=CVE-2023-32840|
+|2023-11-06 14:00:05.864768|CVE-2023-32839|cvss:0 (Not_rated)|(Escalation of Privilege, Out of Bounds)              |https://www.cve.org/CVERecord?id=CVE-2023-32839|
+|2023-11-06 14:00:06.861991|CVE-2023-32838|cvss:0 (Not_rated)|(Escalation of Privilege, Out of Bounds)              |https://www.cve.org/CVERecord?id=CVE-2023-32838|
+|2023-11-06 14:00:07.861744|CVE-2023-32837|cvss:0 (Not_rated)|(Escalation of Privilege, Out of Bounds)              |https://www.cve.org/CVERecord?id=CVE-2023-32837|
+|2023-11-06 14:00:08.874194|CVE-2023-32836|cvss:0 (Not_rated)|(Escalation of Privilege, Out of Bounds, Integer Overflow)|https://www.cve.org/CVERecord?id=CVE-2023-32836|
+|2023-11-06 14:00:09.861738|CVE-2023-32835|cvss:0 (Not_rated)|(Memory corruption, Escalation of Privilege, Type confusion)|https://www.cve.org/CVERecord?id=CVE-2023-32835|
+|2023-11-06 14:00:10.876864|CVE-2023-32834|cvss:0 (Not_rated)|(Memory corruption, Escalation of Privilege, Type confusion)|https://www.cve.org/CVERecord?id=CVE-2023-32834|
+|2023-11-06 14:00:11.773046|CVE-2023-32832|cvss:0 (Not_rated)|(Memory corruption, Escalation of Privilege, Race Condition)|https://www.cve.org/CVERecord?id=CVE-2023-32832|
+|2023-11-06 14:00:12.727444|CVE-2023-32825|cvss:0 (Not_rated)|(Input validation, Information disclosure, Out of Bounds)|https://www.cve.org/CVERecord?id=CVE-2023-32825|
+|2023-11-06 14:00:13.684215|CVE-2023-32818|cvss:0 (Not_rated)|(Escalation of Privilege, Type confusion, Out of Bounds)|https://www.cve.org/CVERecord?id=CVE-2023-32818|
+|2023-11-06 14:00:14.633390|CVE-2023-20702|cvss:0 (Not_rated)|(Memory access, Denial of service)                    |https://www.cve.org/CVERecord?id=CVE-2023-20702|
+|2023-11-06 16:00:05.725297|CVE-2023-47253|cvss:0 (Not_rated)|(PHP, Remote Attack, Execute arbitrary code)          |https://www.cve.org/CVERecord?id=CVE-2023-47253|
+|2023-11-06 18:00:05.595228|CVE-2022-47432|cvss:0 (Not_rated)|(SQL injection, Plugin, Improper Neutralization)      |https://www.cve.org/CVERecord?id=CVE-2022-47432|
+|2023-11-06 18:00:06.646465|CVE-2022-47430|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)              |https://www.cve.org/CVERecord?id=CVE-2022-47430|
+|2023-11-06 18:00:07.560537|CVE-2022-47428|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)              |https://www.cve.org/CVERecord?id=CVE-2022-47428|
+|2023-11-06 18:00:08.551595|CVE-2022-47420|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)              |https://www.cve.org/CVERecord?id=CVE-2022-47420|
+|2023-11-06 18:00:09.567347|CVE-2022-46860|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)              |https://www.cve.org/CVERecord?id=CVE-2022-46860|
+|2023-11-06 18:00:10.588264|CVE-2022-46849|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)              |https://www.cve.org/CVERecord?id=CVE-2022-46849|
+|2023-11-06 18:00:11.544764|CVE-2022-45373|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)              |https://www.cve.org/CVERecord?id=CVE-2022-45373|
+|2023-11-06 19:00:04.743044|CVE-2023-45830|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)              |https://www.cve.org/CVERecord?id=CVE-2023-45830|
+|2023-11-06 19:00:05.844594|CVE-2023-45657|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)              |https://www.cve.org/CVERecord?id=CVE-2023-45657|
+|2023-11-06 19:00:06.874504|CVE-2023-45069|cvss:0 (Not_rated)|(WordPress, SQL injection, Plugin, Improper Neutralization)|https://www.cve.org/CVERecord?id=CVE-2023-45069|
+|2023-11-06 19:00:07.761372|CVE-2023-45055|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)              |https://www.cve.org/CVERecord?id=CVE-2023-45055|
+|2023-11-06 19:00:08.732373|CVE-2023-45046|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)              |https://www.cve.org/CVERecord?id=CVE-2023-45046|
+|2023-11-06 19:00:09.735334|CVE-2023-45001|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)              |https://www.cve.org/CVERecord?id=CVE-2023-45001|
+|2023-11-06 19:00:10.655925|CVE-2023-41685|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)              |https://www.cve.org/CVERecord?id=CVE-2023-41685|
+|2023-11-06 19:00:11.544285|CVE-2023-40609|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)              |https://www.cve.org/CVERecord?id=CVE-2023-40609|
+|2023-11-06 19:00:12.446636|CVE-2023-40207|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)              |https://www.cve.org/CVERecord?id=CVE-2023-40207|
+|2023-11-06 19:00:13.437883|CVE-2023-38382|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)              |https://www.cve.org/CVERecord?id=CVE-2023-38382|
+|2023-11-06 19:00:14.350726|CVE-2023-35911|cvss:0 (Not_rated)|(WordPress, SQL injection, Improper Neutralization)   |https://www.cve.org/CVERecord?id=CVE-2023-35911|
+|2023-11-06 19:00:15.307291|CVE-2023-33924|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)              |https://www.cve.org/CVERecord?id=CVE-2023-33924|
+|2023-11-06 19:00:16.287383|CVE-2023-28748|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)              |https://www.cve.org/CVERecord?id=CVE-2023-28748|
+|2023-11-06 19:00:17.245845|CVE-2023-27605|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)              |https://www.cve.org/CVERecord?id=CVE-2023-27605|
+|2023-11-06 20:00:06.569210|CVE-2023-46823|cvss:0 (Not_rated)|(WordPress, SQL injection, Improper Neutralization)   |https://www.cve.org/CVERecord?id=CVE-2023-46823|
+|2023-11-06 20:00:07.712954|CVE-2023-46821|cvss:0 (Not_rated)|(SQL injection, Improper Neutralization)              |https://www.cve.org/CVERecord?id=CVE-2023-46821|
+|2023-11-06 20:00:08.665768|CVE-2023-46084|cvss:0 (Not_rated)|(SQL injection, Plugin, Improper Neutralization)      |https://www.cve.org/CVERecord?id=CVE-2023-46084|
