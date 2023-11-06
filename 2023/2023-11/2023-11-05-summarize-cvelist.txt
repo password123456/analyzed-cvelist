@@ -1,1 +1,6 @@
-No data Today :)
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3           |summary                                               |link                                           |
+|--------------------------|--------------|------------------|------------------------------------------------------|-----------------------------------------------|
+|2023-11-05 09:00:05.506526|CVE-2023-46963|cvss:0 (Not_rated)|(Remote Attack, obtain sensitive information)         |https://www.cve.org/CVERecord?id=CVE-2023-46963|
+|2023-11-05 10:00:05.117428|CVE-2023-46981|cvss:0 (Not_rated)|(Remote Attack, SQL injection, Execute arbitrary code)|https://www.cve.org/CVERecord?id=CVE-2023-46981|
