@@ -1,0 +1,19 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3           |summary                                         |link                                           |
+|--------------------------|--------------|------------------|------------------------------------------------|-----------------------------------------------|
+|2023-11-07 02:00:04.841892|CVE-2023-5678 |cvss:0 (Not_rated)|(OpenSSL, Denial of service)                    |https://www.cve.org/CVERecord?id=CVE-2023-5678 |
+|2023-11-07 04:00:06.602357|CVE-2023-46728|cvss:7.5 (HIGH)   |(Squid, Denial of service)                      |https://www.cve.org/CVERecord?id=CVE-2023-46728|
+|2023-11-07 05:00:05.284324|CVE-2023-46254|cvss:4.3 (MEDIUM) |(Kubernetes, Privilege Escalation)              |https://www.cve.org/CVERecord?id=CVE-2023-46254|
+|2023-11-07 08:00:05.760520|CVE-2023-47004|cvss:0 (Not_rated)|(Redis, Execute arbitrary code, Buffer Overflow)|https://www.cve.org/CVERecord?id=CVE-2023-47004|
+|2023-11-07 10:00:06.265978|CVE-2023-36409|cvss:6.5 (MEDIUM) |(Microsoft Edge, Information disclosure)        |https://www.cve.org/CVERecord?id=CVE-2023-36409|
+|2023-11-07 13:00:05.625954|CVE-2023-46998|cvss:0 (Not_rated)|(Remote Attack, Execute arbitrary code)         |https://www.cve.org/CVERecord?id=CVE-2023-46998|
+|2023-11-07 16:00:05.721916|CVE-2023-24852|cvss:8.4 (HIGH)   |(Memory access, Memory corruption)              |https://www.cve.org/CVERecord?id=CVE-2023-24852|
+|2023-11-07 18:00:05.924862|CVE-2023-42538|cvss:5.9 (MEDIUM) |(Input validation, out-of-bounds)               |https://www.cve.org/CVERecord?id=CVE-2023-42538|
+|2023-11-07 18:00:07.074508|CVE-2023-42537|cvss:5.9 (MEDIUM) |(Input validation, out-of-bounds)               |https://www.cve.org/CVERecord?id=CVE-2023-42537|
+|2023-11-07 18:00:08.133106|CVE-2023-42536|cvss:5.9 (MEDIUM) |(Input validation, out-of-bounds)               |https://www.cve.org/CVERecord?id=CVE-2023-42536|
+|2023-11-07 18:00:09.129967|CVE-2023-42535|cvss:8.4 (HIGH)   |(Execute arbitrary code, out-of-bounds)         |https://www.cve.org/CVERecord?id=CVE-2023-42535|
+|2023-11-07 18:00:10.063503|CVE-2023-42533|cvss:6.6 (MEDIUM) |(Execute arbitrary code, Input validation)      |https://www.cve.org/CVERecord?id=CVE-2023-42533|
+|2023-11-07 18:00:11.073400|CVE-2023-42528|cvss:6.7 (MEDIUM) |(Execute arbitrary code, Input validation)      |https://www.cve.org/CVERecord?id=CVE-2023-42528|
+|2023-11-07 22:00:05.283949|CVE-2023-0436 |cvss:4.5 (MEDIUM) |(Kubernetes, MongoDB)                           |https://www.cve.org/CVERecord?id=CVE-2023-0436 |
+|2023-11-07 22:00:06.409840|CVE-2023-46819|cvss:0 (Not_rated)|(Plugin, Missing Authentication)                |https://www.cve.org/CVERecord?id=CVE-2023-46819|
