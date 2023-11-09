@@ -1,0 +1,31 @@
+# Timezone is GMT/UTC+9
+
+|datetime                  |cve_id        |cvss_v3           |summary                                                        |link                                           |
+|--------------------------|--------------|------------------|---------------------------------------------------------------|-----------------------------------------------|
+|2023-11-09 02:00:04.965398|CVE-2023-47397|cvss:0 (Not_rated)|(PHP, Code Injection)                                          |https://www.cve.org/CVERecord?id=CVE-2023-47397|
+|2023-11-09 02:00:05.852530|CVE-2023-5136 |cvss:5.5 (MEDIUM) |(Information disclosure, Plugin)                               |https://www.cve.org/CVERecord?id=CVE-2023-5136 |
+|2023-11-09 02:00:06.868342|CVE-2023-45849|cvss:8.5 (HIGH)   |(Arbitrary code execution, Privilege Escalation)               |https://www.cve.org/CVERecord?id=CVE-2023-45849|
+|2023-11-09 02:00:15.564292|CVE-2023-38547|cvss:0 (Not_rated)|(SQL Server, SQL Server, Remote code execution)                |https://www.cve.org/CVERecord?id=CVE-2023-38547|
+|2023-11-09 02:00:16.610640|CVE-2023-5748 |cvss:3.3 (LOW)    |(VPN client, Buffer Overflow)                                  |https://www.cve.org/CVERecord?id=CVE-2023-5748 |
+|2023-11-09 02:00:17.624050|CVE-2023-40453|cvss:0 (Not_rated)|(Docker, Denial of service)                                    |https://www.cve.org/CVERecord?id=CVE-2023-40453|
+|2023-11-09 12:00:06.686888|CVE-2023-5075 |cvss:6.7 (MEDIUM) |(Execute arbitrary code, Buffer Overflow)                      |https://www.cve.org/CVERecord?id=CVE-2023-5075 |
+|2023-11-09 12:00:08.144570|CVE-2023-3282 |cvss:6.4 (MEDIUM) |(Palo Alto Networks, Privilege Escalation)                     |https://www.cve.org/CVERecord?id=CVE-2023-3282 |
+|2023-11-09 12:00:09.368796|CVE-2023-4891 |cvss:5.5 (MEDIUM) |(use-after-free, Denial of service)                            |https://www.cve.org/CVERecord?id=CVE-2023-4891 |
+|2023-11-09 12:00:10.379876|CVE-2023-5760 |cvss:0 (NONE)     |(Privilege Escalation, out-of-bounds)                          |https://www.cve.org/CVERecord?id=CVE-2023-5760 |
+|2023-11-09 13:00:04.851461|CVE-2023-43578|cvss:6.7 (MEDIUM) |(Execute arbitrary code, Buffer Overflow)                      |https://www.cve.org/CVERecord?id=CVE-2023-43578|
+|2023-11-09 13:00:05.752289|CVE-2023-43577|cvss:6.7 (MEDIUM) |(Execute arbitrary code, Buffer Overflow)                      |https://www.cve.org/CVERecord?id=CVE-2023-43577|
+|2023-11-09 13:00:06.865579|CVE-2023-43576|cvss:6.7 (MEDIUM) |(Execute arbitrary code, Buffer Overflow)                      |https://www.cve.org/CVERecord?id=CVE-2023-43576|
+|2023-11-09 13:00:07.884207|CVE-2023-43575|cvss:6.7 (MEDIUM) |(Execute arbitrary code, Buffer Overflow)                      |https://www.cve.org/CVERecord?id=CVE-2023-43575|
+|2023-11-09 13:00:08.886546|CVE-2023-43573|cvss:6.7 (MEDIUM) |(Execute arbitrary code, Buffer Overflow)                      |https://www.cve.org/CVERecord?id=CVE-2023-43573|
+|2023-11-09 13:00:09.874649|CVE-2023-43569|cvss:6.7 (MEDIUM) |(Execute arbitrary code, Buffer Overflow)                      |https://www.cve.org/CVERecord?id=CVE-2023-43569|
+|2023-11-09 13:00:10.868950|CVE-2023-43567|cvss:6.7 (MEDIUM) |(Execute arbitrary code, Buffer Overflow)                      |https://www.cve.org/CVERecord?id=CVE-2023-43567|
+|2023-11-09 13:00:11.745799|CVE-2023-29974|cvss:0 (Not_rated)|(Pfsense)                                                      |https://www.cve.org/CVERecord?id=CVE-2023-29974|
+|2023-11-09 13:00:12.670600|CVE-2023-5996 |cvss:0 (Not_rated)|(Google Chrome, Use after free, Remote Attack, Heap corruption)|https://www.cve.org/CVERecord?id=CVE-2023-5996 |
+|2023-11-09 13:00:13.557031|CVE-2023-5079 |cvss:7.5 (HIGH)   |(Input validation, Information disclosure)                     |https://www.cve.org/CVERecord?id=CVE-2023-5079 |
+|2023-11-09 14:00:06.494279|CVE-2023-47008|cvss:0 (Not_rated)|(Remote Attack, Execute arbitrary code, crafted request)       |https://www.cve.org/CVERecord?id=CVE-2023-47008|
+|2023-11-09 14:00:07.532629|CVE-2023-47007|cvss:0 (Not_rated)|(Remote Attack, Execute arbitrary code, crafted request)       |https://www.cve.org/CVERecord?id=CVE-2023-47007|
+|2023-11-09 14:00:08.492170|CVE-2023-47006|cvss:0 (Not_rated)|(Remote Attack, Execute arbitrary code, crafted request)       |https://www.cve.org/CVERecord?id=CVE-2023-47006|
+|2023-11-09 14:00:09.432467|CVE-2023-47005|cvss:0 (Not_rated)|(Remote Attack, Execute arbitrary code, crafted request)       |https://www.cve.org/CVERecord?id=CVE-2023-47005|
+|2023-11-09 14:00:10.385285|CVE-2023-43581|cvss:6.7 (MEDIUM) |(Execute arbitrary code, Buffer Overflow)                      |https://www.cve.org/CVERecord?id=CVE-2023-43581|
+|2023-11-09 14:00:11.395512|CVE-2023-43580|cvss:6.7 (MEDIUM) |(Execute arbitrary code, Buffer Overflow)                      |https://www.cve.org/CVERecord?id=CVE-2023-43580|
+|2023-11-09 14:00:12.401299|CVE-2023-43579|cvss:6.7 (MEDIUM) |(Execute arbitrary code, Buffer Overflow)                      |https://www.cve.org/CVERecord?id=CVE-2023-43579|
