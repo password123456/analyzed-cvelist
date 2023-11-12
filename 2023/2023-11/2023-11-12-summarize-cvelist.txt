@@ -1,0 +1,17 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3           | summary                                    | link                                            |
+|----------------------------|----------------|-------------------|--------------------------------------------|-------------------------------------------------|
+| 2023-11-12 06:00:23.631972 | CVE-2023-43057 | cvss:4.6 (MEDIUM) | (IBM QRadar)                               | https://www.cve.org/CVERecord?id=CVE-2023-43057 |
+| 2023-11-12 06:00:24.551168 | CVE-2023-5959  | cvss:4.3 (MEDIUM) | (PHP)                                      | https://www.cve.org/CVERecord?id=CVE-2023-5959  |
+| 2023-11-12 06:00:25.462921 | CVE-2023-36027 | cvss:7.1 (HIGH)   | "(Microsoft Edge, Elevation of privilege)" | https://www.cve.org/CVERecord?id=CVE-2023-36027 |
+| 2023-11-12 06:00:26.403843 | CVE-2023-47129 | cvss:8.4 (HIGH)   | "(Laravel, PHP)"                           | https://www.cve.org/CVERecord?id=CVE-2023-47129 |
+| 2023-11-12 06:00:27.424256 | CVE-2023-46735 | cvss:6.1 (MEDIUM) | (PHP)                                      | https://www.cve.org/CVERecord?id=CVE-2023-46735 |
+| 2023-11-12 06:00:28.443277 | CVE-2023-46734 | cvss:6.1 (MEDIUM) | (PHP)                                      | https://www.cve.org/CVERecord?id=CVE-2023-46734 |
+| 2023-11-12 06:00:29.385372 | CVE-2023-46733 | cvss:6.5 (MEDIUM) | "(PHP, Session Fixation)"                  | https://www.cve.org/CVERecord?id=CVE-2023-46733 |
+| 2023-11-12 06:00:30.383728 | CVE-2023-6076  | cvss:5.3 (MEDIUM) | "(PHP, Information disclosure)"            | https://www.cve.org/CVERecord?id=CVE-2023-6076  |
+| 2023-11-12 06:00:31.375129 | CVE-2023-47120 | cvss:7.5 (HIGH)   | (Redis)                                    | https://www.cve.org/CVERecord?id=CVE-2023-47120 |
+| 2023-11-12 06:00:32.358255 | CVE-2023-39295 | cvss:8.8 (HIGH)   | "(Command injection, Execute command)"     | https://www.cve.org/CVERecord?id=CVE-2023-39295 |
+| 2023-11-12 06:00:33.252984 | CVE-2023-6075  | cvss:3.5 (LOW)    | (PHP)                                      | https://www.cve.org/CVERecord?id=CVE-2023-6075  |
+| 2023-11-12 06:00:34.197573 | CVE-2023-6074  | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)"           | https://www.cve.org/CVERecord?id=CVE-2023-6074  |
+| 2023-11-12 06:00:35.156809 | CVE-2023-23367 | cvss:4.7 (MEDIUM) | "(Command injection, Execute command)"     | https://www.cve.org/CVERecord?id=CVE-2023-23367 |
