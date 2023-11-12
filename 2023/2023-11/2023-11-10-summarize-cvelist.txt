@@ -1,0 +1,6 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                   | link                                            |
+|----------------------------|----------------|--------------------|-------------------------------------------|-------------------------------------------------|
+| 2023-11-10 04:00:22.225626 | CVE-2023-47489 | cvss:0 (Not_rated) | "(PHP, Execute arbitrary code)"           | https://www.cve.org/CVERecord?id=CVE-2023-47489 |
+| 2023-11-10 04:00:23.351291 | CVE-2023-46492 | cvss:0 (Not_rated) | "(Remote Attack, Execute arbitrary code)" | https://www.cve.org/CVERecord?id=CVE-2023-46492 |
