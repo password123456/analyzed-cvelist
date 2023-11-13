@@ -1,0 +1,11 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                            | link                                            |
+|----------------------------|----------------|--------------------|----------------------------------------------------|-------------------------------------------------|
+| 2023-11-13 08:00:23.385365 | CVE-2023-47037 | cvss:0 (Not_rated) | (Apache Airflow)                                   | https://www.cve.org/CVERecord?id=CVE-2023-47037 |
+| 2023-11-13 08:00:24.503823 | CVE-2023-42781 | cvss:0 (Not_rated) | (Apache Airflow)                                   | https://www.cve.org/CVERecord?id=CVE-2023-42781 |
+| 2023-11-13 08:00:25.473729 | CVE-2023-6084  | cvss:6.3 (MEDIUM)  | "(PHP, SQL injection, Critical)"                   | https://www.cve.org/CVERecord?id=CVE-2023-6084  |
+| 2023-11-13 18:00:09.326214 | CVE-2023-41239 | cvss:6.4 (MEDIUM)  | "(Plugin, Server-side Request Forgery)"            | https://www.cve.org/CVERecord?id=CVE-2023-41239 |
+| 2023-11-13 18:00:10.562167 | CVE-2023-34013 | cvss:4.4 (MEDIUM)  | "(WordPress, Plugin, Server-side Request Forgery)" | https://www.cve.org/CVERecord?id=CVE-2023-34013 |
+| 2023-11-13 18:00:11.863465 | CVE-2023-23800 | cvss:7.1 (HIGH)    | "(Plugin, Server-side Request Forgery)"            | https://www.cve.org/CVERecord?id=CVE-2023-23800 |
+| 2023-11-13 18:00:13.056881 | CVE-2023-23684 | cvss:4.4 (MEDIUM)  | "(GraphQL, Server-side Request Forgery)"           | https://www.cve.org/CVERecord?id=CVE-2023-23684 |
