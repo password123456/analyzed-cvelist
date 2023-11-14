@@ -1,0 +1,16 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                   | link                                            |
+|----------------------------|----------------|--------------------|-------------------------------------------|-------------------------------------------------|
+| 2023-11-14 12:00:25.281062 | CVE-2023-6102  | cvss:5.3 (MEDIUM)  | "(Unrestricted Upload, Plugin)"           | https://www.cve.org/CVERecord?id=CVE-2023-6102  |
+| 2023-11-14 14:00:24.222455 | CVE-2023-46021 | cvss:0 (Not_rated) | "(PHP, Arbitrary Command, SQL injection)" | https://www.cve.org/CVERecord?id=CVE-2023-46021 |
+| 2023-11-14 14:00:25.344183 | CVE-2023-47346 | cvss:0 (Not_rated) | "(Denial of service, Buffer Overflow)"    | https://www.cve.org/CVERecord?id=CVE-2023-47346 |
+| 2023-11-14 14:00:26.324059 | CVE-2023-46018 | cvss:0 (Not_rated) | "(PHP, SQL injection)"                    | https://www.cve.org/CVERecord?id=CVE-2023-46018 |
+| 2023-11-14 14:00:27.278358 | CVE-2023-46017 | cvss:0 (Not_rated) | "(PHP, SQL injection)"                    | https://www.cve.org/CVERecord?id=CVE-2023-46017 |
+| 2023-11-14 14:00:28.282135 | CVE-2023-46014 | cvss:0 (Not_rated) | "(PHP, SQL injection)"                    | https://www.cve.org/CVERecord?id=CVE-2023-46014 |
+| 2023-11-14 14:00:29.271437 | CVE-2023-47117 | cvss:7.5 (HIGH)    | (Django)                                  | https://www.cve.org/CVERecord?id=CVE-2023-47117 |
+| 2023-11-14 14:00:30.306200 | CVE-2023-42816 | cvss:6.1 (MEDIUM)  | "(Kubernetes, Denial of service)"         | https://www.cve.org/CVERecord?id=CVE-2023-42816 |
+| 2023-11-14 14:00:31.264701 | CVE-2023-42815 | cvss:3.1 (LOW)     | "(Kubernetes, Denial of service)"         | https://www.cve.org/CVERecord?id=CVE-2023-42815 |
+| 2023-11-14 14:00:32.243010 | CVE-2023-42814 | cvss:3.1 (LOW)     | "(Kubernetes, Denial of service)"         | https://www.cve.org/CVERecord?id=CVE-2023-42814 |
+| 2023-11-14 14:00:33.263775 | CVE-2023-42813 | cvss:6.1 (MEDIUM)  | "(Kubernetes, Denial of service)"         | https://www.cve.org/CVERecord?id=CVE-2023-42813 |
+| 2023-11-14 14:00:34.224218 | CVE-2023-47621 | cvss:8.8 (HIGH)    | "(PHP, File Upload)"                      | https://www.cve.org/CVERecord?id=CVE-2023-47621 |
