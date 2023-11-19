@@ -1,0 +1,52 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                                                       | link                                            |
+|----------------------------|----------------|---------------------|-------------------------------------------------------------------------------|-------------------------------------------------|
+| 2023-11-17 12:00:24.175263 | CVE-2023-48078 | cvss:0 (Not_rated)  | "(PHP, SQL injection)"                                                        | https://www.cve.org/CVERecord?id=CVE-2023-48078 |
+| 2023-11-17 12:00:25.053696 | CVE-2023-46214 | cvss:8 (HIGH)       | "(Splunk, Remote code execution)"                                             | https://www.cve.org/CVERecord?id=CVE-2023-46214 |
+| 2023-11-17 12:00:26.038799 | CVE-2023-46213 | cvss:4.8 (MEDIUM)   | (Splunk)                                                                      | https://www.cve.org/CVERecord?id=CVE-2023-46213 |
+| 2023-11-17 12:00:27.053519 | CVE-2023-36026 | cvss:4.3 (MEDIUM)   | (Microsoft Edge)                                                              | https://www.cve.org/CVERecord?id=CVE-2023-36026 |
+| 2023-11-17 12:00:28.080125 | CVE-2023-36008 | cvss:6.6 (MEDIUM)   | "(Microsoft Edge, Remote code execution)"                                     | https://www.cve.org/CVERecord?id=CVE-2023-36008 |
+| 2023-11-17 12:00:29.113901 | CVE-2023-47057 | cvss:7.8 (HIGH)     | "(Arbitrary code execution, out-of-bounds)"                                   | https://www.cve.org/CVERecord?id=CVE-2023-47057 |
+| 2023-11-17 12:00:30.093443 | CVE-2023-47056 | cvss:7.8 (HIGH)     | "(Arbitrary code execution, Buffer Overflow)"                                 | https://www.cve.org/CVERecord?id=CVE-2023-47056 |
+| 2023-11-17 12:00:31.068222 | CVE-2023-47055 | cvss:7.8 (HIGH)     | "(Use after free, Arbitrary code execution)"                                  | https://www.cve.org/CVERecord?id=CVE-2023-47055 |
+| 2023-11-17 12:00:31.961455 | CVE-2023-47051 | cvss:7.8 (HIGH)     | "(Arbitrary code execution, Buffer Overflow)"                                 | https://www.cve.org/CVERecord?id=CVE-2023-47051 |
+| 2023-11-17 12:00:32.947239 | CVE-2023-47046 | cvss:7.8 (HIGH)     | "(Arbitrary code execution, out-of-bounds)"                                   | https://www.cve.org/CVERecord?id=CVE-2023-47046 |
+| 2023-11-17 12:00:33.882337 | CVE-2023-6121  | cvss:0 (Not_rated)  | "(Remote Attack, Buffer Overflow, out-of-bounds)"                             | https://www.cve.org/CVERecord?id=CVE-2023-6121  |
+| 2023-11-17 12:00:34.838480 | CVE-2023-47042 | cvss:7.8 (HIGH)     | "(Arbitrary code execution, Buffer Overflow)"                                 | https://www.cve.org/CVERecord?id=CVE-2023-47042 |
+| 2023-11-17 12:00:35.877632 | CVE-2023-47041 | cvss:7.8 (HIGH)     | "(Arbitrary code execution, out-of-bounds)"                                   | https://www.cve.org/CVERecord?id=CVE-2023-47041 |
+| 2023-11-17 12:00:36.816318 | CVE-2023-44372 | cvss:7.8 (HIGH)     | "(Adobe Acrobat Reader, Use after free, Arbitrary code execution)"            | https://www.cve.org/CVERecord?id=CVE-2023-44372 |
+| 2023-11-17 12:00:37.836681 | CVE-2023-44371 | cvss:7.8 (HIGH)     | "(Adobe Acrobat Reader, Use after free, Arbitrary code execution)"            | https://www.cve.org/CVERecord?id=CVE-2023-44371 |
+| 2023-11-17 12:00:38.755275 | CVE-2023-44367 | cvss:7.8 (HIGH)     | "(Adobe Acrobat Reader, Use after free, Arbitrary code execution)"            | https://www.cve.org/CVERecord?id=CVE-2023-44367 |
+| 2023-11-17 12:00:39.724320 | CVE-2023-44366 | cvss:7.8 (HIGH)     | "(Adobe Acrobat Reader, Arbitrary code execution, out-of-bounds)"             | https://www.cve.org/CVERecord?id=CVE-2023-44366 |
+| 2023-11-17 12:00:40.739310 | CVE-2023-44365 | cvss:7.8 (HIGH)     | "(Adobe Acrobat Reader, Arbitrary code execution)"                            | https://www.cve.org/CVERecord?id=CVE-2023-44365 |
+| 2023-11-17 12:00:41.762374 | CVE-2023-44361 | cvss:5.5 (MEDIUM)   | "(Adobe Acrobat Reader, Use after free)"                                      | https://www.cve.org/CVERecord?id=CVE-2023-44361 |
+| 2023-11-17 12:00:42.759111 | CVE-2023-44360 | cvss:3.3 (LOW)      | "(Adobe Acrobat Reader, out-of-bounds)"                                       | https://www.cve.org/CVERecord?id=CVE-2023-44360 |
+| 2023-11-17 12:00:43.688217 | CVE-2023-44359 | cvss:7.8 (HIGH)     | "(Adobe Acrobat Reader, Use after free, Arbitrary code execution)"            | https://www.cve.org/CVERecord?id=CVE-2023-44359 |
+| 2023-11-17 12:00:44.693332 | CVE-2023-44358 | cvss:3.3 (LOW)      | "(Adobe Acrobat Reader, out-of-bounds)"                                       | https://www.cve.org/CVERecord?id=CVE-2023-44358 |
+| 2023-11-17 12:00:45.637264 | CVE-2023-44357 | cvss:3.3 (LOW)      | "(Adobe Acrobat Reader, out-of-bounds)"                                       | https://www.cve.org/CVERecord?id=CVE-2023-44357 |
+| 2023-11-17 12:00:46.563861 | CVE-2023-44356 | cvss:3.3 (LOW)      | "(Adobe Acrobat Reader, out-of-bounds)"                                       | https://www.cve.org/CVERecord?id=CVE-2023-44356 |
+| 2023-11-17 12:00:47.591610 | CVE-2023-44348 | cvss:3.3 (LOW)      | "(Adobe Acrobat Reader, out-of-bounds)"                                       | https://www.cve.org/CVERecord?id=CVE-2023-44348 |
+| 2023-11-17 12:00:48.572993 | CVE-2023-44340 | cvss:3.3 (LOW)      | "(Adobe Acrobat Reader, out-of-bounds)"                                       | https://www.cve.org/CVERecord?id=CVE-2023-44340 |
+| 2023-11-17 12:00:49.488603 | CVE-2023-44339 | cvss:5.5 (MEDIUM)   | "(Adobe Acrobat Reader, out-of-bounds)"                                       | https://www.cve.org/CVERecord?id=CVE-2023-44339 |
+| 2023-11-17 12:00:50.470763 | CVE-2023-44338 | cvss:7.8 (HIGH)     | "(Adobe Acrobat Reader, out-of-bounds)"                                       | https://www.cve.org/CVERecord?id=CVE-2023-44338 |
+| 2023-11-17 12:00:51.454508 | CVE-2023-44337 | cvss:7.8 (HIGH)     | "(Adobe Acrobat Reader, out-of-bounds)"                                       | https://www.cve.org/CVERecord?id=CVE-2023-44337 |
+| 2023-11-17 12:00:52.365909 | CVE-2023-44336 | cvss:7.8 (HIGH)     | "(Adobe Acrobat Reader, Use after free, Arbitrary code execution)"            | https://www.cve.org/CVERecord?id=CVE-2023-44336 |
+| 2023-11-17 12:00:53.394505 | CVE-2023-39259 | cvss:7.3 (HIGH)     | "(Elevation of privilege, Improper access control)"                           | https://www.cve.org/CVERecord?id=CVE-2023-39259 |
+| 2023-11-17 12:00:54.390804 | CVE-2023-47674 | cvss:0 (Not_rated)  | "(Critical, Missing Authentication)"                                          | https://www.cve.org/CVERecord?id=CVE-2023-47674 |
+| 2023-11-17 12:00:55.329069 | CVE-2023-43752 | cvss:0 (Not_rated)  | "(Command injection, crafted request)"                                        | https://www.cve.org/CVERecord?id=CVE-2023-43752 |
+| 2023-11-17 12:01:01.261032 | CVE-2023-47003 | cvss:0 (Not_rated)  | "(Redis, Execute arbitrary code, Denial of service)"                          | https://www.cve.org/CVERecord?id=CVE-2023-47003 |
+| 2023-11-17 12:01:02.316571 | CVE-2023-47471 | cvss:0 (Not_rated)  | "(Denial of service, Buffer Overflow)"                                        | https://www.cve.org/CVERecord?id=CVE-2023-47471 |
+| 2023-11-17 12:01:03.272381 | CVE-2023-47470 | cvss:0 (Not_rated)  | "(Remote Attack, Execute arbitrary code, Denial of service, Buffer Overflow)" | https://www.cve.org/CVERecord?id=CVE-2023-47470 |
+| 2023-11-17 12:01:04.158319 | CVE-2023-48204 | cvss:0 (Not_rated)  | "(Remote Attack, obtain sensitive information)"                               | https://www.cve.org/CVERecord?id=CVE-2023-48204 |
+| 2023-11-17 12:01:05.147793 | CVE-2023-48200 | cvss:0 (Not_rated)  | "(Execute arbitrary code, obtain sensitive information)"                      | https://www.cve.org/CVERecord?id=CVE-2023-48200 |
+| 2023-11-17 12:01:06.164793 | CVE-2023-48199 | cvss:0 (Not_rated)  | "(Execute arbitrary code, obtain sensitive information)"                      | https://www.cve.org/CVERecord?id=CVE-2023-48199 |
+| 2023-11-17 12:01:07.077993 | CVE-2023-48198 | cvss:0 (Not_rated)  | "(Execute arbitrary code, obtain sensitive information)"                      | https://www.cve.org/CVERecord?id=CVE-2023-48198 |
+| 2023-11-17 12:01:08.059281 | CVE-2023-48197 | cvss:0 (Not_rated)  | "(Execute arbitrary code, obtain sensitive information)"                      | https://www.cve.org/CVERecord?id=CVE-2023-48197 |
+| 2023-11-17 12:01:09.046857 | CVE-2023-48365 | cvss:9.6 (CRITICAL) | "(Remote code execution, Remote Attack, Improper Validation)"                 | https://www.cve.org/CVERecord?id=CVE-2023-48365 |
+| 2023-11-17 12:01:10.035472 | CVE-2023-47444 | cvss:0 (Not_rated)  | "(PHP, Remote code execution)"                                                | https://www.cve.org/CVERecord?id=CVE-2023-47444 |
+| 2023-11-17 12:01:10.966857 | CVE-2023-47347 | cvss:0 (Not_rated)  | "(Denial of service, Buffer Overflow)"                                        | https://www.cve.org/CVERecord?id=CVE-2023-47347 |
+| 2023-11-17 12:01:11.963733 | CVE-2023-47345 | cvss:0 (Not_rated)  | "(Denial of service, Buffer Overflow)"                                        | https://www.cve.org/CVERecord?id=CVE-2023-47345 |
+| 2023-11-17 12:01:12.857169 | CVE-2023-41442 | cvss:0 (Not_rated)  | "(Remote Attack, Execute arbitrary code, crafted request)"                    | https://www.cve.org/CVERecord?id=CVE-2023-41442 |
+| 2023-11-17 12:01:13.839916 | CVE-2023-6112  | cvss:0 (Not_rated)  | "(Google Chrome, Use after free, Remote Attack, Heap corruption)"             | https://www.cve.org/CVERecord?id=CVE-2023-6112  |
+| 2023-11-17 12:01:14.855884 | CVE-2023-5997  | cvss:0 (Not_rated)  | "(Google Chrome, Use after free, Remote Attack, Heap corruption)"             | https://www.cve.org/CVERecord?id=CVE-2023-5997  |
