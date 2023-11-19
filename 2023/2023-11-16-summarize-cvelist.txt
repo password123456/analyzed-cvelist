@@ -1,0 +1,7 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                 | link                                            |
+|----------------------------|----------------|--------------------|-----------------------------------------|-------------------------------------------------|
+| 2023-11-16 12:00:25.649366 | CVE-2023-23549 | cvss:2.7 (LOW)     | "(Input validation, Denial of service)" | https://www.cve.org/CVERecord?id=CVE-2023-23549 |
+| 2023-11-16 12:00:26.728110 | CVE-2023-46672 | cvss:8.4 (HIGH)    | (Logstash)                              | https://www.cve.org/CVERecord?id=CVE-2023-46672 |
+| 2023-11-16 12:00:27.824105 | CVE-2023-40923 | cvss:0 (Not_rated) | "(PHP, SQL injection)"                  | https://www.cve.org/CVERecord?id=CVE-2023-40923 |
