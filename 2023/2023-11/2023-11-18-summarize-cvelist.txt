@@ -1,0 +1,24 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                              | link                                            |
+|----------------------------|----------------|--------------------|----------------------------------------------------------------------|-------------------------------------------------|
+| 2023-11-18 06:00:23.234584 | CVE-2023-6188  | cvss:4.7 (MEDIUM)  | "(PHP, Code Injection, Critical)"                                    | https://www.cve.org/CVERecord?id=CVE-2023-6188  |
+| 2023-11-18 06:00:24.253032 | CVE-2023-48185 | cvss:0 (Not_rated) | "(Remote Attack, Directory traversal, obtain sensitive information)" | https://www.cve.org/CVERecord?id=CVE-2023-48185 |
+| 2023-11-18 06:00:25.247618 | CVE-2023-44355 | cvss:4.3 (MEDIUM)  | "(Input validation, Security Feature Bypass)"                        | https://www.cve.org/CVERecord?id=CVE-2023-44355 |
+| 2023-11-18 06:00:26.173775 | CVE-2023-26364 | cvss:5.3 (MEDIUM)  | "(Input validation, Denial of service)"                              | https://www.cve.org/CVERecord?id=CVE-2023-26364 |
+| 2023-11-18 06:00:27.166942 | CVE-2023-26347 | cvss:7.5 (HIGH)    | "(Security Feature Bypass, Improper access control)"                 | https://www.cve.org/CVERecord?id=CVE-2023-26347 |
+| 2023-11-18 06:00:28.146989 | CVE-2023-22275 | cvss:7.5 (HIGH)    | "(SQL injection, Information disclosure, Improper Neutralization)"   | https://www.cve.org/CVERecord?id=CVE-2023-22275 |
+| 2023-11-18 06:00:29.150890 | CVE-2023-22274 | cvss:7.5 (HIGH)    | "(XXE, XML external entity, Information disclosure)"                 | https://www.cve.org/CVERecord?id=CVE-2023-22274 |
+| 2023-11-18 06:00:30.180882 | CVE-2023-22273 | cvss:7.2 (HIGH)    | "(Remote code execution, Path Traversal)"                            | https://www.cve.org/CVERecord?id=CVE-2023-22273 |
+| 2023-11-18 06:00:31.144280 | CVE-2023-22272 | cvss:7.5 (HIGH)    | "(Input validation, Information disclosure)"                         | https://www.cve.org/CVERecord?id=CVE-2023-22272 |
+| 2023-11-18 06:00:32.158532 | CVE-2023-22268 | cvss:6.5 (MEDIUM)  | "(SQL injection, Information disclosure, Improper Neutralization)"   | https://www.cve.org/CVERecord?id=CVE-2023-22268 |
+| 2023-11-18 06:00:33.161594 | CVE-2023-47073 | cvss:7.8 (HIGH)    | "(Arbitrary code execution, out-of-bounds)"                          | https://www.cve.org/CVERecord?id=CVE-2023-47073 |
+| 2023-11-18 06:00:34.116318 | CVE-2023-47070 | cvss:7.8 (HIGH)    | "(Arbitrary code execution, out-of-bounds)"                          | https://www.cve.org/CVERecord?id=CVE-2023-47070 |
+| 2023-11-18 06:00:35.199325 | CVE-2023-44326 | cvss:5.5 (MEDIUM)  | "(Adobe Dimension, out-of-bounds)"                                   | https://www.cve.org/CVERecord?id=CVE-2023-44326 |
+| 2023-11-18 06:00:36.278544 | CVE-2023-41101 | cvss:0 (Not_rated) | "(Remote code execution, Buffer Overflow)"                           | https://www.cve.org/CVERecord?id=CVE-2023-41101 |
+| 2023-11-18 06:00:37.246086 | CVE-2023-48659 | cvss:0 (Not_rated) | (PHP)                                                                | https://www.cve.org/CVERecord?id=CVE-2023-48659 |
+| 2023-11-18 06:00:38.232535 | CVE-2023-48658 | cvss:0 (Not_rated) | (PHP)                                                                | https://www.cve.org/CVERecord?id=CVE-2023-48658 |
+| 2023-11-18 06:00:39.241212 | CVE-2023-48657 | cvss:0 (Not_rated) | (PHP)                                                                | https://www.cve.org/CVERecord?id=CVE-2023-48657 |
+| 2023-11-18 06:00:40.245989 | CVE-2023-48656 | cvss:0 (Not_rated) | (PHP)                                                                | https://www.cve.org/CVERecord?id=CVE-2023-48656 |
+| 2023-11-18 06:00:41.231185 | CVE-2023-48655 | cvss:0 (Not_rated) | (PHP)                                                                | https://www.cve.org/CVERecord?id=CVE-2023-48655 |
+| 2023-11-18 06:00:42.274265 | CVE-2023-48031 | cvss:0 (Not_rated) | "(File Upload, Unrestricted Upload, Execute arbitrary code)"         | https://www.cve.org/CVERecord?id=CVE-2023-48031 |
