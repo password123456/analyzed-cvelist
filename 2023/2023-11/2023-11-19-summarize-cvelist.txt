@@ -1,0 +1,7 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3           | summary                                          | link                                            |
+|----------------------------|----------------|-------------------|--------------------------------------------------|-------------------------------------------------|
+| 2023-11-19 08:00:23.948798 | CVE-2023-48294 | cvss:4.3 (MEDIUM) | "(MySQL, PHP)"                                   | https://www.cve.org/CVERecord?id=CVE-2023-48294 |
+| 2023-11-19 08:00:25.048668 | CVE-2023-46745 | cvss:5.3 (MEDIUM) | "(MySQL, PHP)"                                   | https://www.cve.org/CVERecord?id=CVE-2023-46745 |
+| 2023-11-19 08:00:26.833567 | CVE-2023-6178  | cvss:None         | "(Denial of service, Overwrite Arbitrary Files)" | https://www.cve.org/CVERecord?id=CVE-2023-6178  |
