@@ -1,0 +1,16 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                         | link                                            |
+|----------------------------|----------------|--------------------|-----------------------------------------------------------------|-------------------------------------------------|
+| 2023-11-21 04:00:23.264731 | CVE-2023-6045  | cvss:5.9 (MEDIUM)  | "(Arbitrary code execution, Type confusion)"                    | https://www.cve.org/CVERecord?id=CVE-2023-6045  |
+| 2023-11-21 04:00:24.207576 | CVE-2023-5593  | cvss:7.8 (HIGH)    | "(VPN client, Privilege Escalation, out-of-bounds)"             | https://www.cve.org/CVERecord?id=CVE-2023-5593  |
+| 2023-11-21 04:00:25.195725 | CVE-2023-47175 | cvss:0 (Not_rated) | "(MySQL, sqlite)"                                               | https://www.cve.org/CVERecord?id=CVE-2023-47175 |
+| 2023-11-21 04:00:26.164388 | CVE-2023-46700 | cvss:0 (Not_rated) | "(MySQL, sqlite, SQL injection, crafted request)"               | https://www.cve.org/CVERecord?id=CVE-2023-46700 |
+| 2023-11-21 12:00:23.976140 | CVE-2023-48176 | cvss:0 (Not_rated) | "(Remote Attack, Insecure permission)"                          | https://www.cve.org/CVERecord?id=CVE-2023-48176 |
+| 2023-11-21 12:00:25.032482 | CVE-2023-6062  | cvss:6.8 (MEDIUM)  | "(Remote Attack, Denial of service, Overwrite Arbitrary Files)" | https://www.cve.org/CVERecord?id=CVE-2023-6062  |
+| 2023-11-21 12:00:26.006835 | CVE-2023-46471 | cvss:0 (Not_rated) | "(Remote Attack, Execute arbitrary code)"                       | https://www.cve.org/CVERecord?id=CVE-2023-46471 |
+| 2023-11-21 12:00:27.010740 | CVE-2023-46470 | cvss:0 (Not_rated) | "(Remote Attack, Execute arbitrary code)"                       | https://www.cve.org/CVERecord?id=CVE-2023-46470 |
+| 2023-11-21 12:00:27.946820 | CVE-2023-46990 | cvss:0 (Not_rated) | "(Remote Attack, Execute arbitrary code)"                       | https://www.cve.org/CVERecord?id=CVE-2023-46990 |
+| 2023-11-21 12:00:28.960664 | CVE-2023-38884 | cvss:0 (Not_rated) | "(Remote Attack, IDOR)"                                         | https://www.cve.org/CVERecord?id=CVE-2023-38884 |
+| 2023-11-21 12:00:30.067600 | CVE-2023-38879 | cvss:0 (Not_rated) | "(PHP, Remote Attack, Directory traversal)"                     | https://www.cve.org/CVERecord?id=CVE-2023-38879 |
+| 2023-11-21 12:00:31.010098 | CVE-2023-48221 | cvss:7.3 (HIGH)    | "(Execute arbitrary code, Denial of service)"                   | https://www.cve.org/CVERecord?id=CVE-2023-48221 |
