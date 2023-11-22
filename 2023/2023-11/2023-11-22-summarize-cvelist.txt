@@ -1,0 +1,16 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                            | link                                            |
+|----------------------------|----------------|--------------------|--------------------------------------------------------------------|-------------------------------------------------|
+| 2023-11-22 12:00:24.973093 | CVE-2023-48701 | cvss:7.5 (HIGH)    | (Laravel)                                                          | https://www.cve.org/CVERecord?id=CVE-2023-48701 |
+| 2023-11-22 12:00:25.981376 | CVE-2023-6248  | cvss:10 (CRITICAL) | "(Arbitrary Command, Execute arbitrary command)"                   | https://www.cve.org/CVERecord?id=CVE-2023-6248  |
+| 2023-11-22 12:00:26.919701 | CVE-2023-49103 | cvss:10 (CRITICAL) | "(Docker, PHP)"                                                    | https://www.cve.org/CVERecord?id=CVE-2023-49103 |
+| 2023-11-22 12:00:27.892774 | CVE-2023-6238  | cvss:0 (Not_rated) | "(Memory access, Overwriting, Memory corruption, Buffer Overflow)" | https://www.cve.org/CVERecord?id=CVE-2023-6238  |
+| 2023-11-22 12:00:28.868121 | CVE-2023-48230 | cvss:5.9 (MEDIUM)  | "(Websocket, Remote code execution, out-of-bounds)"                | https://www.cve.org/CVERecord?id=CVE-2023-48230 |
+| 2023-11-22 12:00:29.865594 | CVE-2023-47643 | cvss:3.1 (LOW)     | (GraphQL)                                                          | https://www.cve.org/CVERecord?id=CVE-2023-47643 |
+| 2023-11-22 12:00:30.864034 | CVE-2023-20274 | cvss:6.3 (MEDIUM)  | (PHP)                                                              | https://www.cve.org/CVERecord?id=CVE-2023-20274 |
+| 2023-11-22 12:00:31.874646 | CVE-2023-20272 | cvss:6.7 (MEDIUM)  | "(Remote Attack, Input validation)"                                | https://www.cve.org/CVERecord?id=CVE-2023-20272 |
+| 2023-11-22 12:00:32.834560 | CVE-2023-22521 | cvss:0 (Not_rated) | "(Atlassian, Remote code execution, Execute arbitrary code)"       | https://www.cve.org/CVERecord?id=CVE-2023-22521 |
+| 2023-11-22 12:00:33.808877 | CVE-2023-22516 | cvss:0 (Not_rated) | "(Atlassian, Remote code execution, Execute arbitrary code)"       | https://www.cve.org/CVERecord?id=CVE-2023-22516 |
+| 2023-11-22 12:00:34.774934 | CVE-2023-48124 | cvss:0 (Not_rated) | "(Remote Attack, Execute arbitrary code)"                          | https://www.cve.org/CVERecord?id=CVE-2023-48124 |
+| 2023-11-22 12:00:35.873209 | CVE-2023-45886 | cvss:0 (Not_rated) | "(Remote Attack, Denial of service)"                               | https://www.cve.org/CVERecord?id=CVE-2023-45886 |
