@@ -1,0 +1,48 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                               | link                                            |
+|----------------------------|----------------|---------------------|-------------------------------------------------------|-------------------------------------------------|
+| 2023-11-23 13:00:24.086782 | CVE-2023-47835 | cvss:6.5 (MEDIUM)   | "(WordPress, Plugin, Improper Neutralization)"        | https://www.cve.org/CVERecord?id=CVE-2023-47835 |
+| 2023-11-23 13:00:25.128791 | CVE-2023-47834 | cvss:6.5 (MEDIUM)   | "(Plugin, Improper Neutralization)"                   | https://www.cve.org/CVERecord?id=CVE-2023-47834 |
+| 2023-11-23 13:00:26.188767 | CVE-2023-47668 | cvss:5.3 (MEDIUM)   | "(Plugin, Exposure of Sensitive)"                     | https://www.cve.org/CVERecord?id=CVE-2023-47668 |
+| 2023-11-23 13:00:27.157446 | CVE-2023-40002 | cvss:6.5 (MEDIUM)   | "(Plugin, Exposure of Sensitive)"                     | https://www.cve.org/CVERecord?id=CVE-2023-40002 |
+| 2023-11-23 13:00:28.176226 | CVE-2023-30581 | cvss:0 (Not_rated)  | (Node.js)                                             | https://www.cve.org/CVERecord?id=CVE-2023-30581 |
+| 2023-11-23 13:00:29.205361 | CVE-2023-23978 | cvss:4.3 (MEDIUM)   | "(Plugin, Exposure of Sensitive)"                     | https://www.cve.org/CVERecord?id=CVE-2023-23978 |
+| 2023-11-23 13:00:30.175115 | CVE-2023-48107 | cvss:0 (Not_rated)  | "(Execute arbitrary code, Buffer Overflow)"           | https://www.cve.org/CVERecord?id=CVE-2023-48107 |
+| 2023-11-23 13:00:31.147983 | CVE-2023-48105 | cvss:0 (Not_rated)  | "(Remote Attack, Denial of service)"                  | https://www.cve.org/CVERecord?id=CVE-2023-48105 |
+| 2023-11-23 13:00:32.117459 | CVE-2023-47831 | cvss:6.5 (MEDIUM)   | "(Plugin, Improper Neutralization)"                   | https://www.cve.org/CVERecord?id=CVE-2023-47831 |
+| 2023-11-23 13:00:33.113769 | CVE-2023-47829 | cvss:5.9 (MEDIUM)   | "(Plugin, Improper Neutralization)"                   | https://www.cve.org/CVERecord?id=CVE-2023-47829 |
+| 2023-11-23 13:00:34.163135 | CVE-2023-47821 | cvss:6.5 (MEDIUM)   | "(Plugin, Improper Neutralization)"                   | https://www.cve.org/CVERecord?id=CVE-2023-47821 |
+| 2023-11-23 13:00:35.256299 | CVE-2023-47817 | cvss:6.5 (MEDIUM)   | "(Plugin, Improper Neutralization)"                   | https://www.cve.org/CVERecord?id=CVE-2023-47817 |
+| 2023-11-23 13:00:36.189887 | CVE-2023-47816 | cvss:6.5 (MEDIUM)   | "(Plugin, Improper Neutralization)"                   | https://www.cve.org/CVERecord?id=CVE-2023-47816 |
+| 2023-11-23 13:00:37.258025 | CVE-2023-47815 | cvss:6.5 (MEDIUM)   | "(Plugin, Improper Neutralization)"                   | https://www.cve.org/CVERecord?id=CVE-2023-47815 |
+| 2023-11-23 13:00:38.247504 | CVE-2023-47814 | cvss:6.5 (MEDIUM)   | "(Plugin, Improper Neutralization)"                   | https://www.cve.org/CVERecord?id=CVE-2023-47814 |
+| 2023-11-23 13:00:39.254832 | CVE-2023-47813 | cvss:6.5 (MEDIUM)   | "(Plugin, Improper Neutralization)"                   | https://www.cve.org/CVERecord?id=CVE-2023-47813 |
+| 2023-11-23 13:00:40.297036 | CVE-2023-47812 | cvss:6.5 (MEDIUM)   | "(Plugin, Improper Neutralization)"                   | https://www.cve.org/CVERecord?id=CVE-2023-47812 |
+| 2023-11-23 13:00:41.259629 | CVE-2023-47811 | cvss:6.5 (MEDIUM)   | "(Plugin, Improper Neutralization)"                   | https://www.cve.org/CVERecord?id=CVE-2023-47811 |
+| 2023-11-23 13:00:42.259473 | CVE-2023-47810 | cvss:6.5 (MEDIUM)   | "(Plugin, Improper Neutralization)"                   | https://www.cve.org/CVERecord?id=CVE-2023-47810 |
+| 2023-11-23 13:00:43.336271 | CVE-2023-47809 | cvss:5.9 (MEDIUM)   | "(Plugin, Improper Neutralization)"                   | https://www.cve.org/CVERecord?id=CVE-2023-47809 |
+| 2023-11-23 13:00:44.361976 | CVE-2023-47808 | cvss:6.5 (MEDIUM)   | "(Plugin, Improper Neutralization)"                   | https://www.cve.org/CVERecord?id=CVE-2023-47808 |
+| 2023-11-23 13:00:45.342770 | CVE-2023-47786 | cvss:6.5 (MEDIUM)   | "(Plugin, Improper Neutralization)"                   | https://www.cve.org/CVERecord?id=CVE-2023-47786 |
+| 2023-11-23 13:00:46.349649 | CVE-2023-47773 | cvss:7.1 (HIGH)     | "(Plugin, Improper Neutralization)"                   | https://www.cve.org/CVERecord?id=CVE-2023-47773 |
+| 2023-11-23 13:00:47.350467 | CVE-2023-47768 | cvss:7.1 (HIGH)     | "(Plugin, Improper Neutralization)"                   | https://www.cve.org/CVERecord?id=CVE-2023-47768 |
+| 2023-11-23 13:00:48.425440 | CVE-2023-47767 | cvss:7.1 (HIGH)     | "(Plugin, Improper Neutralization)"                   | https://www.cve.org/CVERecord?id=CVE-2023-47767 |
+| 2023-11-23 13:00:49.423439 | CVE-2023-47766 | cvss:7.1 (HIGH)     | "(Plugin, Improper Neutralization)"                   | https://www.cve.org/CVERecord?id=CVE-2023-47766 |
+| 2023-11-23 13:00:50.369578 | CVE-2023-47759 | cvss:5.9 (MEDIUM)   | "(Plugin, Improper Neutralization)"                   | https://www.cve.org/CVERecord?id=CVE-2023-47759 |
+| 2023-11-23 13:00:51.403386 | CVE-2023-30496 | cvss:7.1 (HIGH)     | "(Plugin, Improper Neutralization)"                   | https://www.cve.org/CVERecord?id=CVE-2023-30496 |
+| 2023-11-23 13:00:52.356652 | CVE-2022-36777 | cvss:4.3 (MEDIUM)   | (IBM QRadar)                                          | https://www.cve.org/CVERecord?id=CVE-2022-36777 |
+| 2023-11-23 13:00:53.352531 | CVE-2023-48646 | cvss:0 (Not_rated)  | "(Arbitrary Command, Execute arbitrary command)"      | https://www.cve.org/CVERecord?id=CVE-2023-48646 |
+| 2023-11-23 13:00:54.388540 | CVE-2023-48106 | cvss:0 (Not_rated)  | "(Execute arbitrary code, Buffer Overflow)"           | https://www.cve.org/CVERecord?id=CVE-2023-48106 |
+| 2023-11-23 13:00:55.426853 | CVE-2023-47755 | cvss:6.5 (MEDIUM)   | "(Plugin, Improper Neutralization)"                   | https://www.cve.org/CVERecord?id=CVE-2023-47755 |
+| 2023-11-23 13:00:56.445284 | CVE-2023-47467 | cvss:0 (Not_rated)  | "(Directory traversal, obtain sensitive information)" | https://www.cve.org/CVERecord?id=CVE-2023-47467 |
+| 2023-11-23 13:00:57.422030 | CVE-2023-6157  | cvss:7.6 (HIGH)     | "(Command execution, Improper Neutralization)"        | https://www.cve.org/CVERecord?id=CVE-2023-6157  |
+| 2023-11-23 13:00:58.369908 | CVE-2023-6156  | cvss:7.6 (HIGH)     | "(Command execution, Improper Neutralization)"        | https://www.cve.org/CVERecord?id=CVE-2023-6156  |
+| 2023-11-23 13:00:59.282825 | CVE-2023-20241 | cvss:5.5 (MEDIUM)   | "(Denial of service, out-of-bounds)"                  | https://www.cve.org/CVERecord?id=CVE-2023-20241 |
+| 2023-11-23 13:01:00.175605 | CVE-2023-20240 | cvss:5.5 (MEDIUM)   | "(Denial of service, out-of-bounds)"                  | https://www.cve.org/CVERecord?id=CVE-2023-20240 |
+| 2023-11-23 13:01:01.170397 | CVE-2023-48705 | cvss:7.1 (HIGH)     | (Django)                                              | https://www.cve.org/CVERecord?id=CVE-2023-48705 |
+| 2023-11-23 13:01:02.053499 | CVE-2023-2889  | cvss:9.8 (CRITICAL) | "(SQL injection, Improper Neutralization)"            | https://www.cve.org/CVERecord?id=CVE-2023-2889  |
+| 2023-11-23 13:01:02.967854 | CVE-2023-27451 | cvss:7.2 (HIGH)     | "(Plugin, Server-side Request Forgery)"               | https://www.cve.org/CVERecord?id=CVE-2023-27451 |
+| 2023-11-23 13:01:03.958615 | CVE-2023-5047  | cvss:9.8 (CRITICAL) | "(SQL injection, Improper Neutralization)"            | https://www.cve.org/CVERecord?id=CVE-2023-5047  |
+| 2023-11-23 13:01:04.933305 | CVE-2023-46673 | cvss:6.5 (MEDIUM)   | (ElasticSearch)                                       | https://www.cve.org/CVERecord?id=CVE-2023-46673 |
+| 2023-11-23 13:01:05.990829 | CVE-2023-29069 | cvss:0 (Not_rated)  | "(Crafted DLL, Privilege Escalation)"                 | https://www.cve.org/CVERecord?id=CVE-2023-29069 |
+| 2023-11-23 13:01:06.929641 | CVE-2023-48161 | cvss:0 (Not_rated)  | "(Buffer Overflow, obtain sensitive information)"     | https://www.cve.org/CVERecord?id=CVE-2023-48161 |
