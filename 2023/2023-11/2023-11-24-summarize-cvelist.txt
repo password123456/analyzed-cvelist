@@ -1,0 +1,21 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                                         | link                                            |
+|----------------------------|----------------|---------------------|-----------------------------------------------------------------|-------------------------------------------------|
+| 2023-11-24 14:00:22.211869 | CVE-2023-26279 | cvss:3.3 (LOW)      | (IBM QRadar)                                                    | https://www.cve.org/CVERecord?id=CVE-2023-26279 |
+| 2023-11-24 14:00:23.166747 | CVE-2023-49213 | cvss:0 (Not_rated)  | "(Remote Attack, Arbitrary Command, Execute arbitrary command)" | https://www.cve.org/CVERecord?id=CVE-2023-49213 |
+| 2023-11-24 14:00:24.146551 | CVE-2023-49210 | cvss:0 (Not_rated)  | "(OpenSSL, npm, Command execution)"                             | https://www.cve.org/CVERecord?id=CVE-2023-49210 |
+| 2023-11-24 14:00:25.103330 | CVE-2023-33202 | cvss:0 (Not_rated)  | "(OpenSSL, Denial of service)"                                  | https://www.cve.org/CVERecord?id=CVE-2023-33202 |
+| 2023-11-24 14:00:26.085628 | CVE-2023-41812 | cvss:5.7 (MEDIUM)   | "(PHP, Unrestricted Upload)"                                    | https://www.cve.org/CVERecord?id=CVE-2023-41812 |
+| 2023-11-24 14:00:27.100068 | CVE-2023-41788 | cvss:7.6 (HIGH)     | "(PHP, File Upload, Unrestricted Upload)"                       | https://www.cve.org/CVERecord?id=CVE-2023-41788 |
+| 2023-11-24 14:00:28.078798 | CVE-2023-3631  | cvss:9.8 (CRITICAL) | "(SQL injection, Improper Neutralization)"                      | https://www.cve.org/CVERecord?id=CVE-2023-3631  |
+| 2023-11-24 14:00:28.981343 | CVE-2023-3377  | cvss:9.8 (CRITICAL) | "(SQL injection, Improper Neutralization)"                      | https://www.cve.org/CVERecord?id=CVE-2023-3377  |
+| 2023-11-24 14:00:29.924609 | CVE-2023-28812 | cvss:9.1 (HIGH)     | "(Arbitrary code execution, Buffer Overflow)"                   | https://www.cve.org/CVERecord?id=CVE-2023-28812 |
+| 2023-11-24 14:00:30.868689 | CVE-2023-44290 | cvss:7.3 (HIGH)     | "(Privilege Escalation, Improper access control)"               | https://www.cve.org/CVERecord?id=CVE-2023-44290 |
+| 2023-11-24 14:00:31.823298 | CVE-2023-44289 | cvss:7.3 (HIGH)     | "(Privilege Escalation, Improper access control)"               | https://www.cve.org/CVERecord?id=CVE-2023-44289 |
+| 2023-11-24 14:00:32.762783 | CVE-2023-43086 | cvss:7.3 (HIGH)     | "(Privilege Escalation, Improper access control)"               | https://www.cve.org/CVERecord?id=CVE-2023-43086 |
+| 2023-11-24 14:00:33.646365 | CVE-2023-39253 | cvss:7.3 (HIGH)     | "(Elevation of privilege, Improper access control)"             | https://www.cve.org/CVERecord?id=CVE-2023-39253 |
+| 2023-11-24 14:00:34.562148 | CVE-2023-41140 | cvss:0 (Not_rated)  | "(Execute arbitrary code, Buffer Overflow)"                     | https://www.cve.org/CVERecord?id=CVE-2023-41140 |
+| 2023-11-24 14:00:35.509362 | CVE-2023-29075 | cvss:0 (Not_rated)  | "(Execute arbitrary code, out-of-bounds)"                       | https://www.cve.org/CVERecord?id=CVE-2023-29075 |
+| 2023-11-24 14:00:36.469129 | CVE-2023-29074 | cvss:0 (Not_rated)  | "(Execute arbitrary code, out-of-bounds)"                       | https://www.cve.org/CVERecord?id=CVE-2023-29074 |
+| 2023-11-24 14:00:37.432953 | CVE-2023-29073 | cvss:0 (Not_rated)  | "(Execute arbitrary code, Buffer Overflow)"                     | https://www.cve.org/CVERecord?id=CVE-2023-29073 |
