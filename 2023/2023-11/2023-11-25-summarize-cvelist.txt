@@ -1,0 +1,10 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                                                                | link                                            |
+|----------------------------|----------------|---------------------|----------------------------------------------------------------------------------------|-------------------------------------------------|
+| 2023-11-25 06:00:25.130460 | CVE-2023-48312 | cvss:9.8 (CRITICAL) | "(Kubernetes, Privilege Escalation)"                                                   | https://www.cve.org/CVERecord?id=CVE-2023-48312 |
+| 2023-11-25 06:00:26.089540 | CVE-2023-48712 | cvss:7.1 (HIGH)     | "(MySQL, Warpgate, Privilege Escalation)"                                              | https://www.cve.org/CVERecord?id=CVE-2023-48712 |
+| 2023-11-25 06:00:27.035028 | CVE-2023-48711 | cvss:3.7 (LOW)      | "(npm, Server-side Request Forgery)"                                                   | https://www.cve.org/CVERecord?id=CVE-2023-48711 |
+| 2023-11-25 06:00:28.072561 | CVE-2023-6276  | cvss:6.3 (MEDIUM)   | "(PHP, SQL injection, Critical)"                                                       | https://www.cve.org/CVERecord?id=CVE-2023-6276  |
+| 2023-11-25 06:00:29.058266 | CVE-2023-6274  | cvss:6.3 (MEDIUM)   | "(PHP, Unrestricted Upload, Critical)"                                                 | https://www.cve.org/CVERecord?id=CVE-2023-6274  |
+| 2023-11-25 06:00:30.052407 | CVE-2023-46575 | cvss:0 (Not_rated)  | "(Remote Attack, SQL injection, Execute arbitrary code, obtain sensitive information)" | https://www.cve.org/CVERecord?id=CVE-2023-46575 |
