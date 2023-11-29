@@ -1,0 +1,43 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                                                 | link                                            |
+|----------------------------|----------------|---------------------|-------------------------------------------------------------------------|-------------------------------------------------|
+| 2023-11-28 04:00:23.588169 | CVE-2023-4931  | cvss:6.3 (MEDIUM)   | "(SAML, Execute arbitrary code)"                                        | https://www.cve.org/CVERecord?id=CVE-2023-4931  |
+| 2023-11-28 04:00:24.788002 | CVE-2023-4590  | cvss:7.3 (HIGH)     | "(Execute arbitrary code, Buffer Overflow)"                             | https://www.cve.org/CVERecord?id=CVE-2023-4590  |
+| 2023-11-28 04:00:25.924153 | CVE-2023-6309  | cvss:5.5 (MEDIUM)   | "(PHP, Command injection, Critical)"                                    | https://www.cve.org/CVERecord?id=CVE-2023-6309  |
+| 2023-11-28 04:00:27.012177 | CVE-2023-6308  | cvss:6.3 (MEDIUM)   | "(Unrestricted Upload, Critical)"                                       | https://www.cve.org/CVERecord?id=CVE-2023-6308  |
+| 2023-11-28 04:00:27.981458 | CVE-2023-6307  | cvss:6.3 (MEDIUM)   | "(Path Traversal, Critical)"                                            | https://www.cve.org/CVERecord?id=CVE-2023-6307  |
+| 2023-11-28 04:00:28.969889 | CVE-2023-6304  | cvss:7.2 (HIGH)     | "(Command injection, Critical)"                                         | https://www.cve.org/CVERecord?id=CVE-2023-6304  |
+| 2023-11-28 04:00:29.965697 | CVE-2023-6297  | cvss:4.3 (MEDIUM)   | (PHP)                                                                   | https://www.cve.org/CVERecord?id=CVE-2023-6297  |
+| 2023-11-28 22:00:23.056609 | CVE-2023-34055 | cvss:5.3 (MEDIUM)   | "(spring-boot, Spring Boot, Spring MVC)"                                | https://www.cve.org/CVERecord?id=CVE-2023-34055 |
+| 2023-11-28 22:00:24.031082 | CVE-2023-34053 | cvss:5.3 (MEDIUM)   | "(Spring Framework, spring-boot, Spring Boot, Spring MVC)"              | https://www.cve.org/CVERecord?id=CVE-2023-34053 |
+| 2023-11-28 22:00:25.058255 | CVE-2023-48022 | cvss:0 (Not_rated)  | "(Remote Attack, Execute arbitrary code)"                               | https://www.cve.org/CVERecord?id=CVE-2023-48022 |
+| 2023-11-28 22:00:26.080297 | CVE-2023-4226  | cvss:8.8 (HIGH)     | "(PHP, Remote code execution, File Upload)"                             | https://www.cve.org/CVERecord?id=CVE-2023-4226  |
+| 2023-11-28 22:00:27.047898 | CVE-2023-4225  | cvss:8.8 (HIGH)     | "(PHP, Remote code execution, File Upload)"                             | https://www.cve.org/CVERecord?id=CVE-2023-4225  |
+| 2023-11-28 22:00:28.092942 | CVE-2023-4224  | cvss:8.8 (HIGH)     | "(PHP, Remote code execution, File Upload)"                             | https://www.cve.org/CVERecord?id=CVE-2023-4224  |
+| 2023-11-28 22:00:29.064427 | CVE-2023-4223  | cvss:8.8 (HIGH)     | "(PHP, Remote code execution, File Upload)"                             | https://www.cve.org/CVERecord?id=CVE-2023-4223  |
+| 2023-11-28 22:00:30.067193 | CVE-2023-4222  | cvss:7.2 (HIGH)     | "(PHP, Command injection, Remote code execution)"                       | https://www.cve.org/CVERecord?id=CVE-2023-4222  |
+| 2023-11-28 22:00:31.047069 | CVE-2023-4221  | cvss:7.2 (HIGH)     | "(PHP, Command injection, Remote code execution)"                       | https://www.cve.org/CVERecord?id=CVE-2023-4221  |
+| 2023-11-28 22:00:32.006418 | CVE-2023-4220  | cvss:8.1 (HIGH)     | "(PHP, Remote code execution, File Upload)"                             | https://www.cve.org/CVERecord?id=CVE-2023-4220  |
+| 2023-11-28 22:00:32.943253 | CVE-2023-3545  | cvss:9.8 (CRITICAL) | "(PHP, Remote code execution, File Upload)"                             | https://www.cve.org/CVERecord?id=CVE-2023-3545  |
+| 2023-11-28 22:00:33.898182 | CVE-2023-3533  | cvss:9.8 (CRITICAL) | "(PHP, Remote code execution, File Upload, Path Traversal)"             | https://www.cve.org/CVERecord?id=CVE-2023-3533  |
+| 2023-11-28 22:00:34.913754 | CVE-2023-3368  | cvss:9.8 (CRITICAL) | "(PHP, Command injection, Remote code execution)"                       | https://www.cve.org/CVERecord?id=CVE-2023-3368  |
+| 2023-11-28 22:00:35.884058 | CVE-2023-48713 | cvss:6.5 (MEDIUM)   | (Kubernetes)                                                            | https://www.cve.org/CVERecord?id=CVE-2023-48713 |
+| 2023-11-28 22:00:36.885184 | CVE-2023-47503 | cvss:0 (Not_rated)  | "(Remote Attack, Execute arbitrary code)"                               | https://www.cve.org/CVERecord?id=CVE-2023-47503 |
+| 2023-11-28 22:00:37.885719 | CVE-2023-30585 | cvss:0 (Not_rated)  | "(Node.js, NT AUTHORITY\SYSTEM)"                                        | https://www.cve.org/CVERecord?id=CVE-2023-30585 |
+| 2023-11-28 22:00:38.855900 | CVE-2023-46480 | cvss:0 (Not_rated)  | "(Remote Attack, Execute arbitrary code, obtain sensitive information)" | https://www.cve.org/CVERecord?id=CVE-2023-46480 |
+| 2023-11-28 22:00:39.826575 | CVE-2023-42364 | cvss:0 (Not_rated)  | "(use-after-free, Denial of service)"                                   | https://www.cve.org/CVERecord?id=CVE-2023-42364 |
+| 2023-11-28 22:00:40.771956 | CVE-2023-49030 | cvss:0 (Not_rated)  | "(PHP, Remote Attack, SQL injection, obtain sensitive information)"     | https://www.cve.org/CVERecord?id=CVE-2023-49030 |
+| 2023-11-28 22:00:41.787527 | CVE-2022-41951 | cvss:8.6 (HIGH)     | "(PHP, Path Traversal)"                                                 | https://www.cve.org/CVERecord?id=CVE-2022-41951 |
+| 2023-11-28 22:00:42.824851 | CVE-2023-49316 | cvss:0 (Not_rated)  | "(PHP, Denial of service)"                                              | https://www.cve.org/CVERecord?id=CVE-2023-49316 |
+| 2023-11-28 22:00:43.784534 | CVE-2023-49040 | cvss:0 (Not_rated)  | "(Remote Attack, Execute arbitrary code)"                               | https://www.cve.org/CVERecord?id=CVE-2023-49040 |
+| 2023-11-28 22:00:44.807944 | CVE-2023-49028 | cvss:0 (Not_rated)  | "(PHP, Remote Attack, Execute arbitrary code)"                          | https://www.cve.org/CVERecord?id=CVE-2023-49028 |
+| 2023-11-28 22:00:45.789034 | CVE-2023-42000 | cvss:6.5 (MEDIUM)   | "(Remote Attack, Path Traversal)"                                       | https://www.cve.org/CVERecord?id=CVE-2023-42000 |
+| 2023-11-28 22:00:46.848799 | CVE-2023-41999 | cvss:8.3 (HIGH)     | "(Remote Attack, Authentication bypass)"                                | https://www.cve.org/CVERecord?id=CVE-2023-41999 |
+| 2023-11-28 22:00:47.871163 | CVE-2023-49029 | cvss:0 (Not_rated)  | "(PHP, Remote Attack, Execute arbitrary code)"                          | https://www.cve.org/CVERecord?id=CVE-2023-49029 |
+| 2023-11-28 22:00:48.945648 | CVE-2023-41257 | cvss:8.8 (HIGH)     | "(Arbitrary code execution, Plugin, Memory corruption, Type confusion)" | https://www.cve.org/CVERecord?id=CVE-2023-41257 |
+| 2023-11-28 22:00:49.980233 | CVE-2023-40194 | cvss:8.8 (HIGH)     | "(Arbitrary code execution, Plugin)"                                    | https://www.cve.org/CVERecord?id=CVE-2023-40194 |
+| 2023-11-28 22:00:50.971450 | CVE-2023-39542 | cvss:8.8 (HIGH)     | "(Remote code execution, Plugin)"                                       | https://www.cve.org/CVERecord?id=CVE-2023-39542 |
+| 2023-11-28 22:00:51.860254 | CVE-2023-38573 | cvss:8.8 (HIGH)     | "(use-after-free, Arbitrary code execution, Plugin, Memory corruption)" | https://www.cve.org/CVERecord?id=CVE-2023-38573 |
+| 2023-11-28 22:00:52.774911 | CVE-2023-35985 | cvss:8.8 (HIGH)     | "(Arbitrary code execution, Plugin)"                                    | https://www.cve.org/CVERecord?id=CVE-2023-35985 |
+| 2023-11-28 22:00:53.727104 | CVE-2023-32616 | cvss:8.8 (HIGH)     | "(use-after-free, Arbitrary code execution, Plugin, Memory corruption)" | https://www.cve.org/CVERecord?id=CVE-2023-32616 |
