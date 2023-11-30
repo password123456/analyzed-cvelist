@@ -1,0 +1,13 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                                                    | link                                            |
+|----------------------------|----------------|---------------------|----------------------------------------------------------------------------|-------------------------------------------------|
+| 2023-11-29 09:00:22.373149 | CVE-2023-6201  | cvss:9.9 (CRITICAL) | "(Command injection, Improper Neutralization)"                             | https://www.cve.org/CVERecord?id=CVE-2023-6201  |
+| 2023-11-29 09:00:23.633523 | CVE-2023-42004 | cvss:8 (HIGH)       | "(Remote Attack, Improper Validation, CSV Injection)"                      | https://www.cve.org/CVERecord?id=CVE-2023-42004 |
+| 2023-11-29 22:00:23.413600 | CVE-2023-46944 | cvss:0 (Not_rated)  | "(Visual Studio, Execute arbitrary code)"                                  | https://www.cve.org/CVERecord?id=CVE-2023-46944 |
+| 2023-11-29 22:00:24.397882 | CVE-2023-48193 | cvss:0 (Not_rated)  | "(JumpServer, Remote Attack, Execute arbitrary code, Insecure permission)" | https://www.cve.org/CVERecord?id=CVE-2023-48193 |
+| 2023-11-29 22:00:25.447404 | CVE-2023-45539 | cvss:0 (Not_rated)  | "(Remote Attack, obtain sensitive information)"                            | https://www.cve.org/CVERecord?id=CVE-2023-45539 |
+| 2023-11-29 22:00:26.531609 | CVE-2023-30588 | cvss:0 (Not_rated)  | (Node.js)                                                                  | https://www.cve.org/CVERecord?id=CVE-2023-30588 |
+| 2023-11-29 22:00:27.462245 | CVE-2023-48121 | cvss:0 (Not_rated)  | "(Remote Attack, obtain sensitive information, Authentication bypass)"     | https://www.cve.org/CVERecord?id=CVE-2023-48121 |
+| 2023-11-29 22:00:28.485904 | CVE-2023-41264 | cvss:0 (Not_rated)  | "(Privilege Escalation, Authentication bypass)"                            | https://www.cve.org/CVERecord?id=CVE-2023-41264 |
+| 2023-11-29 22:00:29.432796 | CVE-2023-46589 | cvss:0 (Not_rated)  | "(Apache Tomcat, Input validation)"                                        | https://www.cve.org/CVERecord?id=CVE-2023-46589 |
