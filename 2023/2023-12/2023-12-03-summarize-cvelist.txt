@@ -1,0 +1,15 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                                | link                                            |
+|----------------------------|----------------|---------------------|--------------------------------------------------------|-------------------------------------------------|
+| 2023-12-03 00:00:24.291709 | CVE-2023-39257 | cvss:7.3 (HIGH)     | "(Privilege Escalation, Improper access control)"      | https://www.cve.org/CVERecord?id=CVE-2023-39257 |
+| 2023-12-03 00:00:25.285544 | CVE-2023-39256 | cvss:7.3 (HIGH)     | "(Privilege Escalation, Improper access control)"      | https://www.cve.org/CVERecord?id=CVE-2023-39256 |
+| 2023-12-03 00:00:26.288725 | CVE-2023-49914 | cvss:0 (Not_rated)  | "(Remote Attack, Denial of service)"                   | https://www.cve.org/CVERecord?id=CVE-2023-49914 |
+| 2023-12-03 00:00:27.266109 | CVE-2023-48887 | cvss:0 (Not_rated)  | "(Arbitrary Command, Execute arbitrary command)"       | https://www.cve.org/CVERecord?id=CVE-2023-48887 |
+| 2023-12-03 00:00:28.252981 | CVE-2023-48886 | cvss:0 (Not_rated)  | "(Arbitrary Command, Execute arbitrary command)"       | https://www.cve.org/CVERecord?id=CVE-2023-48886 |
+| 2023-12-03 00:00:29.187583 | CVE-2023-48314 | cvss:7.1 (HIGH)     | (PHP)                                                  | https://www.cve.org/CVERecord?id=CVE-2023-48314 |
+| 2023-12-03 00:00:30.132683 | CVE-2023-44382 | cvss:9.1 (CRITICAL) | (PHP)                                                  | https://www.cve.org/CVERecord?id=CVE-2023-44382 |
+| 2023-12-03 00:00:31.120825 | CVE-2023-44381 | cvss:4.9 (MEDIUM)   | (PHP)                                                  | https://www.cve.org/CVERecord?id=CVE-2023-44381 |
+| 2023-12-03 00:00:32.064990 | CVE-2023-43021 | cvss:5.3 (MEDIUM)   | "(Remote Attack, obtain sensitive information)"        | https://www.cve.org/CVERecord?id=CVE-2023-43021 |
+| 2023-12-03 00:00:32.978082 | CVE-2023-42019 | cvss:5.9 (MEDIUM)   | "(Remote Attack, Input validation, Denial of service)" | https://www.cve.org/CVERecord?id=CVE-2023-42019 |
+| 2023-12-03 00:00:33.845175 | CVE-2023-40699 | cvss:7.5 (HIGH)     | "(Remote Attack, Input validation, Denial of service)" | https://www.cve.org/CVERecord?id=CVE-2023-40699 |
