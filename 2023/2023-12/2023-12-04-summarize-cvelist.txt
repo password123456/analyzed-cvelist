@@ -1,0 +1,9 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                | link                                            |
+|----------------------------|----------------|--------------------|----------------------------------------|-------------------------------------------------|
+| 2023-12-04 12:00:22.969573 | CVE-2023-49947 | cvss:0 (Not_rated) | (Docker)                               | https://www.cve.org/CVERecord?id=CVE-2023-49947 |
+| 2023-12-04 12:00:24.250824 | CVE-2022-4957  | cvss:3.5 (LOW)     | (PHP)                                  | https://www.cve.org/CVERecord?id=CVE-2022-4957  |
+| 2023-12-04 12:00:25.464205 | CVE-2023-45178 | cvss:6.5 (MEDIUM)  | "(Denial of service, crafted request)" | https://www.cve.org/CVERecord?id=CVE-2023-45178 |
+| 2023-12-04 12:00:26.668136 | CVE-2023-6472  | cvss:2.4 (LOW)     | (PHP)                                  | https://www.cve.org/CVERecord?id=CVE-2023-6472  |
+| 2023-12-04 12:00:27.926201 | CVE-2023-6465  | cvss:4.3 (MEDIUM)  | (PHP)                                  | https://www.cve.org/CVERecord?id=CVE-2023-6465  |
