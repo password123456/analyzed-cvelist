@@ -1,0 +1,51 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                      | link                                            |
+|----------------------------|----------------|--------------------|--------------------------------------------------------------|-------------------------------------------------|
+| 2023-12-05 08:00:24.316962 | CVE-2023-48863 | cvss:0 (Not_rated) | "(SQL injection, Malicious SQL command)"                     | https://www.cve.org/CVERecord?id=CVE-2023-48863 |
+| 2023-12-05 08:00:25.285896 | CVE-2023-44306 | cvss:6.5 (MEDIUM)  | "(Remote Attack, Path Traversal)"                            | https://www.cve.org/CVERecord?id=CVE-2023-44306 |
+| 2023-12-05 08:00:26.296179 | CVE-2023-44305 | cvss:8.1 (HIGH)    | "(Remote Attack, Execute arbitrary code, Buffer Overflow)"   | https://www.cve.org/CVERecord?id=CVE-2023-44305 |
+| 2023-12-05 08:00:27.278137 | CVE-2023-44304 | cvss:8.8 (HIGH)    | "(Remote Attack, Privilege Escalation)"                      | https://www.cve.org/CVERecord?id=CVE-2023-44304 |
+| 2023-12-05 08:00:28.302922 | CVE-2023-44291 | cvss:7.2 (HIGH)    | "(Command injection, Remote Attack)"                         | https://www.cve.org/CVERecord?id=CVE-2023-44291 |
+| 2023-12-05 08:00:29.298556 | CVE-2023-32870 | cvss:0 (Not_rated) | "(Escalation of Privilege, Out of Bounds)"                   | https://www.cve.org/CVERecord?id=CVE-2023-32870 |
+| 2023-12-05 08:00:30.290850 | CVE-2023-32869 | cvss:0 (Not_rated) | "(Escalation of Privilege, Out of Bounds)"                   | https://www.cve.org/CVERecord?id=CVE-2023-32869 |
+| 2023-12-05 08:00:31.277830 | CVE-2023-32868 | cvss:0 (Not_rated) | "(Escalation of Privilege, Out of Bounds)"                   | https://www.cve.org/CVERecord?id=CVE-2023-32868 |
+| 2023-12-05 08:00:32.290787 | CVE-2023-32867 | cvss:0 (Not_rated) | "(Escalation of Privilege, Out of Bounds)"                   | https://www.cve.org/CVERecord?id=CVE-2023-32867 |
+| 2023-12-05 08:00:33.300548 | CVE-2023-32866 | cvss:0 (Not_rated) | "(Memory corruption, Escalation of Privilege)"               | https://www.cve.org/CVERecord?id=CVE-2023-32866 |
+| 2023-12-05 08:00:34.297345 | CVE-2023-32865 | cvss:0 (Not_rated) | "(Escalation of Privilege, Out of Bounds)"                   | https://www.cve.org/CVERecord?id=CVE-2023-32865 |
+| 2023-12-05 08:00:35.303615 | CVE-2023-32864 | cvss:0 (Not_rated) | "(Escalation of Privilege, Out of Bounds)"                   | https://www.cve.org/CVERecord?id=CVE-2023-32864 |
+| 2023-12-05 08:00:36.249773 | CVE-2023-32863 | cvss:0 (Not_rated) | "(Escalation of Privilege, Out of Bounds)"                   | https://www.cve.org/CVERecord?id=CVE-2023-32863 |
+| 2023-12-05 08:00:37.233273 | CVE-2023-32862 | cvss:0 (Not_rated) | "(Escalation of Privilege, Out of Bounds)"                   | https://www.cve.org/CVERecord?id=CVE-2023-32862 |
+| 2023-12-05 08:00:38.174831 | CVE-2023-32861 | cvss:0 (Not_rated) | "(Escalation of Privilege, Out of Bounds)"                   | https://www.cve.org/CVERecord?id=CVE-2023-32861 |
+| 2023-12-05 08:00:39.111989 | CVE-2023-32860 | cvss:0 (Not_rated) | "(Escalation of Privilege, Buffer Overflow)"                 | https://www.cve.org/CVERecord?id=CVE-2023-32860 |
+| 2023-12-05 08:00:40.086200 | CVE-2023-32859 | cvss:0 (Not_rated) | "(Escalation of Privilege, Buffer Overflow)"                 | https://www.cve.org/CVERecord?id=CVE-2023-32859 |
+| 2023-12-05 08:00:41.079465 | CVE-2023-32857 | cvss:0 (Not_rated) | "(Information disclosure, Out of Bounds)"                    | https://www.cve.org/CVERecord?id=CVE-2023-32857 |
+| 2023-12-05 08:00:42.048137 | CVE-2023-32856 | cvss:0 (Not_rated) | "(Information disclosure, Out of Bounds)"                    | https://www.cve.org/CVERecord?id=CVE-2023-32856 |
+| 2023-12-05 08:00:42.952091 | CVE-2023-32854 | cvss:0 (Not_rated) | "(Escalation of Privilege, Out of Bounds)"                   | https://www.cve.org/CVERecord?id=CVE-2023-32854 |
+| 2023-12-05 08:00:43.903134 | CVE-2023-32853 | cvss:0 (Not_rated) | "(Escalation of Privilege, Out of Bounds)"                   | https://www.cve.org/CVERecord?id=CVE-2023-32853 |
+| 2023-12-05 08:00:44.855296 | CVE-2023-32852 | cvss:0 (Not_rated) | "(Input validation, Information disclosure)"                 | https://www.cve.org/CVERecord?id=CVE-2023-32852 |
+| 2023-12-05 08:00:45.774845 | CVE-2023-32851 | cvss:0 (Not_rated) | "(Escalation of Privilege, Out of Bounds)"                   | https://www.cve.org/CVERecord?id=CVE-2023-32851 |
+| 2023-12-05 08:00:46.829840 | CVE-2023-32850 | cvss:0 (Not_rated) | "(Escalation of Privilege, Out of Bounds, Integer Overflow)" | https://www.cve.org/CVERecord?id=CVE-2023-32850 |
+| 2023-12-05 08:00:47.766635 | CVE-2023-32849 | cvss:0 (Not_rated) | "(Escalation of Privilege, Type confusion, Out of Bounds)"   | https://www.cve.org/CVERecord?id=CVE-2023-32849 |
+| 2023-12-05 08:00:48.723872 | CVE-2023-32848 | cvss:0 (Not_rated) | "(Escalation of Privilege, Type confusion, Out of Bounds)"   | https://www.cve.org/CVERecord?id=CVE-2023-32848 |
+| 2023-12-05 08:00:49.751367 | CVE-2023-32847 | cvss:0 (Not_rated) | "(Escalation of Privilege, Out of Bounds)"                   | https://www.cve.org/CVERecord?id=CVE-2023-32847 |
+| 2023-12-05 08:00:50.730047 | CVE-2023-42751 | cvss:0 (Not_rated) | "(Denial of service, Out of Bounds)"                         | https://www.cve.org/CVERecord?id=CVE-2023-42751 |
+| 2023-12-05 08:00:51.775867 | CVE-2023-42731 | cvss:0 (Not_rated) | "(Denial of service, Out of Bounds)"                         | https://www.cve.org/CVERecord?id=CVE-2023-42731 |
+| 2023-12-05 08:00:52.696833 | CVE-2023-42729 | cvss:0 (Not_rated) | "(Denial of service, Out of Bounds)"                         | https://www.cve.org/CVERecord?id=CVE-2023-42729 |
+| 2023-12-05 08:00:53.652799 | CVE-2023-42728 | cvss:0 (Not_rated) | "(Denial of service, Out of Bounds)"                         | https://www.cve.org/CVERecord?id=CVE-2023-42728 |
+| 2023-12-05 08:00:54.584279 | CVE-2023-42727 | cvss:0 (Not_rated) | "(Denial of service, Out of Bounds)"                         | https://www.cve.org/CVERecord?id=CVE-2023-42727 |
+| 2023-12-05 08:00:55.576214 | CVE-2023-42726 | cvss:0 (Not_rated) | "(Denial of service, Out of Bounds)"                         | https://www.cve.org/CVERecord?id=CVE-2023-42726 |
+| 2023-12-05 08:00:56.545798 | CVE-2023-42725 | cvss:0 (Not_rated) | "(Denial of service, Out of Bounds)"                         | https://www.cve.org/CVERecord?id=CVE-2023-42725 |
+| 2023-12-05 08:00:57.458245 | CVE-2023-42724 | cvss:0 (Not_rated) | "(Denial of service, Out of Bounds)"                         | https://www.cve.org/CVERecord?id=CVE-2023-42724 |
+| 2023-12-05 08:00:58.442302 | CVE-2023-42723 | cvss:0 (Not_rated) | "(Denial of service, Out of Bounds)"                         | https://www.cve.org/CVERecord?id=CVE-2023-42723 |
+| 2023-12-05 08:00:59.560842 | CVE-2023-42722 | cvss:0 (Not_rated) | "(Use after free, Escalation of Privilege)"                  | https://www.cve.org/CVERecord?id=CVE-2023-42722 |
+| 2023-12-05 08:01:00.659648 | CVE-2023-42720 | cvss:0 (Not_rated) | "(Denial of service, Out of Bounds)"                         | https://www.cve.org/CVERecord?id=CVE-2023-42720 |
+| 2023-12-05 08:01:01.647058 | CVE-2023-42719 | cvss:0 (Not_rated) | "(Denial of service, Out of Bounds)"                         | https://www.cve.org/CVERecord?id=CVE-2023-42719 |
+| 2023-12-05 08:01:02.695193 | CVE-2023-42684 | cvss:0 (Not_rated) | "(Denial of service, Out of Bounds)"                         | https://www.cve.org/CVERecord?id=CVE-2023-42684 |
+| 2023-12-05 08:01:03.662235 | CVE-2023-42683 | cvss:0 (Not_rated) | "(Denial of service, Out of Bounds)"                         | https://www.cve.org/CVERecord?id=CVE-2023-42683 |
+| 2023-12-05 08:01:04.660126 | CVE-2023-42682 | cvss:0 (Not_rated) | "(Denial of service, Out of Bounds)"                         | https://www.cve.org/CVERecord?id=CVE-2023-42682 |
+| 2023-12-05 08:01:05.548299 | CVE-2023-42680 | cvss:0 (Not_rated) | "(Denial of service, Out of Bounds)"                         | https://www.cve.org/CVERecord?id=CVE-2023-42680 |
+| 2023-12-05 08:01:06.470409 | CVE-2023-42679 | cvss:0 (Not_rated) | "(Denial of service, Out of Bounds)"                         | https://www.cve.org/CVERecord?id=CVE-2023-42679 |
+| 2023-12-05 08:01:07.372641 | CVE-2022-48464 | cvss:0 (Not_rated) | "(Denial of service, Out of Bounds)"                         | https://www.cve.org/CVERecord?id=CVE-2022-48464 |
+| 2023-12-05 08:01:08.373274 | CVE-2022-48463 | cvss:0 (Not_rated) | "(Denial of service, Out of Bounds)"                         | https://www.cve.org/CVERecord?id=CVE-2022-48463 |
+| 2023-12-05 08:01:09.291203 | CVE-2022-48462 | cvss:0 (Not_rated) | "(Denial of service, Out of Bounds)"                         | https://www.cve.org/CVERecord?id=CVE-2022-48462 |
