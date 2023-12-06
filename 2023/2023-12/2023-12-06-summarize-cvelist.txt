@@ -1,0 +1,49 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                                          | link                                            |
+|----------------------------|----------------|---------------------|------------------------------------------------------------------|-------------------------------------------------|
+| 2023-12-06 00:00:26.451810 | CVE-2023-43472 | cvss:0 (Not_rated)  | "(Remote Attack, crafted request, obtain sensitive information)" | https://www.cve.org/CVERecord?id=CVE-2023-43472 |
+| 2023-12-06 00:00:27.488819 | CVE-2023-37572 | cvss:0 (Not_rated)  | "(Incorrect access control, obtain sensitive information)"       | https://www.cve.org/CVERecord?id=CVE-2023-37572 |
+| 2023-12-06 00:00:28.427062 | CVE-2023-42565 | cvss:7.3 (HIGH)     | "(Execute arbitrary code, Input validation)"                     | https://www.cve.org/CVERecord?id=CVE-2023-42565 |
+| 2023-12-06 00:00:29.503735 | CVE-2023-42561 | cvss:7.1 (HIGH)     | "(Execute arbitrary code, out-of-bounds)"                        | https://www.cve.org/CVERecord?id=CVE-2023-42561 |
+| 2023-12-06 00:00:30.561353 | CVE-2023-42560 | cvss:7.4 (HIGH)     | "(Execute arbitrary code, out-of-bounds)"                        | https://www.cve.org/CVERecord?id=CVE-2023-42560 |
+| 2023-12-06 00:00:31.551530 | CVE-2023-48698 | cvss:6.8 (MEDIUM)   | "(Azure, Remote code execution)"                                 | https://www.cve.org/CVERecord?id=CVE-2023-48698 |
+| 2023-12-06 00:00:32.574589 | CVE-2023-48697 | cvss:6.4 (MEDIUM)   | "(Azure, Remote code execution)"                                 | https://www.cve.org/CVERecord?id=CVE-2023-48697 |
+| 2023-12-06 00:00:33.568839 | CVE-2023-48696 | cvss:6.7 (MEDIUM)   | "(Azure, Remote code execution)"                                 | https://www.cve.org/CVERecord?id=CVE-2023-48696 |
+| 2023-12-06 00:00:34.572699 | CVE-2023-48695 | cvss:7.2 (HIGH)     | "(Azure, Remote code execution, Out of Bounds)"                  | https://www.cve.org/CVERecord?id=CVE-2023-48695 |
+| 2023-12-06 00:00:35.553694 | CVE-2023-48694 | cvss:6.8 (MEDIUM)   | "(Azure, Remote code execution, Type confusion)"                 | https://www.cve.org/CVERecord?id=CVE-2023-48694 |
+| 2023-12-06 00:00:36.621067 | CVE-2023-48693 | cvss:8.7 (HIGH)     | "(Azure, Privilege Escalation)"                                  | https://www.cve.org/CVERecord?id=CVE-2023-48693 |
+| 2023-12-06 00:00:37.639199 | CVE-2023-48692 | cvss:9.1 (CRITICAL) | "(Azure, Remote code execution)"                                 | https://www.cve.org/CVERecord?id=CVE-2023-48692 |
+| 2023-12-06 00:00:38.661712 | CVE-2023-48691 | cvss:8.1 (HIGH)     | "(Azure, Remote code execution, out-of-bounds)"                  | https://www.cve.org/CVERecord?id=CVE-2023-48691 |
+| 2023-12-06 00:00:39.591337 | CVE-2023-48316 | cvss:9.8 (CRITICAL) | "(Azure, Remote code execution)"                                 | https://www.cve.org/CVERecord?id=CVE-2023-48316 |
+| 2023-12-06 00:00:40.524357 | CVE-2023-48315 | cvss:8.8 (HIGH)     | "(Azure, Remote code execution)"                                 | https://www.cve.org/CVERecord?id=CVE-2023-48315 |
+| 2023-12-06 00:00:41.479460 | CVE-2023-49289 | cvss:6.3 (MEDIUM)   | (ASP.NET)                                                        | https://www.cve.org/CVERecord?id=CVE-2023-49289 |
+| 2023-12-06 00:00:42.472659 | CVE-2023-49284 | cvss:3.9 (LOW)      | "(Information disclosure, Denial of service)"                    | https://www.cve.org/CVERecord?id=CVE-2023-49284 |
+| 2023-12-06 00:00:43.453207 | CVE-2023-5944  | cvss:7.8 (HIGH)     | "(Arbitrary code execution, Buffer Overflow)"                    | https://www.cve.org/CVERecord?id=CVE-2023-5944  |
+| 2023-12-06 00:00:44.389473 | CVE-2023-49288 | cvss:8.6 (HIGH)     | "(Squid, use-after-free, Denial of service)"                     | https://www.cve.org/CVERecord?id=CVE-2023-49288 |
+| 2023-12-06 00:00:45.346259 | CVE-2023-49286 | cvss:8.6 (HIGH)     | "(Squid, Denial of service)"                                     | https://www.cve.org/CVERecord?id=CVE-2023-49286 |
+| 2023-12-06 00:00:46.242921 | CVE-2023-49285 | cvss:8.6 (HIGH)     | "(Squid, Denial of service)"                                     | https://www.cve.org/CVERecord?id=CVE-2023-49285 |
+| 2023-12-06 00:00:47.364583 | CVE-2023-45781 | cvss:0 (Not_rated)  | "(Information disclosure, Out of Bounds)"                        | https://www.cve.org/CVERecord?id=CVE-2023-45781 |
+| 2023-12-06 00:00:48.411473 | CVE-2023-45776 | cvss:0 (Not_rated)  | "(Escalation of Privilege, Out of Bounds)"                       | https://www.cve.org/CVERecord?id=CVE-2023-45776 |
+| 2023-12-06 00:00:49.424173 | CVE-2023-45775 | cvss:0 (Not_rated)  | "(Escalation of Privilege, Out of Bounds)"                       | https://www.cve.org/CVERecord?id=CVE-2023-45775 |
+| 2023-12-06 00:00:50.386449 | CVE-2023-45773 | cvss:0 (Not_rated)  | "(Escalation of Privilege, Out of Bounds)"                       | https://www.cve.org/CVERecord?id=CVE-2023-45773 |
+| 2023-12-06 00:00:51.388378 | CVE-2023-40097 | cvss:0 (Not_rated)  | "(Input validation, Escalation of Privilege)"                    | https://www.cve.org/CVERecord?id=CVE-2023-40097 |
+| 2023-12-06 00:00:52.371687 | CVE-2023-40091 | cvss:0 (Not_rated)  | "(Memory corruption, Escalation of Privilege, Out of Bounds)"    | https://www.cve.org/CVERecord?id=CVE-2023-40091 |
+| 2023-12-06 00:00:53.385773 | CVE-2023-40090 | cvss:0 (Not_rated)  | "(Information disclosure, Escalation of Privilege)"              | https://www.cve.org/CVERecord?id=CVE-2023-40090 |
+| 2023-12-06 00:00:54.425650 | CVE-2023-40088 | cvss:0 (Not_rated)  | "(Use after free, Memory corruption)"                            | https://www.cve.org/CVERecord?id=CVE-2023-40088 |
+| 2023-12-06 00:00:55.433170 | CVE-2023-40087 | cvss:0 (Not_rated)  | "(Escalation of Privilege, Out of Bounds)"                       | https://www.cve.org/CVERecord?id=CVE-2023-40087 |
+| 2023-12-06 00:00:56.436058 | CVE-2023-40084 | cvss:0 (Not_rated)  | "(Use after free, Memory corruption, Escalation of Privilege)"   | https://www.cve.org/CVERecord?id=CVE-2023-40084 |
+| 2023-12-06 00:00:57.433226 | CVE-2023-40083 | cvss:0 (Not_rated)  | "(Information disclosure, Out of Bounds)"                        | https://www.cve.org/CVERecord?id=CVE-2023-40083 |
+| 2023-12-06 00:00:58.374202 | CVE-2023-40080 | cvss:0 (Not_rated)  | "(Escalation of Privilege, Out of Bounds)"                       | https://www.cve.org/CVERecord?id=CVE-2023-40080 |
+| 2023-12-06 00:00:59.489566 | CVE-2023-40078 | cvss:0 (Not_rated)  | "(Escalation of Privilege, Buffer Overflow, Out of Bounds)"      | https://www.cve.org/CVERecord?id=CVE-2023-40078 |
+| 2023-12-06 00:01:00.514004 | CVE-2023-40077 | cvss:0 (Not_rated)  | "(Escalation of Privilege, Race Condition)"                      | https://www.cve.org/CVERecord?id=CVE-2023-40077 |
+| 2023-12-06 00:01:01.625229 | CVE-2023-47633 | cvss:7.5 (HIGH)     | (Docker)                                                         | https://www.cve.org/CVERecord?id=CVE-2023-47633 |
+| 2023-12-06 00:01:02.936846 | CVE-2023-47106 | cvss:4.8 (MEDIUM)   | (Nginx)                                                          | https://www.cve.org/CVERecord?id=CVE-2023-47106 |
+| 2023-12-06 00:01:04.041518 | CVE-2023-48966 | cvss:0 (Not_rated)  | "(File Upload, Execute arbitrary code)"                          | https://www.cve.org/CVERecord?id=CVE-2023-48966 |
+| 2023-12-06 00:01:05.033849 | CVE-2023-48965 | cvss:0 (Not_rated)  | (PHP)                                                            | https://www.cve.org/CVERecord?id=CVE-2023-48965 |
+| 2023-12-06 08:00:25.355244 | CVE-2023-45842 | cvss:8.1 (HIGH)     | "(Command execution, Arbitrary Command)"                         | https://www.cve.org/CVERecord?id=CVE-2023-45842 |
+| 2023-12-06 08:00:26.547811 | CVE-2023-45840 | cvss:8.1 (HIGH)     | "(Command execution, Arbitrary Command)"                         | https://www.cve.org/CVERecord?id=CVE-2023-45840 |
+| 2023-12-06 08:00:27.641632 | CVE-2023-45839 | cvss:8.1 (HIGH)     | "(Command execution, Arbitrary Command)"                         | https://www.cve.org/CVERecord?id=CVE-2023-45839 |
+| 2023-12-06 08:00:28.839635 | CVE-2023-45838 | cvss:8.1 (HIGH)     | "(Command execution, Arbitrary Command)"                         | https://www.cve.org/CVERecord?id=CVE-2023-45838 |
+| 2023-12-06 08:00:30.037316 | CVE-2023-43628 | cvss:5.9 (MEDIUM)   | "(Memory corruption, Integer Overflow)"                          | https://www.cve.org/CVERecord?id=CVE-2023-43628 |
+| 2023-12-06 08:00:31.144768 | CVE-2023-43608 | cvss:8.1 (HIGH)     | "(Command execution, Arbitrary Command)"                         | https://www.cve.org/CVERecord?id=CVE-2023-43608 |
