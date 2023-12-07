@@ -1,0 +1,17 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                                  | link                                            |
+|----------------------------|----------------|--------------------|--------------------------------------------------------------------------|-------------------------------------------------|
+| 2023-12-07 02:00:23.354239 | CVE-2023-22524 | cvss:0 (Not_rated) | "(Atlassian, Websocket, Remote code execution)"                          | https://www.cve.org/CVERecord?id=CVE-2023-22524 |
+| 2023-12-07 02:00:24.447272 | CVE-2023-22523 | cvss:0 (Not_rated) | "(Atlassian, Remote code execution)"                                     | https://www.cve.org/CVERecord?id=CVE-2023-22523 |
+| 2023-12-07 02:00:25.377816 | CVE-2023-22522 | cvss:0 (Not_rated) | "(Atlassian, Confluence Data Center and Server, Remote code execution)"  | https://www.cve.org/CVERecord?id=CVE-2023-22522 |
+| 2023-12-07 02:00:26.400104 | CVE-2023-6512  | cvss:0 (Not_rated) | "(Google Chrome, Remote Attack, Inappropriate implementation)"           | https://www.cve.org/CVERecord?id=CVE-2023-6512  |
+| 2023-12-07 02:00:27.359109 | CVE-2023-6511  | cvss:0 (Not_rated) | "(Google Chrome, Remote Attack, Inappropriate implementation)"           | https://www.cve.org/CVERecord?id=CVE-2023-6511  |
+| 2023-12-07 02:00:28.378952 | CVE-2023-6510  | cvss:0 (Not_rated) | "(Google Chrome, Use after free, Remote Attack, Heap corruption)"        | https://www.cve.org/CVERecord?id=CVE-2023-6510  |
+| 2023-12-07 02:00:29.361400 | CVE-2023-6509  | cvss:0 (Not_rated) | "(Google Chrome, Use after free, Remote Attack, Heap corruption)"        | https://www.cve.org/CVERecord?id=CVE-2023-6509  |
+| 2023-12-07 02:00:30.362147 | CVE-2023-6508  | cvss:0 (Not_rated) | "(Google Chrome, Use after free, Remote Attack, Heap corruption)"        | https://www.cve.org/CVERecord?id=CVE-2023-6508  |
+| 2023-12-07 02:00:31.348101 | CVE-2023-49283 | cvss:5.4 (MEDIUM)  | (PHP)                                                                    | https://www.cve.org/CVERecord?id=CVE-2023-49283 |
+| 2023-12-07 02:00:32.444394 | CVE-2023-49282 | cvss:5.4 (MEDIUM)  | (PHP)                                                                    | https://www.cve.org/CVERecord?id=CVE-2023-49282 |
+| 2023-12-07 02:00:33.418667 | CVE-2023-44221 | cvss:0 (Not_rated) | "(Command injection, Arbitrary Command, Improper Neutralization)"        | https://www.cve.org/CVERecord?id=CVE-2023-44221 |
+| 2023-12-07 10:00:23.349565 | CVE-2023-48123 | cvss:0 (Not_rated) | "(PHP, Pfsense, Remote Attack, Execute arbitrary code, crafted request)" | https://www.cve.org/CVERecord?id=CVE-2023-48123 |
+| 2023-12-07 10:00:24.328885 | CVE-2023-36655 | cvss:0 (Not_rated) | (Active Directory)                                                       | https://www.cve.org/CVERecord?id=CVE-2023-36655 |
