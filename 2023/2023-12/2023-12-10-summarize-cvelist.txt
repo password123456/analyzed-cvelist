@@ -1,0 +1,13 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                        | link                                            |
+|----------------------------|----------------|--------------------|----------------------------------------------------------------|-------------------------------------------------|
+| 2023-12-10 06:00:23.454025 | CVE-2023-47254 | cvss:0 (Not_rated) | "(Command injection, Remote Attack)"                           | https://www.cve.org/CVERecord?id=CVE-2023-47254 |
+| 2023-12-10 06:00:24.468068 | CVE-2023-46932 | cvss:0 (Not_rated) | "(Execute arbitrary code, Denial of service, Buffer Overflow)" | https://www.cve.org/CVERecord?id=CVE-2023-46932 |
+| 2023-12-10 06:00:25.393334 | CVE-2023-28527 | cvss:6.2 (MEDIUM)  | "(Segmentation fault, Buffer Overflow)"                        | https://www.cve.org/CVERecord?id=CVE-2023-28527 |
+| 2023-12-10 06:00:26.401767 | CVE-2023-28526 | cvss:6.2 (MEDIUM)  | "(Segmentation fault, Buffer Overflow)"                        | https://www.cve.org/CVERecord?id=CVE-2023-28526 |
+| 2023-12-10 06:00:27.378507 | CVE-2023-28523 | cvss:8.4 (HIGH)    | "(Execute arbitrary code, Buffer Overflow)"                    | https://www.cve.org/CVERecord?id=CVE-2023-28523 |
+| 2023-12-10 06:00:28.379996 | CVE-2023-6394  | cvss:0 (Not_rated) | "(GraphQL, Websocket)"                                         | https://www.cve.org/CVERecord?id=CVE-2023-6394  |
+| 2023-12-10 06:00:29.375205 | CVE-2023-6560  | cvss:0 (Not_rated) | "(Memory access, out-of-bounds)"                               | https://www.cve.org/CVERecord?id=CVE-2023-6560  |
+| 2023-12-10 06:00:30.393896 | CVE-2023-49800 | cvss:7.5 (HIGH)    | "(Denial of service, Stack Overflow)"                          | https://www.cve.org/CVERecord?id=CVE-2023-49800 |
+| 2023-12-10 06:00:31.374025 | CVE-2023-6337  | cvss:7.5 (HIGH)    | "(HashiCorp Vault, Vault Enterprise, Denial of service)"       | https://www.cve.org/CVERecord?id=CVE-2023-6337  |
