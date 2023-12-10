@@ -1,0 +1,35 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                                                    | link                                            |
+|----------------------------|----------------|--------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------|
+| 2023-12-09 00:00:25.483050 | CVE-2023-48929 | cvss:0 (Not_rated) | "(Session Fixation, obtain sensitive information)"                                         | https://www.cve.org/CVERecord?id=CVE-2023-48929 |
+| 2023-12-09 00:00:26.590467 | CVE-2023-48122 | cvss:0 (Not_rated) | "(Remote Attack, obtain sensitive information)"                                            | https://www.cve.org/CVERecord?id=CVE-2023-48122 |
+| 2023-12-09 07:00:21.966162 | CVE-2023-49782 | cvss:7.1 (HIGH)    | (PHP)                                                                                      | https://www.cve.org/CVERecord?id=CVE-2023-49782 |
+| 2023-12-09 07:00:23.324090 | CVE-2023-48311 | cvss:8 (HIGH)      | (Docker)                                                                                   | https://www.cve.org/CVERecord?id=CVE-2023-48311 |
+| 2023-12-09 07:00:24.527729 | CVE-2023-46499 | cvss:0 (Not_rated) | "(npm, Remote Attack, obtain sensitive information)"                                       | https://www.cve.org/CVERecord?id=CVE-2023-46499 |
+| 2023-12-09 07:00:25.629578 | CVE-2023-46498 | cvss:0 (Not_rated) | "(npm, Remote Attack, Execute arbitrary code, obtain sensitive information)"               | https://www.cve.org/CVERecord?id=CVE-2023-46498 |
+| 2023-12-09 07:00:26.855137 | CVE-2023-46497 | cvss:0 (Not_rated) | "(npm, Remote Attack, Directory traversal, crafted request, obtain sensitive information)" | https://www.cve.org/CVERecord?id=CVE-2023-46497 |
+| 2023-12-09 07:00:28.127648 | CVE-2023-46496 | cvss:0 (Not_rated) | "(npm, Remote Attack, Directory traversal, crafted request, obtain sensitive information)" | https://www.cve.org/CVERecord?id=CVE-2023-46496 |
+| 2023-12-09 07:00:29.258654 | CVE-2023-46495 | cvss:0 (Not_rated) | "(npm, Remote Attack, crafted request, obtain sensitive information)"                      | https://www.cve.org/CVERecord?id=CVE-2023-46495 |
+| 2023-12-09 07:00:30.440579 | CVE-2023-46494 | cvss:0 (Not_rated) | "(npm, Remote Attack, crafted request, obtain sensitive information)"                      | https://www.cve.org/CVERecord?id=CVE-2023-46494 |
+| 2023-12-09 07:00:31.644766 | CVE-2023-46493 | cvss:0 (Not_rated) | "(npm, Remote Attack, Directory traversal, crafted request, obtain sensitive information)" | https://www.cve.org/CVERecord?id=CVE-2023-46493 |
+| 2023-12-09 07:00:32.856787 | CVE-2023-6615  | cvss:3.5 (LOW)     | "(PHP, Information disclosure)"                                                            | https://www.cve.org/CVERecord?id=CVE-2023-6615  |
+| 2023-12-09 07:00:34.050129 | CVE-2023-6614  | cvss:2.7 (LOW)     | (PHP)                                                                                      | https://www.cve.org/CVERecord?id=CVE-2023-6614  |
+| 2023-12-09 07:00:35.242055 | CVE-2023-6613  | cvss:2.4 (LOW)     | (PHP)                                                                                      | https://www.cve.org/CVERecord?id=CVE-2023-6613  |
+| 2023-12-09 07:00:36.434644 | CVE-2023-48423 | cvss:0 (Not_rated) | "(Remote code execution, Out of Bounds)"                                                   | https://www.cve.org/CVERecord?id=CVE-2023-48423 |
+| 2023-12-09 07:00:37.626301 | CVE-2023-48422 | cvss:0 (Not_rated) | "(Information disclosure, Out of Bounds)"                                                  | https://www.cve.org/CVERecord?id=CVE-2023-48422 |
+| 2023-12-09 07:00:38.831917 | CVE-2023-48421 | cvss:0 (Not_rated) | "(Input validation, Escalation of Privilege, Out of Bounds)"                               | https://www.cve.org/CVERecord?id=CVE-2023-48421 |
+| 2023-12-09 07:00:40.047422 | CVE-2023-48420 | cvss:0 (Not_rated) | "(Use after free, Escalation of Privilege, Race Condition)"                                | https://www.cve.org/CVERecord?id=CVE-2023-48420 |
+| 2023-12-09 07:00:41.335363 | CVE-2023-48415 | cvss:0 (Not_rated) | "(Information disclosure, Out of Bounds)"                                                  | https://www.cve.org/CVERecord?id=CVE-2023-48415 |
+| 2023-12-09 07:00:42.446975 | CVE-2023-48414 | cvss:0 (Not_rated) | "(Use after free, Escalation of Privilege)"                                                | https://www.cve.org/CVERecord?id=CVE-2023-48414 |
+| 2023-12-09 07:00:43.745169 | CVE-2023-48413 | cvss:0 (Not_rated) | "(Information disclosure, Out of Bounds)"                                                  | https://www.cve.org/CVERecord?id=CVE-2023-48413 |
+| 2023-12-09 07:00:44.949282 | CVE-2023-48410 | cvss:0 (Not_rated) | "(Information disclosure, Out of Bounds)"                                                  | https://www.cve.org/CVERecord?id=CVE-2023-48410 |
+| 2023-12-09 07:00:46.229533 | CVE-2023-48409 | cvss:0 (Not_rated) | "(Escalation of Privilege, Out of Bounds, Integer Overflow)"                               | https://www.cve.org/CVERecord?id=CVE-2023-48409 |
+| 2023-12-09 07:00:47.428999 | CVE-2023-48404 | cvss:0 (Not_rated) | "(Information disclosure, Out of Bounds)"                                                  | https://www.cve.org/CVERecord?id=CVE-2023-48404 |
+| 2023-12-09 07:00:48.722869 | CVE-2023-48403 | cvss:0 (Not_rated) | "(Information disclosure, Buffer Overflow, Out of Bounds)"                                 | https://www.cve.org/CVERecord?id=CVE-2023-48403 |
+| 2023-12-09 07:00:49.830008 | CVE-2023-48401 | cvss:0 (Not_rated) | "(Information disclosure, Out of Bounds)"                                                  | https://www.cve.org/CVERecord?id=CVE-2023-48401 |
+| 2023-12-09 07:00:51.125169 | CVE-2023-48397 | cvss:0 (Not_rated) | "(Information disclosure, Out of Bounds)"                                                  | https://www.cve.org/CVERecord?id=CVE-2023-48397 |
+| 2023-12-09 07:00:52.434035 | CVE-2023-6611  | cvss:5.5 (MEDIUM)  | "(PHP, SQL injection, Critical)"                                                           | https://www.cve.org/CVERecord?id=CVE-2023-6611  |
+| 2023-12-09 07:00:53.635234 | CVE-2023-6608  | cvss:5.5 (MEDIUM)  | "(PHP, SQL injection, Critical)"                                                           | https://www.cve.org/CVERecord?id=CVE-2023-6608  |
+| 2023-12-09 07:00:54.962665 | CVE-2023-49444 | cvss:0 (Not_rated) | "(File Upload, Execute arbitrary code)"                                                    | https://www.cve.org/CVERecord?id=CVE-2023-49444 |
+| 2023-12-09 07:00:56.134741 | CVE-2023-6607  | cvss:5.5 (MEDIUM)  | "(PHP, SQL injection, Critical)"                                                           | https://www.cve.org/CVERecord?id=CVE-2023-6607  |
