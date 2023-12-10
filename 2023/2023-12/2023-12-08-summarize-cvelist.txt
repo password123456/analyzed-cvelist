@@ -1,0 +1,28 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                        | link                                            |
+|----------------------------|----------------|---------------------|------------------------------------------------|-------------------------------------------------|
+| 2023-12-08 05:00:23.854118 | CVE-2023-49967 | cvss:0 (Not_rated)  | (PHP)                                          | https://www.cve.org/CVERecord?id=CVE-2023-49967 |
+| 2023-12-08 05:00:24.921964 | CVE-2023-46974 | cvss:0 (Not_rated)  | "(Remote Attack, Execute arbitrary code)"      | https://www.cve.org/CVERecord?id=CVE-2023-46974 |
+| 2023-12-08 05:00:25.863134 | CVE-2023-47548 | cvss:4.7 (MEDIUM)   | (WordPress)                                    | https://www.cve.org/CVERecord?id=CVE-2023-47548 |
+| 2023-12-08 05:00:26.891126 | CVE-2023-48325 | cvss:4.7 (MEDIUM)   | "(WordPress, Plugin)"                          | https://www.cve.org/CVERecord?id=CVE-2023-48325 |
+| 2023-12-08 05:00:27.869743 | CVE-2023-35909 | cvss:5.3 (MEDIUM)   | (WordPress)                                    | https://www.cve.org/CVERecord?id=CVE-2023-35909 |
+| 2023-12-08 05:00:28.797984 | CVE-2023-35039 | cvss:9.8 (CRITICAL) | (WordPress)                                    | https://www.cve.org/CVERecord?id=CVE-2023-35039 |
+| 2023-12-08 05:00:29.735317 | CVE-2023-41804 | cvss:7.1 (HIGH)     | "(WordPress, Server-side Request Forgery)"     | https://www.cve.org/CVERecord?id=CVE-2023-41804 |
+| 2023-12-08 05:00:30.738445 | CVE-2023-50164 | cvss:0 (Not_rated)  | "(Remote code execution, File Upload)"         | https://www.cve.org/CVERecord?id=CVE-2023-50164 |
+| 2023-12-08 05:00:31.662787 | CVE-2023-48827 | cvss:0 (Not_rated)  | "(Plugin, HTML injection)"                     | https://www.cve.org/CVERecord?id=CVE-2023-48827 |
+| 2023-12-08 05:00:32.688697 | CVE-2023-48823 | cvss:0 (Not_rated)  | "(PHP, SQL injection)"                         | https://www.cve.org/CVERecord?id=CVE-2023-48823 |
+| 2023-12-08 05:00:33.674986 | CVE-2023-48208 | cvss:0 (Not_rated)  | "(PHP, Plugin)"                                | https://www.cve.org/CVERecord?id=CVE-2023-48208 |
+| 2023-12-08 05:00:34.645939 | CVE-2023-41913 | cvss:0 (Not_rated)  | "(Remote code execution, Buffer Overflow)"     | https://www.cve.org/CVERecord?id=CVE-2023-41913 |
+| 2023-12-08 14:00:21.555724 | CVE-2023-5008  | cvss:9.8 (CRITICAL) | "(PHP, SQL injection)"                         | https://www.cve.org/CVERecord?id=CVE-2023-5008  |
+| 2023-12-08 14:00:22.479134 | CVE-2023-5058  | cvss:0 (Not_rated)  | "(Arbitrary code execution, Input validation)" | https://www.cve.org/CVERecord?id=CVE-2023-5058  |
+| 2023-12-08 14:00:23.467711 | CVE-2023-4122  | cvss:9.9 (CRITICAL) | "(Remote code execution, File Upload)"         | https://www.cve.org/CVERecord?id=CVE-2023-4122  |
+| 2023-12-08 14:00:24.378812 | CVE-2023-6579  | cvss:7.3 (HIGH)     | "(SQL injection, Critical)"                    | https://www.cve.org/CVERecord?id=CVE-2023-6579  |
+| 2023-12-08 14:00:25.262932 | CVE-2023-6578  | cvss:7.3 (HIGH)     | "(Improper access control, Critical)"          | https://www.cve.org/CVERecord?id=CVE-2023-6578  |
+| 2023-12-08 14:00:26.265406 | CVE-2023-6577  | cvss:4.3 (MEDIUM)   | "(PHP, Path Traversal)"                        | https://www.cve.org/CVERecord?id=CVE-2023-6577  |
+| 2023-12-08 14:00:27.211576 | CVE-2023-6576  | cvss:6.3 (MEDIUM)   | "(PHP, Unrestricted Upload, Critical)"         | https://www.cve.org/CVERecord?id=CVE-2023-6576  |
+| 2023-12-08 14:00:28.185931 | CVE-2023-38174 | cvss:4.3 (MEDIUM)   | "(Microsoft Edge, Information disclosure)"     | https://www.cve.org/CVERecord?id=CVE-2023-38174 |
+| 2023-12-08 14:00:29.158372 | CVE-2023-36880 | cvss:4.8 (MEDIUM)   | "(Microsoft Edge, Information disclosure)"     | https://www.cve.org/CVERecord?id=CVE-2023-36880 |
+| 2023-12-08 14:00:30.095770 | CVE-2023-35618 | cvss:9.6 (CRITICAL) | "(Microsoft Edge, Elevation of privilege)"     | https://www.cve.org/CVERecord?id=CVE-2023-35618 |
+| 2023-12-08 14:00:31.089974 | CVE-2023-6575  | cvss:6.3 (MEDIUM)   | "(PHP, SQL injection, Critical)"               | https://www.cve.org/CVERecord?id=CVE-2023-6575  |
+| 2023-12-08 14:00:32.052499 | CVE-2023-6574  | cvss:6.3 (MEDIUM)   | "(PHP, Unrestricted Upload, Critical)"         | https://www.cve.org/CVERecord?id=CVE-2023-6574  |
