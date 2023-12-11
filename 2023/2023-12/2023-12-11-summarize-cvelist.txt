@@ -1,0 +1,15 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                      | link                                            |
+|----------------------------|----------------|--------------------|----------------------------------------------|-------------------------------------------------|
+| 2023-12-11 08:00:23.554124 | CVE-2023-5869  | cvss:0 (Not_rated) | "(Execute arbitrary code, Integer Overflow)" | https://www.cve.org/CVERecord?id=CVE-2023-5869  |
+| 2023-12-11 08:00:24.466010 | CVE-2023-50449 | cvss:0 (Not_rated) | "(Remote Attack, Directory traversal)"       | https://www.cve.org/CVERecord?id=CVE-2023-50449 |
+| 2023-12-11 08:00:25.472611 | CVE-2023-6655  | cvss:7.3 (HIGH)    | "(SQL injection, Critical)"                  | https://www.cve.org/CVERecord?id=CVE-2023-6655  |
+| 2023-12-11 08:00:26.417665 | CVE-2023-6654  | cvss:6.3 (MEDIUM)  | "(PHP, Critical)"                            | https://www.cve.org/CVERecord?id=CVE-2023-6654  |
+| 2023-12-11 08:00:27.382652 | CVE-2023-6652  | cvss:7.3 (HIGH)    | "(PHP, SQL injection, Critical)"             | https://www.cve.org/CVERecord?id=CVE-2023-6652  |
+| 2023-12-11 08:00:28.263231 | CVE-2023-6651  | cvss:7.3 (HIGH)    | "(PHP, SQL injection, Critical)"             | https://www.cve.org/CVERecord?id=CVE-2023-6651  |
+| 2023-12-11 08:00:29.257839 | CVE-2023-6649  | cvss:4.3 (MEDIUM)  | (PHP)                                        | https://www.cve.org/CVERecord?id=CVE-2023-6649  |
+| 2023-12-11 08:00:30.232475 | CVE-2023-6648  | cvss:7.3 (HIGH)    | "(PHP, SQL injection, Critical)"             | https://www.cve.org/CVERecord?id=CVE-2023-6648  |
+| 2023-12-11 08:00:31.252153 | CVE-2023-6647  | cvss:7.3 (HIGH)    | "(SQL injection, Critical)"                  | https://www.cve.org/CVERecord?id=CVE-2023-6647  |
+| 2023-12-11 08:00:32.256249 | CVE-2023-50429 | cvss:0 (Not_rated) | "(PHP, SQL injection)"                       | https://www.cve.org/CVERecord?id=CVE-2023-50429 |
+| 2023-12-11 12:00:23.166758 | CVE-2023-6659  | cvss:6.3 (MEDIUM)  | "(PHP, SQL injection, Critical)"             | https://www.cve.org/CVERecord?id=CVE-2023-6659  |
