@@ -1,0 +1,26 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                           | link                                            |
+|----------------------------|----------------|--------------------|-------------------------------------------------------------------|-------------------------------------------------|
+| 2023-12-12 20:00:28.769255 | CVE-2023-49058 | cvss:3.5 (LOW)     | "(File Upload, Insufficient Validation)"                          | https://www.cve.org/CVERecord?id=CVE-2023-49058 |
+| 2023-12-12 20:00:29.757290 | CVE-2023-42926 | cvss:0 (Not_rated) | "(Arbitrary code execution, Input validation, Memory corruption)" | https://www.cve.org/CVERecord?id=CVE-2023-42926 |
+| 2023-12-12 20:00:30.695075 | CVE-2023-42912 | cvss:0 (Not_rated) | "(Arbitrary code execution, Input validation, Memory corruption)" | https://www.cve.org/CVERecord?id=CVE-2023-42912 |
+| 2023-12-12 20:00:31.691373 | CVE-2023-42911 | cvss:0 (Not_rated) | "(Arbitrary code execution, Input validation, Memory corruption)" | https://www.cve.org/CVERecord?id=CVE-2023-42911 |
+| 2023-12-12 20:00:32.616550 | CVE-2023-42910 | cvss:0 (Not_rated) | "(Arbitrary code execution, Input validation, Memory corruption)" | https://www.cve.org/CVERecord?id=CVE-2023-42910 |
+| 2023-12-12 20:00:33.604094 | CVE-2023-42909 | cvss:0 (Not_rated) | "(Arbitrary code execution, Input validation, Memory corruption)" | https://www.cve.org/CVERecord?id=CVE-2023-42909 |
+| 2023-12-12 20:00:34.534815 | CVE-2023-42908 | cvss:0 (Not_rated) | "(Arbitrary code execution, Input validation, Memory corruption)" | https://www.cve.org/CVERecord?id=CVE-2023-42908 |
+| 2023-12-12 20:00:35.498567 | CVE-2023-42907 | cvss:0 (Not_rated) | "(Arbitrary code execution, Input validation, Memory corruption)" | https://www.cve.org/CVERecord?id=CVE-2023-42907 |
+| 2023-12-12 20:00:36.491745 | CVE-2023-42906 | cvss:0 (Not_rated) | "(Arbitrary code execution, Input validation, Memory corruption)" | https://www.cve.org/CVERecord?id=CVE-2023-42906 |
+| 2023-12-12 20:00:37.449251 | CVE-2023-42905 | cvss:0 (Not_rated) | "(Arbitrary code execution, Input validation, Memory corruption)" | https://www.cve.org/CVERecord?id=CVE-2023-42905 |
+| 2023-12-12 20:00:38.388082 | CVE-2023-42904 | cvss:0 (Not_rated) | "(Arbitrary code execution, Input validation, Memory corruption)" | https://www.cve.org/CVERecord?id=CVE-2023-42904 |
+| 2023-12-12 20:00:39.327631 | CVE-2023-42903 | cvss:0 (Not_rated) | "(Arbitrary code execution, Input validation, Memory corruption)" | https://www.cve.org/CVERecord?id=CVE-2023-42903 |
+| 2023-12-12 20:00:40.321573 | CVE-2023-42902 | cvss:0 (Not_rated) | "(Arbitrary code execution, Input validation, Memory corruption)" | https://www.cve.org/CVERecord?id=CVE-2023-42902 |
+| 2023-12-12 20:00:41.267703 | CVE-2023-42901 | cvss:0 (Not_rated) | "(Arbitrary code execution, Input validation, Memory corruption)" | https://www.cve.org/CVERecord?id=CVE-2023-42901 |
+| 2023-12-12 20:00:42.279907 | CVE-2023-42886 | cvss:0 (Not_rated) | "(Arbitrary code execution, out-of-bounds)"                       | https://www.cve.org/CVERecord?id=CVE-2023-42886 |
+| 2023-12-12 20:00:43.330644 | CVE-2023-36649 | cvss:0 (Not_rated) | "(Grafana, Remote Attack)"                                        | https://www.cve.org/CVERecord?id=CVE-2023-36649 |
+| 2023-12-12 20:00:44.263843 | CVE-2023-36646 | cvss:0 (Not_rated) | "(Remote Attack, Privilege Escalation)"                           | https://www.cve.org/CVERecord?id=CVE-2023-36646 |
+| 2023-12-12 20:00:45.285852 | CVE-2023-49805 | cvss:6 (MEDIUM)    | (Websocket)                                                       | https://www.cve.org/CVERecord?id=CVE-2023-49805 |
+| 2023-12-12 20:00:46.228502 | CVE-2023-49803 | cvss:8.6 (HIGH)    | "(Node.js, npm)"                                                  | https://www.cve.org/CVERecord?id=CVE-2023-49803 |
+| 2023-12-12 20:00:47.277590 | CVE-2023-49795 | cvss:6.5 (MEDIUM)  | "(Information disclosure, Server-side Request Forgery)"           | https://www.cve.org/CVERecord?id=CVE-2023-49795 |
+| 2023-12-12 20:00:48.280463 | CVE-2023-6185  | cvss:8.3 (HIGH)    | "(Input validation, Plugin)"                                      | https://www.cve.org/CVERecord?id=CVE-2023-6185  |
+| 2023-12-12 20:00:49.261975 | CVE-2023-5500  | cvss:8.8 (HIGH)    | "(Remote Attack, Code Injection)"                                 | https://www.cve.org/CVERecord?id=CVE-2023-5500  |
