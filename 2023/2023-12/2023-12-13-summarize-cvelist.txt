@@ -1,0 +1,44 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                                   | link                                            |
+|----------------------------|----------------|--------------------|---------------------------------------------------------------------------|-------------------------------------------------|
+| 2023-12-13 08:00:22.934008 | CVE-2023-50252 | cvss:8.3 (HIGH)    | (PHP)                                                                     | https://www.cve.org/CVERecord?id=CVE-2023-50252 |
+| 2023-12-13 08:00:23.874132 | CVE-2023-50251 | cvss:5.3 (MEDIUM)  | (PHP)                                                                     | https://www.cve.org/CVERecord?id=CVE-2023-50251 |
+| 2023-12-13 08:00:24.850034 | CVE-2023-49279 | cvss:3.7 (LOW)     | (ASP.NET)                                                                 | https://www.cve.org/CVERecord?id=CVE-2023-49279 |
+| 2023-12-13 08:00:25.929560 | CVE-2023-49278 | cvss:5.3 (MEDIUM)  | (ASP.NET)                                                                 | https://www.cve.org/CVERecord?id=CVE-2023-49278 |
+| 2023-12-13 08:00:27.037739 | CVE-2023-49274 | cvss:3.7 (LOW)     | (ASP.NET)                                                                 | https://www.cve.org/CVERecord?id=CVE-2023-49274 |
+| 2023-12-13 08:00:28.028045 | CVE-2023-6687  | cvss:6.8 (MEDIUM)  | (ElasticSearch)                                                           | https://www.cve.org/CVERecord?id=CVE-2023-6687  |
+| 2023-12-13 08:00:28.950837 | CVE-2023-49922 | cvss:6.8 (MEDIUM)  | (ElasticSearch)                                                           | https://www.cve.org/CVERecord?id=CVE-2023-49922 |
+| 2023-12-13 08:00:29.914997 | CVE-2023-49273 | cvss:5.4 (MEDIUM)  | (ASP.NET)                                                                 | https://www.cve.org/CVERecord?id=CVE-2023-49273 |
+| 2023-12-13 08:00:30.966148 | CVE-2023-49089 | cvss:7.7 (HIGH)    | "(ASP.NET, Path Traversal)"                                               | https://www.cve.org/CVERecord?id=CVE-2023-49089 |
+| 2023-12-13 08:00:31.887246 | CVE-2023-36009 | cvss:5.5 (MEDIUM)  | "(Microsoft Word, Information disclosure)"                                | https://www.cve.org/CVERecord?id=CVE-2023-36009 |
+| 2023-12-13 08:00:32.968612 | CVE-2023-36006 | cvss:8.8 (HIGH)    | "(SQL Server, SQL Server, OLE DB, Remote code execution)"                 | https://www.cve.org/CVERecord?id=CVE-2023-36006 |
+| 2023-12-13 08:00:33.960203 | CVE-2023-35639 | cvss:8.8 (HIGH)    | "(ODBC Driver, Remote code execution)"                                    | https://www.cve.org/CVERecord?id=CVE-2023-35639 |
+| 2023-12-13 08:00:34.937155 | CVE-2023-35636 | cvss:6.5 (MEDIUM)  | "(Microsoft Outlook, Information disclosure)"                             | https://www.cve.org/CVERecord?id=CVE-2023-35636 |
+| 2023-12-13 08:00:35.921649 | CVE-2023-35635 | cvss:5.5 (MEDIUM)  | "(Windows Kernel, Denial of service)"                                     | https://www.cve.org/CVERecord?id=CVE-2023-35635 |
+| 2023-12-13 08:00:36.991671 | CVE-2023-35633 | cvss:7.8 (HIGH)    | "(Windows Kernel, Elevation of privilege)"                                | https://www.cve.org/CVERecord?id=CVE-2023-35633 |
+| 2023-12-13 08:00:38.072779 | CVE-2023-35625 | cvss:4.7 (MEDIUM)  | "(Azure, Information disclosure)"                                         | https://www.cve.org/CVERecord?id=CVE-2023-35625 |
+| 2023-12-13 08:00:39.176540 | CVE-2023-35624 | cvss:7.3 (HIGH)    | "(Azure, Elevation of privilege)"                                         | https://www.cve.org/CVERecord?id=CVE-2023-35624 |
+| 2023-12-13 08:00:40.168752 | CVE-2023-35619 | cvss:5.3 (MEDIUM)  | (Microsoft Outlook)                                                       | https://www.cve.org/CVERecord?id=CVE-2023-35619 |
+| 2023-12-13 08:00:41.193148 | CVE-2023-20275 | cvss:4.1 (MEDIUM)  | "(Cisco Adaptive Security Appliance, Remote Attack, Improper Validation)" | https://www.cve.org/CVERecord?id=CVE-2023-20275 |
+| 2023-12-13 08:00:42.227528 | CVE-2023-48227 | cvss:4.3 (MEDIUM)  | (ASP.NET)                                                                 | https://www.cve.org/CVERecord?id=CVE-2023-48227 |
+| 2023-12-13 08:00:43.204432 | CVE-2023-38694 | cvss:3.5 (LOW)     | (ASP.NET)                                                                 | https://www.cve.org/CVERecord?id=CVE-2023-38694 |
+| 2023-12-13 08:00:44.181043 | CVE-2022-47375 | cvss:7.5 (HIGH)    | "(Denial of service, Buffer Overflow)"                                    | https://www.cve.org/CVERecord?id=CVE-2022-47375 |
+| 2023-12-13 08:00:45.201501 | CVE-2023-49695 | cvss:0 (Not_rated) | "(Command injection, crafted request)"                                    | https://www.cve.org/CVERecord?id=CVE-2023-49695 |
+| 2023-12-13 08:00:46.280484 | CVE-2023-45847 | cvss:4.3 (MEDIUM)  | "(Plugin, crafted request)"                                               | https://www.cve.org/CVERecord?id=CVE-2023-45847 |
+| 2023-12-13 08:00:47.233684 | CVE-2023-45316 | cvss:7.3 (HIGH)    | "(Path Traversal, Plugin)"                                                | https://www.cve.org/CVERecord?id=CVE-2023-45316 |
+| 2023-12-13 08:00:48.195402 | CVE-2023-41623 | cvss:0 (Not_rated) | "(PHP, SQL injection)"                                                    | https://www.cve.org/CVERecord?id=CVE-2023-41623 |
+| 2023-12-13 20:00:23.949417 | CVE-2023-6478  | cvss:0 (Not_rated) | "(Integer Overflow, crafted request)"                                     | https://www.cve.org/CVERecord?id=CVE-2023-6478  |
+| 2023-12-13 20:00:24.906826 | CVE-2023-6377  | cvss:0 (Not_rated) | "(Remote code execution, Privilege Escalation, out-of-bounds)"            | https://www.cve.org/CVERecord?id=CVE-2023-6377  |
+| 2023-12-13 20:00:25.865712 | CVE-2023-48791 | cvss:7.9 (HIGH)    | "(Command injection, Improper Neutralization)"                            | https://www.cve.org/CVERecord?id=CVE-2023-48791 |
+| 2023-12-13 20:00:26.836369 | CVE-2023-48782 | cvss:8.6 (HIGH)    | "(Fortinet, Command injection, Improper Neutralization)"                  | https://www.cve.org/CVERecord?id=CVE-2023-48782 |
+| 2023-12-13 20:00:27.844365 | CVE-2023-46713 | cvss:4.9 (MEDIUM)  | (Fortinet)                                                                | https://www.cve.org/CVERecord?id=CVE-2023-46713 |
+| 2023-12-13 20:00:28.785829 | CVE-2023-46675 | cvss:8 (HIGH)      | "(Kibana, ElasticSearch)"                                                 | https://www.cve.org/CVERecord?id=CVE-2023-46675 |
+| 2023-12-13 20:00:29.720266 | CVE-2023-46671 | cvss:8 (HIGH)      | "(Kibana, ElasticSearch)"                                                 | https://www.cve.org/CVERecord?id=CVE-2023-46671 |
+| 2023-12-13 20:00:30.684511 | CVE-2023-45587 | cvss:3.4 (LOW)     | "(Fortinet, Improper Neutralization)"                                     | https://www.cve.org/CVERecord?id=CVE-2023-45587 |
+| 2023-12-13 20:00:31.654997 | CVE-2023-41844 | cvss:3.4 (LOW)     | "(Fortinet, Improper Neutralization)"                                     | https://www.cve.org/CVERecord?id=CVE-2023-41844 |
+| 2023-12-13 20:00:32.574769 | CVE-2023-41678 | cvss:8.3 (HIGH)    | "(Fortinet, crafted request)"                                             | https://www.cve.org/CVERecord?id=CVE-2023-41678 |
+| 2023-12-13 20:00:33.449347 | CVE-2023-41673 | cvss:6.9 (MEDIUM)  | (Fortinet)                                                                | https://www.cve.org/CVERecord?id=CVE-2023-41673 |
+| 2023-12-13 20:00:34.407502 | CVE-2023-36639 | cvss:7 (HIGH)      | (Fortinet)                                                                | https://www.cve.org/CVERecord?id=CVE-2023-36639 |
+| 2023-12-13 20:00:35.345275 | CVE-2023-45800 | cvss:7.5 (HIGH)    | "(SQL injection, Improper Neutralization)"                                | https://www.cve.org/CVERecord?id=CVE-2023-45800 |
+| 2023-12-13 20:00:36.388032 | CVE-2023-50263 | cvss:3.7 (LOW)     | "(Django, MySQL)"                                                         | https://www.cve.org/CVERecord?id=CVE-2023-50263 |
