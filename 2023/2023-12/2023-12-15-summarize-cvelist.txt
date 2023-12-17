@@ -1,0 +1,19 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                        | link                                            |
+|----------------------------|----------------|---------------------|------------------------------------------------|-------------------------------------------------|
+| 2023-12-15 03:00:25.669895 | CVE-2023-48634 | cvss:7.8 (HIGH)     | "(Arbitrary code execution, Input validation)" | https://www.cve.org/CVERecord?id=CVE-2023-48634 |
+| 2023-12-15 03:00:26.829488 | CVE-2023-48633 | cvss:7.8 (HIGH)     | "(Use after free, Arbitrary code execution)"   | https://www.cve.org/CVERecord?id=CVE-2023-48633 |
+| 2023-12-15 03:00:28.140729 | CVE-2023-48632 | cvss:7.8 (HIGH)     | "(Arbitrary code execution, out-of-bounds)"    | https://www.cve.org/CVERecord?id=CVE-2023-48632 |
+| 2023-12-15 03:00:29.267554 | CVE-2023-48629 | cvss:7.8 (HIGH)     | "(Arbitrary code execution, out-of-bounds)"    | https://www.cve.org/CVERecord?id=CVE-2023-48629 |
+| 2023-12-15 03:00:30.459123 | CVE-2023-48628 | cvss:7.8 (HIGH)     | "(Arbitrary code execution, out-of-bounds)"    | https://www.cve.org/CVERecord?id=CVE-2023-48628 |
+| 2023-12-15 03:00:31.736060 | CVE-2023-48627 | cvss:7.8 (HIGH)     | "(Arbitrary code execution, out-of-bounds)"    | https://www.cve.org/CVERecord?id=CVE-2023-48627 |
+| 2023-12-15 03:00:32.923929 | CVE-2023-47079 | cvss:5.5 (MEDIUM)   | "(Adobe Dimension, out-of-bounds)"             | https://www.cve.org/CVERecord?id=CVE-2023-47079 |
+| 2023-12-15 03:00:34.126990 | CVE-2023-47078 | cvss:5.5 (MEDIUM)   | "(Adobe Dimension, out-of-bounds)"             | https://www.cve.org/CVERecord?id=CVE-2023-47078 |
+| 2023-12-15 03:00:35.437793 | CVE-2023-47062 | cvss:5.5 (MEDIUM)   | "(Adobe Dimension, out-of-bounds)"             | https://www.cve.org/CVERecord?id=CVE-2023-47062 |
+| 2023-12-15 03:00:36.659694 | CVE-2023-47061 | cvss:5.5 (MEDIUM)   | "(Adobe Dimension, out-of-bounds)"             | https://www.cve.org/CVERecord?id=CVE-2023-47061 |
+| 2023-12-15 03:00:37.863997 | CVE-2023-42495 | cvss:9.8 (CRITICAL) | "(Command injection, Improper Neutralization)" | https://www.cve.org/CVERecord?id=CVE-2023-42495 |
+| 2023-12-15 03:00:39.139956 | CVE-2023-47075 | cvss:7.8 (HIGH)     | "(Use after free, Arbitrary code execution)"   | https://www.cve.org/CVERecord?id=CVE-2023-47075 |
+| 2023-12-15 03:00:40.231898 | CVE-2023-47063 | cvss:7.8 (HIGH)     | "(Arbitrary code execution, out-of-bounds)"    | https://www.cve.org/CVERecord?id=CVE-2023-47063 |
+| 2023-12-15 03:00:41.560088 | CVE-2023-44252 | cvss:8.6 (HIGH)     | (Fortinet)                                     | https://www.cve.org/CVERecord?id=CVE-2023-44252 |
+| 2023-12-15 03:00:42.753451 | CVE-2023-44251 | cvss:8.1 (HIGH)     | "(Fortinet, Path Traversal)"                   | https://www.cve.org/CVERecord?id=CVE-2023-44251 |
