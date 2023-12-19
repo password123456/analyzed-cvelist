@@ -1,0 +1,14 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                              | link                                            |
+|----------------------------|----------------|--------------------|----------------------------------------------------------------------|-------------------------------------------------|
+| 2023-12-18 02:00:22.566868 | CVE-2023-6901  | cvss:7.3 (HIGH)    | "(PHP, Command injection, Critical)"                                 | https://www.cve.org/CVERecord?id=CVE-2023-6901  |
+| 2023-12-18 02:00:23.540657 | CVE-2023-6900  | cvss:4.6 (MEDIUM)  | "(Path Traversal, Critical)"                                         | https://www.cve.org/CVERecord?id=CVE-2023-6900  |
+| 2023-12-18 02:00:24.573916 | CVE-2023-6895  | cvss:6.3 (MEDIUM)  | "(PHP, Command injection, Critical)"                                 | https://www.cve.org/CVERecord?id=CVE-2023-6895  |
+| 2023-12-18 02:00:25.545885 | CVE-2023-6893  | cvss:4.3 (MEDIUM)  | "(PHP, Path Traversal)"                                              | https://www.cve.org/CVERecord?id=CVE-2023-6893  |
+| 2023-12-18 02:00:26.456330 | CVE-2023-50965 | cvss:0 (Not_rated) | "(Remote code execution, Buffer Overflow)"                           | https://www.cve.org/CVERecord?id=CVE-2023-50965 |
+| 2023-12-18 02:00:27.345249 | CVE-2023-6888  | cvss:6.3 (MEDIUM)  | "(Buffer Overflow, Critical)"                                        | https://www.cve.org/CVERecord?id=CVE-2023-6888  |
+| 2023-12-18 02:00:28.275048 | CVE-2023-6887  | cvss:6.3 (MEDIUM)  | "(Unrestricted Upload, Critical)"                                    | https://www.cve.org/CVERecord?id=CVE-2023-6887  |
+| 2023-12-18 02:00:29.267507 | CVE-2023-6886  | cvss:4.7 (MEDIUM)  | "(Code Injection, Critical)"                                         | https://www.cve.org/CVERecord?id=CVE-2023-6886  |
+| 2023-12-18 02:00:30.324901 | CVE-2023-6885  | cvss:5.5 (MEDIUM)  | "(PHP, SQL injection, Critical)"                                     | https://www.cve.org/CVERecord?id=CVE-2023-6885  |
+| 2023-12-18 02:00:31.329038 | CVE-2023-50784 | cvss:0 (Not_rated) | "(Websocket, Remote code execution, Remote Attack, Buffer Overflow)" | https://www.cve.org/CVERecord?id=CVE-2023-50784 |
