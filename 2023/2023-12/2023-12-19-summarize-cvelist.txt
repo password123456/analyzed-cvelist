@@ -1,0 +1,16 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                               | link                                            |
+|----------------------------|----------------|---------------------|-------------------------------------------------------|-------------------------------------------------|
+| 2023-12-19 02:00:23.382373 | CVE-2023-6817  | cvss:7.8 (HIGH)     | "(use-after-free, Privilege Escalation)"              | https://www.cve.org/CVERecord?id=CVE-2023-6817  |
+| 2023-12-19 02:00:24.543803 | CVE-2023-46177 | cvss:6.5 (MEDIUM)   | "(Remote Attack, Traverse Directories)"               | https://www.cve.org/CVERecord?id=CVE-2023-46177 |
+| 2023-12-19 02:00:25.545755 | CVE-2022-40312 | cvss:5.5 (MEDIUM)   | "(Plugin, Server-side Request Forgery)"               | https://www.cve.org/CVERecord?id=CVE-2022-40312 |
+| 2023-12-19 02:00:26.568166 | CVE-2023-6228  | cvss:0 (Not_rated)  | "(Libtiff, Buffer Overflow)"                          | https://www.cve.org/CVERecord?id=CVE-2023-6228  |
+| 2023-12-19 02:00:27.555918 | CVE-2023-5115  | cvss:0 (Not_rated)  | "(Ansible Automation Platform, Path Traversal)"       | https://www.cve.org/CVERecord?id=CVE-2023-5115  |
+| 2023-12-19 02:00:28.560103 | CVE-2023-3430  | cvss:0 (Not_rated)  | "(Remote Attack, Denial of service, Buffer Overflow)" | https://www.cve.org/CVERecord?id=CVE-2023-3430  |
+| 2023-12-19 02:00:29.530558 | CVE-2023-39509 | cvss:7.2 (HIGH)     | "(Command injection, Arbitrary Command)"              | https://www.cve.org/CVERecord?id=CVE-2023-39509 |
+| 2023-12-19 02:00:30.507241 | CVE-2023-6483  | cvss:9.1 (CRITICAL) | "(Remote Attack, Gain full access)"                   | https://www.cve.org/CVERecord?id=CVE-2023-6483  |
+| 2023-12-19 02:00:31.430193 | CVE-2023-6907  | cvss:5.4 (MEDIUM)   | "(PHP, Critical)"                                     | https://www.cve.org/CVERecord?id=CVE-2023-6907  |
+| 2023-12-19 02:00:32.406655 | CVE-2023-6903  | cvss:7.3 (HIGH)     | "(PHP, SQL injection, Critical)"                      | https://www.cve.org/CVERecord?id=CVE-2023-6903  |
+| 2023-12-19 02:00:33.379950 | CVE-2023-6902  | cvss:5.5 (MEDIUM)   | "(PHP, Unrestricted Upload, Critical)"                | https://www.cve.org/CVERecord?id=CVE-2023-6902  |
+| 2023-12-19 08:00:24.273761 | CVE-2023-48795 | cvss:0 (Not_rated)  | "(OpenSSH, Remote Attack)"                            | https://www.cve.org/CVERecord?id=CVE-2023-48795 |
