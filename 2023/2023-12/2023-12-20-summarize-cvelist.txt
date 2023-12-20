@@ -1,0 +1,43 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                    | link                                            |
+|----------------------------|----------------|--------------------|------------------------------------------------------------|-------------------------------------------------|
+| 2023-12-20 02:00:24.323482 | CVE-2023-42015 | cvss:4.3 (MEDIUM)  | "(Information disclosure, HTML injection)"                 | https://www.cve.org/CVERecord?id=CVE-2023-42015 |
+| 2023-12-20 02:00:25.265047 | CVE-2023-6314  | cvss:7.8 (HIGH)    | "(Execute arbitrary code, Buffer Overflow)"                | https://www.cve.org/CVERecord?id=CVE-2023-6314  |
+| 2023-12-20 02:00:26.291266 | CVE-2023-47754 | cvss:4.3 (MEDIUM)  | "(Plugin, Missing Authorization)"                          | https://www.cve.org/CVERecord?id=CVE-2023-47754 |
+| 2023-12-20 02:00:27.334005 | CVE-2023-46154 | cvss:6.6 (MEDIUM)  | (WordPress)                                                | https://www.cve.org/CVERecord?id=CVE-2023-46154 |
+| 2023-12-20 02:00:28.386217 | CVE-2023-47558 | cvss:7.6 (HIGH)    | "(SQL injection, Improper Neutralization)"                 | https://www.cve.org/CVERecord?id=CVE-2023-47558 |
+| 2023-12-20 02:00:29.372023 | CVE-2023-47530 | cvss:7.6 (HIGH)    | "(SQL injection, Improper Neutralization)"                 | https://www.cve.org/CVERecord?id=CVE-2023-47530 |
+| 2023-12-20 02:00:30.363379 | CVE-2023-47506 | cvss:7.6 (HIGH)    | "(SQL injection, Improper Neutralization)"                 | https://www.cve.org/CVERecord?id=CVE-2023-47506 |
+| 2023-12-20 02:00:31.285502 | CVE-2023-34168 | cvss:7.6 (HIGH)    | "(SQL injection, Improper Neutralization)"                 | https://www.cve.org/CVERecord?id=CVE-2023-34168 |
+| 2023-12-20 02:00:32.267499 | CVE-2023-33331 | cvss:8.5 (HIGH)    | "(SQL injection, Improper Neutralization)"                 | https://www.cve.org/CVERecord?id=CVE-2023-33331 |
+| 2023-12-20 02:00:33.187725 | CVE-2023-22439 | cvss:3.1 (LOW)     | "(Input validation, Denial of service)"                    | https://www.cve.org/CVERecord?id=CVE-2023-22439 |
+| 2023-12-20 02:00:34.132394 | CVE-2023-51385 | cvss:0 (Not_rated) | "(OpenSSH, Command injection)"                             | https://www.cve.org/CVERecord?id=CVE-2023-51385 |
+| 2023-12-20 02:00:35.087568 | CVE-2023-51384 | cvss:0 (Not_rated) | (OpenSSH)                                                  | https://www.cve.org/CVERecord?id=CVE-2023-51384 |
+| 2023-12-20 02:00:36.087762 | CVE-2023-6691  | cvss:7.8 (HIGH)    | "(Remote code execution, Code Injection)"                  | https://www.cve.org/CVERecord?id=CVE-2023-6691  |
+| 2023-12-20 02:00:37.088767 | CVE-2023-46217 | cvss:0 (Not_rated) | "(Ivanti, Remote Attack, Buffer Overflow, Stack Overflow)" | https://www.cve.org/CVERecord?id=CVE-2023-46217 |
+| 2023-12-20 02:00:38.067761 | CVE-2023-46216 | cvss:0 (Not_rated) | "(Ivanti, Remote Attack, Buffer Overflow, Stack Overflow)" | https://www.cve.org/CVERecord?id=CVE-2023-46216 |
+| 2023-12-20 02:00:39.059242 | CVE-2023-41727 | cvss:0 (Not_rated) | "(Ivanti, Remote Attack, Buffer Overflow, Stack Overflow)" | https://www.cve.org/CVERecord?id=CVE-2023-41727 |
+| 2023-12-20 06:00:24.670801 | CVE-2023-46804 | cvss:0 (Not_rated) | "(Memory corruption, Denial of service)"                   | https://www.cve.org/CVERecord?id=CVE-2023-46804 |
+| 2023-12-20 06:00:25.860350 | CVE-2023-46803 | cvss:0 (Not_rated) | "(Memory corruption, Denial of service)"                   | https://www.cve.org/CVERecord?id=CVE-2023-46803 |
+| 2023-12-20 06:00:26.917147 | CVE-2023-46266 | cvss:0 (Not_rated) | "(Leakage of sensitive data, crafted request)"             | https://www.cve.org/CVERecord?id=CVE-2023-46266 |
+| 2023-12-20 06:00:27.862165 | CVE-2023-46265 | cvss:0 (Not_rated) | "(XXE, Server-side Request Forgery)"                       | https://www.cve.org/CVERecord?id=CVE-2023-46265 |
+| 2023-12-20 06:00:28.894737 | CVE-2023-46263 | cvss:0 (Not_rated) | "(Remote code execution, Unrestricted Upload)"             | https://www.cve.org/CVERecord?id=CVE-2023-46263 |
+| 2023-12-20 06:00:29.892303 | CVE-2023-46262 | cvss:0 (Not_rated) | "(Ivanti, Server-side Request Forgery)"                    | https://www.cve.org/CVERecord?id=CVE-2023-46262 |
+| 2023-12-20 06:00:30.868820 | CVE-2023-46261 | cvss:0 (Not_rated) | "(Memory corruption, Denial of service)"                   | https://www.cve.org/CVERecord?id=CVE-2023-46261 |
+| 2023-12-20 06:00:31.883678 | CVE-2023-46260 | cvss:0 (Not_rated) | "(Memory corruption, Denial of service)"                   | https://www.cve.org/CVERecord?id=CVE-2023-46260 |
+| 2023-12-20 06:00:32.868094 | CVE-2023-46259 | cvss:0 (Not_rated) | "(Memory corruption, Denial of service)"                   | https://www.cve.org/CVERecord?id=CVE-2023-46259 |
+| 2023-12-20 06:00:33.830085 | CVE-2023-46258 | cvss:0 (Not_rated) | "(Memory corruption, Denial of service)"                   | https://www.cve.org/CVERecord?id=CVE-2023-46258 |
+| 2023-12-20 06:00:34.782087 | CVE-2023-46257 | cvss:0 (Not_rated) | "(Memory corruption, Denial of service)"                   | https://www.cve.org/CVERecord?id=CVE-2023-46257 |
+| 2023-12-20 06:00:35.728161 | CVE-2023-46225 | cvss:0 (Not_rated) | "(Memory corruption, Denial of service)"                   | https://www.cve.org/CVERecord?id=CVE-2023-46225 |
+| 2023-12-20 06:00:36.681671 | CVE-2023-46224 | cvss:0 (Not_rated) | "(Memory corruption, Denial of service)"                   | https://www.cve.org/CVERecord?id=CVE-2023-46224 |
+| 2023-12-20 06:00:37.586342 | CVE-2023-46223 | cvss:0 (Not_rated) | "(Memory corruption, Denial of service)"                   | https://www.cve.org/CVERecord?id=CVE-2023-46223 |
+| 2023-12-20 06:00:38.562427 | CVE-2023-46222 | cvss:0 (Not_rated) | "(Memory corruption, Denial of service)"                   | https://www.cve.org/CVERecord?id=CVE-2023-46222 |
+| 2023-12-20 06:00:39.501679 | CVE-2023-46221 | cvss:0 (Not_rated) | "(Memory corruption, Denial of service)"                   | https://www.cve.org/CVERecord?id=CVE-2023-46221 |
+| 2023-12-20 06:00:40.456420 | CVE-2023-46220 | cvss:0 (Not_rated) | "(Memory corruption, Denial of service)"                   | https://www.cve.org/CVERecord?id=CVE-2023-46220 |
+| 2023-12-20 06:00:41.508936 | CVE-2023-25715 | cvss:5.4 (MEDIUM)  | "(WordPress, Plugin, Missing Authorization)"               | https://www.cve.org/CVERecord?id=CVE-2023-25715 |
+| 2023-12-20 06:00:42.439278 | CVE-2023-6280  | cvss:7.2 (HIGH)    | "(XXE, XML external entity)"                               | https://www.cve.org/CVERecord?id=CVE-2023-6280  |
+| 2023-12-20 06:00:43.466496 | CVE-2023-6932  | cvss:7.8 (HIGH)    | "(use-after-free, Privilege Escalation, Race Condition)"   | https://www.cve.org/CVERecord?id=CVE-2023-6932  |
+| 2023-12-20 06:00:44.530565 | CVE-2023-6931  | cvss:7.8 (HIGH)    | "(Privilege Escalation, out-of-bounds)"                    | https://www.cve.org/CVERecord?id=CVE-2023-6931  |
+| 2023-12-20 06:00:45.542160 | CVE-2023-6856  | cvss:0 (Not_rated) | "(Remote code execution, Buffer Overflow)"                 | https://www.cve.org/CVERecord?id=CVE-2023-6856  |
+| 2023-12-20 06:00:46.483191 | CVE-2023-49006 | cvss:0 (Not_rated) | "(PHP, Remote Attack, obtain sensitive information)"       | https://www.cve.org/CVERecord?id=CVE-2023-49006 |
