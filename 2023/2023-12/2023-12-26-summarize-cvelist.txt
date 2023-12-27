@@ -1,0 +1,12 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                             | link                                            |
+|----------------------------|----------------|--------------------|---------------------------------------------------------------------|-------------------------------------------------|
+| 2023-12-26 20:00:23.936751 | CVE-2023-7111  | cvss:6.3 (MEDIUM)  | "(PHP, SQL injection, Critical)"                                    | https://www.cve.org/CVERecord?id=CVE-2023-7111  |
+| 2023-12-26 20:00:24.880470 | CVE-2023-38321 | cvss:0 (Not_rated) | "(Remote Attack, Denial of service)"                                | https://www.cve.org/CVERecord?id=CVE-2023-38321 |
+| 2023-12-26 20:00:25.864594 | CVE-2023-49226 | cvss:0 (Not_rated) | "(Command injection, Arbitrary Command, Execute arbitrary command)" | https://www.cve.org/CVERecord?id=CVE-2023-49226 |
+| 2023-12-26 20:00:26.886725 | CVE-2023-51772 | cvss:0 (Not_rated) | "(Active Directory, File Upload, NT AUTHORITY\SYSTEM)"              | https://www.cve.org/CVERecord?id=CVE-2023-51772 |
+| 2023-12-26 20:00:27.823650 | CVE-2023-48654 | cvss:0 (Not_rated) | "(Active Directory, File Upload, NT AUTHORITY\SYSTEM)"              | https://www.cve.org/CVERecord?id=CVE-2023-48654 |
+| 2023-12-26 20:00:28.756582 | CVE-2023-31455 | cvss:0 (Not_rated) | "(Remote Attack, Input validation)"                                 | https://www.cve.org/CVERecord?id=CVE-2023-31455 |
+| 2023-12-26 20:00:29.681520 | CVE-2023-31289 | cvss:0 (Not_rated) | "(Remote Attack, Input validation)"                                 | https://www.cve.org/CVERecord?id=CVE-2023-31289 |
+| 2023-12-26 20:00:30.636799 | CVE-2022-39818 | cvss:0 (Not_rated) | "(Command injection, Execute command)"                              | https://www.cve.org/CVERecord?id=CVE-2022-39818 |
