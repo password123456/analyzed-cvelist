@@ -1,0 +1,12 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                                                             | link                                            |
+|----------------------------|----------------|---------------------|-------------------------------------------------------------------------------------|-------------------------------------------------|
+| 2023-12-28 16:03:27.373665 | CVE-2023-51700 | cvss:6.4 (MEDIUM)   | "(WordPress, Plugin)"                                                               | https://www.cve.org/CVERecord?id=CVE-2023-51700 |
+| 2023-12-28 16:03:28.400454 | CVE-2023-51664 | cvss:7.3 (HIGH)     | "(Command injection, Command execution, Arbitrary Command, Execute arbitrary code)" | https://www.cve.org/CVERecord?id=CVE-2023-51664 |
+| 2023-12-28 16:03:29.428968 | CVE-2023-51443 | cvss:7.5 (HIGH)     | "(Denial of service, Race Condition)"                                               | https://www.cve.org/CVERecord?id=CVE-2023-51443 |
+| 2023-12-28 16:03:30.475928 | CVE-2023-50255 | cvss:9.3 (CRITICAL) | "(Command execution, Path Traversal)"                                               | https://www.cve.org/CVERecord?id=CVE-2023-50255 |
+| 2023-12-28 16:03:31.486127 | CVE-2023-7116  | cvss:6.3 (MEDIUM)   | "(Command injection, Critical)"                                                     | https://www.cve.org/CVERecord?id=CVE-2023-7116  |
+| 2023-12-28 16:03:32.462558 | CVE-2023-6190  | cvss:6.5 (MEDIUM)   | "(Path Traversal, Input validation)"                                                | https://www.cve.org/CVERecord?id=CVE-2023-6190  |
+| 2023-12-28 16:03:33.497437 | CVE-2023-49438 | cvss:0 (Not_rated)  | (Flask)                                                                             | https://www.cve.org/CVERecord?id=CVE-2023-49438 |
+| 2023-12-28 16:03:34.443021 | CVE-2023-48003 | cvss:0 (Not_rated)  | "(ASP.NET, Remote Attack, HTML injection)"                                          | https://www.cve.org/CVERecord?id=CVE-2023-48003 |
