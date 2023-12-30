@@ -1,0 +1,21 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                 | link                                            |
+|----------------------------|----------------|--------------------|---------------------------------------------------------|-------------------------------------------------|
+| 2023-12-29 06:00:22.871381 | CVE-2023-50445 | cvss:0 (Not_rated) | "(Execute arbitrary code, Shell Injection)"             | https://www.cve.org/CVERecord?id=CVE-2023-50445 |
+| 2023-12-29 06:00:23.887527 | CVE-2023-49229 | cvss:0 (Not_rated) | "(obtain sensitive information, Missing Authorization)" | https://www.cve.org/CVERecord?id=CVE-2023-49229 |
+| 2023-12-29 06:00:24.876741 | CVE-2023-49228 | cvss:0 (Not_rated) | "(Arbitrary Command, Execute arbitrary command)"        | https://www.cve.org/CVERecord?id=CVE-2023-49228 |
+| 2023-12-29 06:00:25.883243 | CVE-2023-7124  | cvss:4.3 (MEDIUM)  | (PHP)                                                   | https://www.cve.org/CVERecord?id=CVE-2023-7124  |
+| 2023-12-29 22:00:23.535119 | CVE-2023-50855 | cvss:7.6 (HIGH)    | "(SQL injection, Improper Neutralization)"              | https://www.cve.org/CVERecord?id=CVE-2023-50855 |
+| 2023-12-29 22:00:24.552436 | CVE-2023-50854 | cvss:7.6 (HIGH)    | "(SQL injection, Improper Neutralization)"              | https://www.cve.org/CVERecord?id=CVE-2023-50854 |
+| 2023-12-29 22:00:25.471571 | CVE-2023-50853 | cvss:7.6 (HIGH)    | "(SQL injection, Improper Neutralization)"              | https://www.cve.org/CVERecord?id=CVE-2023-50853 |
+| 2023-12-29 22:00:26.478119 | CVE-2023-50852 | cvss:7.6 (HIGH)    | "(SQL injection, Improper Neutralization)"              | https://www.cve.org/CVERecord?id=CVE-2023-50852 |
+| 2023-12-29 22:00:27.447125 | CVE-2023-50851 | cvss:7.6 (HIGH)    | "(SQL injection, Plugin, Improper Neutralization)"      | https://www.cve.org/CVERecord?id=CVE-2023-50851 |
+| 2023-12-29 22:00:28.402395 | CVE-2023-50849 | cvss:7.6 (HIGH)    | "(WordPress, SQL injection, Improper Neutralization)"   | https://www.cve.org/CVERecord?id=CVE-2023-50849 |
+| 2023-12-29 22:00:29.350259 | CVE-2023-50848 | cvss:7.6 (HIGH)    | "(SQL injection, Improper Neutralization)"              | https://www.cve.org/CVERecord?id=CVE-2023-50848 |
+| 2023-12-29 22:00:30.281283 | CVE-2023-50857 | cvss:7.6 (HIGH)    | "(SQL injection, Improper Neutralization)"              | https://www.cve.org/CVERecord?id=CVE-2023-50857 |
+| 2023-12-29 22:00:31.255220 | CVE-2023-50856 | cvss:7.6 (HIGH)    | "(WordPress, SQL injection, Improper Neutralization)"   | https://www.cve.org/CVERecord?id=CVE-2023-50856 |
+| 2023-12-29 22:00:32.167862 | CVE-2023-27447 | cvss:5.3 (MEDIUM)  | "(WordPress, Exposure of Sensitive)"                    | https://www.cve.org/CVERecord?id=CVE-2023-27447 |
+| 2023-12-29 22:00:33.061429 | CVE-2023-4671  | cvss:7.5 (HIGH)    | "(SQL injection, Improper Neutralization)"              | https://www.cve.org/CVERecord?id=CVE-2023-4671  |
+| 2023-12-29 22:00:34.057023 | CVE-2023-45701 | cvss:4.3 (MEDIUM)  | "(Remote Attack, obtain sensitive information)"         | https://www.cve.org/CVERecord?id=CVE-2023-45701 |
+| 2023-12-29 22:00:34.950428 | CVE-2023-50692 | cvss:0 (Not_rated) | "(Remote Attack, File Upload, Execute arbitrary code)"  | https://www.cve.org/CVERecord?id=CVE-2023-50692 |
