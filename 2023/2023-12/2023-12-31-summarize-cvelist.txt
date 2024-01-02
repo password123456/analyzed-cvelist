@@ -1,0 +1,17 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                        | link                                            |
+|----------------------------|----------------|--------------------|----------------------------------------------------------------|-------------------------------------------------|
+| 2023-12-31 08:00:22.984421 | CVE-2023-7175  | cvss:4.7 (MEDIUM)  | "(PHP, SQL injection, Critical)"                               | https://www.cve.org/CVERecord?id=CVE-2023-7175  |
+| 2023-12-31 08:00:23.962174 | CVE-2023-7173  | cvss:4.3 (MEDIUM)  | (PHP)                                                          | https://www.cve.org/CVERecord?id=CVE-2023-7173  |
+| 2023-12-31 08:00:24.895038 | CVE-2023-7172  | cvss:7.3 (HIGH)    | "(PHP, SQL injection, Critical)"                               | https://www.cve.org/CVERecord?id=CVE-2023-7172  |
+| 2023-12-31 08:00:25.897226 | CVE-2023-41544 | cvss:0 (Not_rated) | "(Remote Attack, Execute arbitrary code)"                      | https://www.cve.org/CVERecord?id=CVE-2023-41544 |
+| 2023-12-31 08:00:26.872970 | CVE-2023-41543 | cvss:0 (Not_rated) | "(Remote Attack, SQL injection, obtain sensitive information)" | https://www.cve.org/CVERecord?id=CVE-2023-41543 |
+| 2023-12-31 08:00:27.874025 | CVE-2023-41542 | cvss:0 (Not_rated) | "(Remote Attack, SQL injection, obtain sensitive information)" | https://www.cve.org/CVERecord?id=CVE-2023-41542 |
+| 2023-12-31 10:00:23.951620 | CVE-2023-52262 | cvss:0 (Not_rated) | "(PHP, Remote Attack, Execute arbitrary code)"                 | https://www.cve.org/CVERecord?id=CVE-2023-52262 |
+| 2023-12-31 10:00:25.034292 | CVE-2023-7181  | cvss:4.7 (MEDIUM)  | "(Unrestricted Upload, Critical)"                              | https://www.cve.org/CVERecord?id=CVE-2023-7181  |
+| 2023-12-31 10:00:25.959911 | CVE-2023-7180  | cvss:5.5 (MEDIUM)  | "(PHP, SQL injection, Critical)"                               | https://www.cve.org/CVERecord?id=CVE-2023-7180  |
+| 2023-12-31 10:00:26.968690 | CVE-2023-7179  | cvss:4.7 (MEDIUM)  | "(PHP, SQL injection, Critical)"                               | https://www.cve.org/CVERecord?id=CVE-2023-7179  |
+| 2023-12-31 10:00:27.839660 | CVE-2023-7178  | cvss:4.7 (MEDIUM)  | "(PHP, SQL injection, Critical)"                               | https://www.cve.org/CVERecord?id=CVE-2023-7178  |
+| 2023-12-31 10:00:28.778273 | CVE-2023-7177  | cvss:4.7 (MEDIUM)  | "(PHP, SQL injection, Critical)"                               | https://www.cve.org/CVERecord?id=CVE-2023-7177  |
+| 2023-12-31 10:00:29.758664 | CVE-2023-7176  | cvss:4.7 (MEDIUM)  | "(PHP, SQL injection, Critical)"                               | https://www.cve.org/CVERecord?id=CVE-2023-7176  |
