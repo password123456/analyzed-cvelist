@@ -1,7 +1,0 @@
-# Timezone is GMT/UTC+9
-
-| datetime                   | cve_id        | cvss_v3            | summary               | link                                           |
-|----------------------------|---------------|--------------------|-----------------------|------------------------------------------------|
-| 2024-01-02 18:00:22.832156 | CVE-2024-0183 | cvss:2.4 (LOW)     | (PHP)                 | https://www.cve.org/CVERecord?id=CVE-2024-0183 |
-| 2024-01-02 18:00:23.830647 | CVE-2024-0181 | cvss:2.4 (LOW)     | (PHP)                 | https://www.cve.org/CVERecord?id=CVE-2024-0181 |
-| 2024-01-02 18:00:24.798424 | CVE-2023-6113 | cvss:0 (Not_rated) | "(WordPress, Plugin)" | https://www.cve.org/CVERecord?id=CVE-2023-6113 |
