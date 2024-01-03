@@ -1,0 +1,44 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                                      | link                                            |
+|----------------------------|----------------|---------------------|--------------------------------------------------------------|-------------------------------------------------|
+| 2024-01-03 06:00:23.653488 | CVE-2023-32891 | cvss:0 (Not_rated)  | "(Input validation, Escalation of Privilege, Out of Bounds)" | https://www.cve.org/CVERecord?id=CVE-2023-32891 |
+| 2024-01-03 06:00:24.760566 | CVE-2023-32890 | cvss:0 (Not_rated)  | "(Input validation, Denial of service)"                      | https://www.cve.org/CVERecord?id=CVE-2023-32890 |
+| 2024-01-03 06:00:25.669191 | CVE-2023-32889 | cvss:0 (Not_rated)  | "(Denial of service, Out of Bounds)"                         | https://www.cve.org/CVERecord?id=CVE-2023-32889 |
+| 2024-01-03 06:00:26.632225 | CVE-2023-32888 | cvss:0 (Not_rated)  | "(Denial of service, Out of Bounds)"                         | https://www.cve.org/CVERecord?id=CVE-2023-32888 |
+| 2024-01-03 06:00:27.583204 | CVE-2023-32886 | cvss:0 (Not_rated)  | "(Denial of service, Out of Bounds)"                         | https://www.cve.org/CVERecord?id=CVE-2023-32886 |
+| 2024-01-03 06:00:28.534191 | CVE-2023-32885 | cvss:0 (Not_rated)  | "(Memory corruption, Escalation of Privilege)"               | https://www.cve.org/CVERecord?id=CVE-2023-32885 |
+| 2024-01-03 06:00:29.457765 | CVE-2023-32884 | cvss:0 (Not_rated)  | "(Information disclosure, Escalation of Privilege)"          | https://www.cve.org/CVERecord?id=CVE-2023-32884 |
+| 2024-01-03 06:00:30.457989 | CVE-2023-32883 | cvss:0 (Not_rated)  | "(Escalation of Privilege, Out of Bounds)"                   | https://www.cve.org/CVERecord?id=CVE-2023-32883 |
+| 2024-01-03 06:00:31.377797 | CVE-2023-32882 | cvss:0 (Not_rated)  | "(Memory corruption, Escalation of Privilege)"               | https://www.cve.org/CVERecord?id=CVE-2023-32882 |
+| 2024-01-03 06:00:32.351522 | CVE-2023-32881 | cvss:0 (Not_rated)  | "(Information disclosure, Integer Overflow)"                 | https://www.cve.org/CVERecord?id=CVE-2023-32881 |
+| 2024-01-03 06:00:33.362088 | CVE-2023-32879 | cvss:0 (Not_rated)  | "(Escalation of Privilege, Out of Bounds)"                   | https://www.cve.org/CVERecord?id=CVE-2023-32879 |
+| 2024-01-03 06:00:34.341010 | CVE-2023-32877 | cvss:0 (Not_rated)  | "(Escalation of Privilege, Out of Bounds)"                   | https://www.cve.org/CVERecord?id=CVE-2023-32877 |
+| 2024-01-03 06:00:35.364017 | CVE-2023-32874 | cvss:0 (Not_rated)  | "(Remote code execution, Out of Bounds)"                     | https://www.cve.org/CVERecord?id=CVE-2023-32874 |
+| 2024-01-03 06:00:36.346936 | CVE-2023-32872 | cvss:0 (Not_rated)  | "(Escalation of Privilege, Out of Bounds)"                   | https://www.cve.org/CVERecord?id=CVE-2023-32872 |
+| 2024-01-03 06:00:37.368645 | CVE-2024-0185  | cvss:4.7 (MEDIUM)   | "(PHP, Unrestricted Upload, Critical)"                       | https://www.cve.org/CVERecord?id=CVE-2024-0185  |
+| 2024-01-03 06:00:38.368280 | CVE-2024-0184  | cvss:2.4 (LOW)      | (PHP)                                                        | https://www.cve.org/CVERecord?id=CVE-2024-0184  |
+| 2024-01-03 12:00:24.340828 | CVE-2023-49558 | cvss:0 (Not_rated)  | "(Remote Attack, Denial of service)"                         | https://www.cve.org/CVERecord?id=CVE-2023-49558 |
+| 2024-01-03 12:00:25.440207 | CVE-2023-49557 | cvss:0 (Not_rated)  | "(Remote Attack, Denial of service)"                         | https://www.cve.org/CVERecord?id=CVE-2023-49557 |
+| 2024-01-03 12:00:26.457160 | CVE-2023-49556 | cvss:0 (Not_rated)  | "(Remote Attack, Denial of service, Buffer Overflow)"        | https://www.cve.org/CVERecord?id=CVE-2023-49556 |
+| 2024-01-03 12:00:27.389902 | CVE-2023-49555 | cvss:0 (Not_rated)  | "(Remote Attack, Denial of service)"                         | https://www.cve.org/CVERecord?id=CVE-2023-49555 |
+| 2024-01-03 12:00:28.381231 | CVE-2023-49554 | cvss:0 (Not_rated)  | "(Use after free, Remote Attack, Denial of service)"         | https://www.cve.org/CVERecord?id=CVE-2023-49554 |
+| 2024-01-03 12:00:29.381055 | CVE-2023-49553 | cvss:0 (Not_rated)  | "(Remote Attack, Denial of service)"                         | https://www.cve.org/CVERecord?id=CVE-2023-49553 |
+| 2024-01-03 12:00:30.353277 | CVE-2023-49552 | cvss:0 (Not_rated)  | "(Remote Attack, Denial of service, Out of Bounds)"          | https://www.cve.org/CVERecord?id=CVE-2023-49552 |
+| 2024-01-03 12:00:31.335477 | CVE-2023-49551 | cvss:0 (Not_rated)  | "(Remote Attack, Denial of service)"                         | https://www.cve.org/CVERecord?id=CVE-2023-49551 |
+| 2024-01-03 12:00:32.239235 | CVE-2023-49550 | cvss:0 (Not_rated)  | "(Remote Attack, Denial of service)"                         | https://www.cve.org/CVERecord?id=CVE-2023-49550 |
+| 2024-01-03 12:00:33.181345 | CVE-2023-49549 | cvss:0 (Not_rated)  | "(Remote Attack, Denial of service)"                         | https://www.cve.org/CVERecord?id=CVE-2023-49549 |
+| 2024-01-03 12:00:34.164652 | CVE-2024-0196  | cvss:6.3 (MEDIUM)   | "(Code Injection, Critical)"                                 | https://www.cve.org/CVERecord?id=CVE-2024-0196  |
+| 2024-01-03 12:00:35.068819 | CVE-2024-0195  | cvss:6.3 (MEDIUM)   | "(Code Injection, Critical)"                                 | https://www.cve.org/CVERecord?id=CVE-2024-0195  |
+| 2024-01-03 12:00:36.000577 | CVE-2024-0194  | cvss:6.3 (MEDIUM)   | "(PHP, Unrestricted Upload, Critical)"                       | https://www.cve.org/CVERecord?id=CVE-2024-0194  |
+| 2024-01-03 12:00:36.975131 | CVE-2023-45893 | cvss:0 (Not_rated)  | "(Remote Attack, IDOR)"                                      | https://www.cve.org/CVERecord?id=CVE-2023-45893 |
+| 2024-01-03 12:00:37.859002 | CVE-2024-0192  | cvss:6.3 (MEDIUM)   | "(PHP, Unrestricted Upload, Critical)"                       | https://www.cve.org/CVERecord?id=CVE-2024-0192  |
+| 2024-01-03 12:00:38.844609 | CVE-2023-50711 | cvss:5.7 (MEDIUM)   | "(Memory access, out-of-bounds, Out of Bounds)"              | https://www.cve.org/CVERecord?id=CVE-2023-50711 |
+| 2024-01-03 12:00:39.770745 | CVE-2024-0190  | cvss:3.5 (LOW)      | (PHP)                                                        | https://www.cve.org/CVERecord?id=CVE-2024-0190  |
+| 2024-01-03 12:00:40.793093 | CVE-2024-0189  | cvss:3.5 (LOW)      | (PHP)                                                        | https://www.cve.org/CVERecord?id=CVE-2024-0189  |
+| 2024-01-03 12:00:41.729960 | CVE-2024-0188  | cvss:3.1 (LOW)      | (PHP)                                                        | https://www.cve.org/CVERecord?id=CVE-2024-0188  |
+| 2024-01-03 12:00:42.649358 | CVE-2023-6436  | cvss:9.8 (CRITICAL) | "(SQL injection, Improper Neutralization)"                   | https://www.cve.org/CVERecord?id=CVE-2023-6436  |
+| 2024-01-03 12:00:43.587685 | CVE-2023-48732 | cvss:4.3 (MEDIUM)   | (Websocket)                                                  | https://www.cve.org/CVERecord?id=CVE-2023-48732 |
+| 2024-01-03 12:00:44.754813 | CVE-2023-33110 | cvss:7.8 (HIGH)     | "(Memory corruption, Race Condition)"                        | https://www.cve.org/CVERecord?id=CVE-2023-33110 |
+| 2024-01-03 12:00:45.669436 | CVE-2023-26159 | cvss:7.3 (HIGH)     | "(Input validation, Information disclosure)"                 | https://www.cve.org/CVERecord?id=CVE-2023-26159 |
+| 2024-01-03 12:00:46.725811 | CVE-2023-26157 | cvss:5.5 (MEDIUM)   | "(Denial of service, out-of-bounds)"                         | https://www.cve.org/CVERecord?id=CVE-2023-26157 |
