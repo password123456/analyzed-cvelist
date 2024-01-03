@@ -1,0 +1,26 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                                       | link                                            |
+|----------------------------|----------------|---------------------|---------------------------------------------------------------|-------------------------------------------------|
+| 2024-01-01 12:00:25.174841 | CVE-2023-52133 | cvss:8.5 (HIGH)     | "(SQL injection, Improper Neutralization)"                    | https://www.cve.org/CVERecord?id=CVE-2023-52133 |
+| 2024-01-01 12:00:26.144440 | CVE-2023-52132 | cvss:7.6 (HIGH)     | "(SQL injection, Improper Neutralization)"                    | https://www.cve.org/CVERecord?id=CVE-2023-52132 |
+| 2024-01-01 12:00:27.138346 | CVE-2023-52131 | cvss:7.6 (HIGH)     | "(SQL injection, Improper Neutralization)"                    | https://www.cve.org/CVERecord?id=CVE-2023-52131 |
+| 2024-01-01 12:00:28.198530 | CVE-2023-51547 | cvss:7.6 (HIGH)     | "(WordPress, SQL injection, Plugin, Improper Neutralization)" | https://www.cve.org/CVERecord?id=CVE-2023-51547 |
+| 2024-01-01 12:00:29.167077 | CVE-2023-51469 | cvss:9.3 (CRITICAL) | "(SQL injection, Improper Neutralization)"                    | https://www.cve.org/CVERecord?id=CVE-2023-51469 |
+| 2024-01-01 12:00:30.146449 | CVE-2023-51423 | cvss:9.3 (CRITICAL) | "(Zoom, SQL injection, Plugin, Improper Neutralization)"      | https://www.cve.org/CVERecord?id=CVE-2023-51423 |
+| 2024-01-01 12:00:31.181004 | CVE-2023-7193  | cvss:4.6 (MEDIUM)   | "(PHP, Improper access control, Critical)"                    | https://www.cve.org/CVERecord?id=CVE-2023-7193  |
+| 2024-01-01 12:00:32.173857 | CVE-2023-52185 | cvss:5.3 (MEDIUM)   | "(WordPress, Plugin, Exposure of Sensitive)"                  | https://www.cve.org/CVERecord?id=CVE-2023-52185 |
+| 2024-01-01 12:00:33.185020 | CVE-2023-52134 | cvss:7.6 (HIGH)     | "(WordPress, SQL injection, Improper Neutralization)"         | https://www.cve.org/CVERecord?id=CVE-2023-52134 |
+| 2024-01-01 12:00:34.141203 | CVE-2023-7191  | cvss:5.5 (MEDIUM)   | "(PHP, SQL injection, Critical)"                              | https://www.cve.org/CVERecord?id=CVE-2023-7191  |
+| 2024-01-01 12:00:35.170855 | CVE-2023-7190  | cvss:5.5 (MEDIUM)   | "(PHP, SQL injection, Critical)"                              | https://www.cve.org/CVERecord?id=CVE-2023-7190  |
+| 2024-01-01 12:00:36.213269 | CVE-2023-7189  | cvss:5.5 (MEDIUM)   | "(PHP, SQL injection, Critical)"                              | https://www.cve.org/CVERecord?id=CVE-2023-7189  |
+| 2024-01-01 12:00:37.250085 | CVE-2023-7188  | cvss:5 (MEDIUM)     | "(PHP, SQL injection, Critical)"                              | https://www.cve.org/CVERecord?id=CVE-2023-7188  |
+| 2024-01-01 12:00:38.227131 | CVE-2023-7186  | cvss:5.5 (MEDIUM)   | "(PHP, SQL injection, Critical)"                              | https://www.cve.org/CVERecord?id=CVE-2023-7186  |
+| 2024-01-01 12:00:39.287764 | CVE-2023-7185  | cvss:5.5 (MEDIUM)   | "(PHP, SQL injection, Critical)"                              | https://www.cve.org/CVERecord?id=CVE-2023-7185  |
+| 2024-01-01 12:00:40.222317 | CVE-2023-7184  | cvss:5.5 (MEDIUM)   | "(PHP, SQL injection, Critical)"                              | https://www.cve.org/CVERecord?id=CVE-2023-7184  |
+| 2024-01-01 12:00:41.164387 | CVE-2023-7183  | cvss:5.5 (MEDIUM)   | "(PHP, SQL injection, Critical)"                              | https://www.cve.org/CVERecord?id=CVE-2023-7183  |
+| 2024-01-01 12:00:42.086421 | CVE-2023-52180 | cvss:7.6 (HIGH)     | "(SQL injection, Plugin, Improper Neutralization)"            | https://www.cve.org/CVERecord?id=CVE-2023-52180 |
+| 2024-01-01 12:00:43.050590 | CVE-2023-52182 | cvss:9.9 (CRITICAL) | (WordPress)                                                   | https://www.cve.org/CVERecord?id=CVE-2023-52182 |
+| 2024-01-01 12:00:43.973483 | CVE-2023-7130  | cvss:6.3 (MEDIUM)   | "(PHP, SQL injection, Critical)"                              | https://www.cve.org/CVERecord?id=CVE-2023-7130  |
+| 2024-01-01 12:00:45.036648 | CVE-2023-52286 | cvss:0 (Not_rated)  | "(PHP, Remote Attack)"                                        | https://www.cve.org/CVERecord?id=CVE-2023-52286 |
+| 2024-01-01 12:00:45.980422 | CVE-2023-52277 | cvss:0 (Not_rated)  | "(Memory corruption, Denial of service)"                      | https://www.cve.org/CVERecord?id=CVE-2023-52277 |
