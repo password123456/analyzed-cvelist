@@ -1,0 +1,24 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                                              | link                                            |
+|----------------------------|----------------|---------------------|----------------------------------------------------------------------|-------------------------------------------------|
+| 2024-01-04 06:00:23.810391 | CVE-2024-0217  | cvss:0 (Not_rated)  | "(use-after-free, Memory access)"                                    | https://www.cve.org/CVERecord?id=CVE-2024-0217  |
+| 2024-01-04 06:00:24.869527 | CVE-2024-21909 | cvss:0 (Not_rated)  | "(Remote Attack, Denial of service)"                                 | https://www.cve.org/CVERecord?id=CVE-2024-21909 |
+| 2024-01-04 06:00:25.807359 | CVE-2024-21907 | cvss:0 (Not_rated)  | "(Remote Attack, Denial of service)"                                 | https://www.cve.org/CVERecord?id=CVE-2024-21907 |
+| 2024-01-04 06:00:26.768168 | CVE-2023-30617 | cvss:6.5 (MEDIUM)   | (Kubernetes)                                                         | https://www.cve.org/CVERecord?id=CVE-2023-30617 |
+| 2024-01-04 06:00:27.735504 | CVE-2023-37607 | cvss:0 (Not_rated)  | "(Remote Attack, Directory traversal, obtain sensitive information)" | https://www.cve.org/CVERecord?id=CVE-2023-37607 |
+| 2024-01-04 06:00:28.706341 | CVE-2023-39655 | cvss:0 (Not_rated)  | (npm)                                                                | https://www.cve.org/CVERecord?id=CVE-2023-39655 |
+| 2024-01-04 06:00:29.700433 | CVE-2023-37608 | cvss:0 (Not_rated)  | "(Remote Attack, obtain sensitive information)"                      | https://www.cve.org/CVERecord?id=CVE-2023-37608 |
+| 2024-01-04 06:00:30.741854 | CVE-2023-51785 | cvss:0 (Not_rated)  | (MySQL)                                                              | https://www.cve.org/CVERecord?id=CVE-2023-51785 |
+| 2024-01-04 06:00:31.667750 | CVE-2023-51784 | cvss:0 (Not_rated)  | "(Remote code execution, Code Injection)"                            | https://www.cve.org/CVERecord?id=CVE-2023-51784 |
+| 2024-01-04 06:00:32.552805 | CVE-2023-52314 | cvss:9.6 (CRITICAL) | "(Command injection, Arbitrary Command, Execute arbitrary command)"  | https://www.cve.org/CVERecord?id=CVE-2023-52314 |
+| 2024-01-04 06:00:33.487952 | CVE-2023-52311 | cvss:9.6 (CRITICAL) | "(Command injection, Arbitrary Command, Execute arbitrary command)"  | https://www.cve.org/CVERecord?id=CVE-2023-52311 |
+| 2024-01-04 06:00:34.428407 | CVE-2023-52310 | cvss:9.6 (CRITICAL) | "(Command injection, Arbitrary Command, Execute arbitrary command)"  | https://www.cve.org/CVERecord?id=CVE-2023-52310 |
+| 2024-01-04 06:00:35.452636 | CVE-2023-52309 | cvss:8.2 (HIGH)     | "(Information disclosure, Denial of service, Buffer Overflow)"       | https://www.cve.org/CVERecord?id=CVE-2023-52309 |
+| 2024-01-04 06:00:36.445016 | CVE-2023-52307 | cvss:8.2 (HIGH)     | "(Denial of service, Stack Overflow)"                                | https://www.cve.org/CVERecord?id=CVE-2023-52307 |
+| 2024-01-04 06:00:37.469470 | CVE-2023-52304 | cvss:8.2 (HIGH)     | "(Denial of service, Stack Overflow)"                                | https://www.cve.org/CVERecord?id=CVE-2023-52304 |
+| 2024-01-04 06:00:38.496172 | CVE-2023-47473 | cvss:0 (Not_rated)  | "(Directory traversal, obtain sensitive information)"                | https://www.cve.org/CVERecord?id=CVE-2023-47473 |
+| 2024-01-04 06:00:40.161956 | CVE-2023-42358 | cvss:0 (Not_rated)  | "(Remote Attack, Denial of service, crafted request)"                | https://www.cve.org/CVERecord?id=CVE-2023-42358 |
+| 2024-01-04 06:00:41.197250 | CVE-2023-50342 | cvss:7.1 (HIGH)     | "(Improper access control, IDOR)"                                    | https://www.cve.org/CVERecord?id=CVE-2023-50342 |
+| 2024-01-04 06:00:42.404736 | CVE-2023-50341 | cvss:7.6 (HIGH)     | "(Improper access control, Exposure of Sensitive)"                   | https://www.cve.org/CVERecord?id=CVE-2023-50341 |
+| 2024-01-04 06:00:43.354466 | CVE-2023-45723 | cvss:7.6 (HIGH)     | "(File Upload, Path Traversal)"                                      | https://www.cve.org/CVERecord?id=CVE-2023-45723 |
