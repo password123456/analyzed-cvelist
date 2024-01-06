@@ -1,0 +1,32 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                                                       | link                                            |
+|----------------------------|----------------|---------------------|-------------------------------------------------------------------------------|-------------------------------------------------|
+| 2024-01-05 12:00:24.141051 | CVE-2024-22051 | cvss:0 (Not_rated)  | "(Remote code execution, Remote Attack, Memory corruption, Integer Overflow)" | https://www.cve.org/CVERecord?id=CVE-2024-22051 |
+| 2024-01-05 12:00:25.115144 | CVE-2024-22050 | cvss:0 (Not_rated)  | "(Remote Attack, Path Traversal)"                                             | https://www.cve.org/CVERecord?id=CVE-2024-22050 |
+| 2024-01-05 12:00:26.053800 | CVE-2023-51154 | cvss:0 (Not_rated)  | "(PHP, Plugin)"                                                               | https://www.cve.org/CVERecord?id=CVE-2023-51154 |
+| 2024-01-05 12:00:27.086085 | CVE-2023-6270  | cvss:0 (Not_rated)  | "(use-after-free, Denial of service)"                                         | https://www.cve.org/CVERecord?id=CVE-2023-6270  |
+| 2024-01-05 12:00:28.077725 | CVE-2023-50867 | cvss:9.8 (CRITICAL) | "(PHP, SQL injection)"                                                        | https://www.cve.org/CVERecord?id=CVE-2023-50867 |
+| 2024-01-05 12:00:29.097557 | CVE-2023-50866 | cvss:9.8 (CRITICAL) | "(PHP, SQL injection)"                                                        | https://www.cve.org/CVERecord?id=CVE-2023-50866 |
+| 2024-01-05 12:00:30.095433 | CVE-2023-50865 | cvss:9.8 (CRITICAL) | "(PHP, SQL injection)"                                                        | https://www.cve.org/CVERecord?id=CVE-2023-50865 |
+| 2024-01-05 12:00:31.077319 | CVE-2023-50864 | cvss:9.8 (CRITICAL) | "(PHP, SQL injection)"                                                        | https://www.cve.org/CVERecord?id=CVE-2023-50864 |
+| 2024-01-05 12:00:32.059575 | CVE-2023-50863 | cvss:9.8 (CRITICAL) | "(PHP, SQL injection)"                                                        | https://www.cve.org/CVERecord?id=CVE-2023-50863 |
+| 2024-01-05 12:00:32.950537 | CVE-2023-50862 | cvss:9.8 (CRITICAL) | "(PHP, SQL injection)"                                                        | https://www.cve.org/CVERecord?id=CVE-2023-50862 |
+| 2024-01-05 12:00:33.854011 | CVE-2023-50760 | cvss:8.8 (HIGH)     | "(PHP, Remote code execution, File Upload)"                                   | https://www.cve.org/CVERecord?id=CVE-2023-50760 |
+| 2024-01-05 12:00:34.781518 | CVE-2023-50753 | cvss:9.8 (CRITICAL) | "(PHP, SQL injection)"                                                        | https://www.cve.org/CVERecord?id=CVE-2023-50753 |
+| 2024-01-05 12:00:35.760920 | CVE-2023-50752 | cvss:9.8 (CRITICAL) | "(PHP, SQL injection)"                                                        | https://www.cve.org/CVERecord?id=CVE-2023-50752 |
+| 2024-01-05 12:00:36.704733 | CVE-2023-50743 | cvss:9.8 (CRITICAL) | "(PHP, SQL injection)"                                                        | https://www.cve.org/CVERecord?id=CVE-2023-50743 |
+| 2024-01-05 12:00:37.766788 | CVE-2023-49666 | cvss:9.8 (CRITICAL) | "(PHP, SQL injection)"                                                        | https://www.cve.org/CVERecord?id=CVE-2023-49666 |
+| 2024-01-05 12:00:38.775913 | CVE-2023-49665 | cvss:9.8 (CRITICAL) | "(PHP, SQL injection)"                                                        | https://www.cve.org/CVERecord?id=CVE-2023-49665 |
+| 2024-01-05 12:00:39.783982 | CVE-2023-49658 | cvss:9.8 (CRITICAL) | "(PHP, SQL injection)"                                                        | https://www.cve.org/CVERecord?id=CVE-2023-49658 |
+| 2024-01-05 12:00:40.758150 | CVE-2023-49639 | cvss:9.8 (CRITICAL) | "(PHP, SQL injection)"                                                        | https://www.cve.org/CVERecord?id=CVE-2023-49639 |
+| 2024-01-05 12:00:41.655633 | CVE-2023-49633 | cvss:9.8 (CRITICAL) | "(PHP, SQL injection)"                                                        | https://www.cve.org/CVERecord?id=CVE-2023-49633 |
+| 2024-01-05 12:00:42.677811 | CVE-2023-49625 | cvss:9.8 (CRITICAL) | "(PHP, SQL injection)"                                                        | https://www.cve.org/CVERecord?id=CVE-2023-49625 |
+| 2024-01-05 12:00:43.682892 | CVE-2023-49624 | cvss:9.8 (CRITICAL) | "(PHP, SQL injection)"                                                        | https://www.cve.org/CVERecord?id=CVE-2023-49624 |
+| 2024-01-05 12:00:44.649670 | CVE-2023-49622 | cvss:9.8 (CRITICAL) | "(PHP, SQL injection)"                                                        | https://www.cve.org/CVERecord?id=CVE-2023-49622 |
+| 2024-01-05 12:00:45.578743 | CVE-2023-6992  | cvss:4 (MEDIUM)     | "(Input validation, Memory corruption, Denial of service, Buffer Overflow)"   | https://www.cve.org/CVERecord?id=CVE-2023-6992  |
+| 2024-01-05 12:00:46.564965 | CVE-2023-50082 | cvss:0 (Not_rated)  | "(Remote Attack, Incorrect access control)"                                   | https://www.cve.org/CVERecord?id=CVE-2023-50082 |
+| 2024-01-05 12:00:47.864735 | CVE-2024-0225  | cvss:0 (Not_rated)  | "(Google Chrome, Use after free, Remote Attack, Heap corruption)"             | https://www.cve.org/CVERecord?id=CVE-2024-0225  |
+| 2024-01-05 12:00:49.051439 | CVE-2024-0224  | cvss:0 (Not_rated)  | "(Google Chrome, Use after free, Remote Attack, Heap corruption)"             | https://www.cve.org/CVERecord?id=CVE-2024-0224  |
+| 2024-01-05 12:00:50.022151 | CVE-2024-0223  | cvss:0 (Not_rated)  | "(Google Chrome, Remote Attack, Buffer Overflow, Heap corruption)"            | https://www.cve.org/CVERecord?id=CVE-2024-0223  |
+| 2024-01-05 12:00:51.050637 | CVE-2024-0222  | cvss:0 (Not_rated)  | "(Google Chrome, Use after free, Remote Attack, Heap corruption)"             | https://www.cve.org/CVERecord?id=CVE-2024-0222  |
