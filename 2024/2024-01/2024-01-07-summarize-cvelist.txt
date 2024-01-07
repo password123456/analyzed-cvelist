@@ -1,0 +1,8 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                        | link                                            |
+|----------------------------|----------------|--------------------|----------------------------------------------------------------|-------------------------------------------------|
+| 2024-01-07 08:00:24.361741 | CVE-2023-46953 | cvss:0 (Not_rated) | "(Remote Attack, SQL injection, Execute arbitrary code)"       | https://www.cve.org/CVERecord?id=CVE-2023-46953 |
+| 2024-01-07 08:00:25.381228 | CVE-2023-39853 | cvss:0 (Not_rated) | "(Remote Attack, SQL injection, obtain sensitive information)" | https://www.cve.org/CVERecord?id=CVE-2023-39853 |
+| 2024-01-07 08:00:26.337086 | CVE-2023-50612 | cvss:0 (Not_rated) | "(Insecure permission, obtain sensitive information)"          | https://www.cve.org/CVERecord?id=CVE-2023-50612 |
+| 2024-01-07 08:00:27.366477 | CVE-2024-21641 | cvss:7.5 (HIGH)    | (Flarum)                                                       | https://www.cve.org/CVERecord?id=CVE-2024-21641 |
