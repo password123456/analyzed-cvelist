@@ -1,0 +1,14 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                            | link                                            |
+|----------------------------|----------------|--------------------|----------------------------------------------------|-------------------------------------------------|
+| 2024-01-06 07:00:24.444720 | CVE-2024-0247  | cvss:7.3 (HIGH)    | "(SQL injection, Critical)"                        | https://www.cve.org/CVERecord?id=CVE-2024-0247  |
+| 2024-01-06 07:00:25.345741 | CVE-2023-47560 | cvss:7.4 (HIGH)    | "(Command injection, Execute command)"             | https://www.cve.org/CVERecord?id=CVE-2023-47560 |
+| 2024-01-06 07:00:26.353534 | CVE-2023-46836 | cvss:0 (Not_rated) | "(Stack Overflow, Type confusion, Race Condition)" | https://www.cve.org/CVERecord?id=CVE-2023-46836 |
+| 2024-01-06 07:00:27.361893 | CVE-2023-41289 | cvss:6.3 (MEDIUM)  | "(Command injection, Execute command)"             | https://www.cve.org/CVERecord?id=CVE-2023-41289 |
+| 2024-01-06 07:00:28.313335 | CVE-2023-41288 | cvss:8.8 (HIGH)    | "(Command injection, Execute command)"             | https://www.cve.org/CVERecord?id=CVE-2023-41288 |
+| 2024-01-06 07:00:29.299281 | CVE-2023-39294 | cvss:6.6 (MEDIUM)  | "(Command injection, Execute command)"             | https://www.cve.org/CVERecord?id=CVE-2023-39294 |
+| 2024-01-06 07:00:30.304037 | CVE-2023-34325 | cvss:0 (Not_rated) | "(Memory corruption, Buffer Overflow)"             | https://www.cve.org/CVERecord?id=CVE-2023-34325 |
+| 2024-01-06 07:00:31.242592 | CVE-2023-52151 | cvss:5.3 (MEDIUM)  | "(Plugin, Exposure of Sensitive)"                  | https://www.cve.org/CVERecord?id=CVE-2023-52151 |
+| 2024-01-06 07:00:32.161841 | CVE-2024-22087 | cvss:0 (Not_rated) | "(Remote code execution, Buffer Overflow)"         | https://www.cve.org/CVERecord?id=CVE-2024-22087 |
+| 2024-01-06 07:00:33.083859 | CVE-2024-22086 | cvss:0 (Not_rated) | "(Remote code execution, Buffer Overflow)"         | https://www.cve.org/CVERecord?id=CVE-2024-22086 |
