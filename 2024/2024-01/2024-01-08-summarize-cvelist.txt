@@ -1,0 +1,29 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id        | cvss_v3           | summary                          | link                                           |
+|----------------------------|---------------|-------------------|----------------------------------|------------------------------------------------|
+| 2024-01-08 14:00:23.013274 | CVE-2024-0290 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)" | https://www.cve.org/CVERecord?id=CVE-2024-0290 |
+| 2024-01-08 14:00:24.067843 | CVE-2024-0289 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)" | https://www.cve.org/CVERecord?id=CVE-2024-0289 |
+| 2024-01-08 14:00:24.996222 | CVE-2024-0288 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)" | https://www.cve.org/CVERecord?id=CVE-2024-0288 |
+| 2024-01-08 14:00:25.964451 | CVE-2024-0287 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)" | https://www.cve.org/CVERecord?id=CVE-2024-0287 |
+| 2024-01-08 14:00:26.946373 | CVE-2024-0286 | cvss:4.3 (MEDIUM) | (PHP)                            | https://www.cve.org/CVERecord?id=CVE-2024-0286 |
+| 2024-01-08 14:00:27.943394 | CVE-2024-0284 | cvss:3.5 (LOW)    | (PHP)                            | https://www.cve.org/CVERecord?id=CVE-2024-0284 |
+| 2024-01-08 14:00:28.872786 | CVE-2024-0283 | cvss:3.5 (LOW)    | (PHP)                            | https://www.cve.org/CVERecord?id=CVE-2024-0283 |
+| 2024-01-08 14:00:29.739182 | CVE-2024-0282 | cvss:3.5 (LOW)    | (PHP)                            | https://www.cve.org/CVERecord?id=CVE-2024-0282 |
+| 2024-01-08 14:00:30.683293 | CVE-2024-0281 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)" | https://www.cve.org/CVERecord?id=CVE-2024-0281 |
+| 2024-01-08 14:00:31.573046 | CVE-2024-0280 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)" | https://www.cve.org/CVERecord?id=CVE-2024-0280 |
+| 2024-01-08 14:00:32.469662 | CVE-2024-0279 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)" | https://www.cve.org/CVERecord?id=CVE-2024-0279 |
+| 2024-01-08 14:00:33.471240 | CVE-2024-0278 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)" | https://www.cve.org/CVERecord?id=CVE-2024-0278 |
+| 2024-01-08 14:00:34.478171 | CVE-2024-0277 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)" | https://www.cve.org/CVERecord?id=CVE-2024-0277 |
+| 2024-01-08 14:00:35.394120 | CVE-2024-0276 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)" | https://www.cve.org/CVERecord?id=CVE-2024-0276 |
+| 2024-01-08 14:00:36.395776 | CVE-2024-0275 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)" | https://www.cve.org/CVERecord?id=CVE-2024-0275 |
+| 2024-01-08 14:00:37.376035 | CVE-2024-0274 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)" | https://www.cve.org/CVERecord?id=CVE-2024-0274 |
+| 2024-01-08 14:00:38.363772 | CVE-2024-0273 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)" | https://www.cve.org/CVERecord?id=CVE-2024-0273 |
+| 2024-01-08 14:00:39.271412 | CVE-2024-0272 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)" | https://www.cve.org/CVERecord?id=CVE-2024-0272 |
+| 2024-01-08 14:00:40.360316 | CVE-2023-7210 | cvss:7.3 (HIGH)   | "(PHP, Critical)"                | https://www.cve.org/CVERecord?id=CVE-2023-7210 |
+| 2024-01-08 14:00:41.450973 | CVE-2024-0271 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)" | https://www.cve.org/CVERecord?id=CVE-2024-0271 |
+| 2024-01-08 14:00:42.457764 | CVE-2023-7209 | cvss:7.5 (HIGH)   | "(Denial of service, Critical)"  | https://www.cve.org/CVERecord?id=CVE-2023-7209 |
+| 2024-01-08 14:00:43.488872 | CVE-2024-0270 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)" | https://www.cve.org/CVERecord?id=CVE-2024-0270 |
+| 2024-01-08 14:00:44.467940 | CVE-2024-0268 | cvss:7.3 (HIGH)   | "(PHP, SQL injection, Critical)" | https://www.cve.org/CVERecord?id=CVE-2024-0268 |
+| 2024-01-08 14:00:45.454210 | CVE-2024-0267 | cvss:7.3 (HIGH)   | "(PHP, SQL injection, Critical)" | https://www.cve.org/CVERecord?id=CVE-2024-0267 |
+| 2024-01-08 14:00:46.363191 | CVE-2024-0262 | cvss:2.4 (LOW)    | (PHP)                            | https://www.cve.org/CVERecord?id=CVE-2024-0262 |
