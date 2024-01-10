@@ -1,0 +1,54 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                                                       | link                                            |
+|----------------------------|----------------|---------------------|-------------------------------------------------------------------------------|-------------------------------------------------|
+| 2024-01-10 23:00:25.158365 | CVE-2024-0364  | cvss:5.5 (MEDIUM)   | "(PHP, SQL injection, Critical)"                                              | https://www.cve.org/CVERecord?id=CVE-2024-0364  |
+| 2024-01-10 23:00:26.123104 | CVE-2024-0363  | cvss:5.5 (MEDIUM)   | "(PHP, SQL injection, Critical)"                                              | https://www.cve.org/CVERecord?id=CVE-2024-0363  |
+| 2024-01-10 23:00:27.103125 | CVE-2024-0362  | cvss:5.5 (MEDIUM)   | "(PHP, SQL injection, Critical)"                                              | https://www.cve.org/CVERecord?id=CVE-2024-0362  |
+| 2024-01-10 23:00:28.155516 | CVE-2024-0361  | cvss:5.5 (MEDIUM)   | "(PHP, SQL injection, Critical)"                                              | https://www.cve.org/CVERecord?id=CVE-2024-0361  |
+| 2024-01-10 23:00:30.047655 | CVE-2024-0360  | cvss:5.5 (MEDIUM)   | "(PHP, SQL injection, Critical)"                                              | https://www.cve.org/CVERecord?id=CVE-2024-0360  |
+| 2024-01-10 23:00:31.214019 | CVE-2024-0359  | cvss:7.3 (HIGH)     | "(PHP, SQL injection, Critical)"                                              | https://www.cve.org/CVERecord?id=CVE-2024-0359  |
+| 2024-01-10 23:00:32.345380 | CVE-2024-0358  | cvss:5.3 (MEDIUM)   | "(PHP, Improper access control, Critical)"                                    | https://www.cve.org/CVERecord?id=CVE-2024-0358  |
+| 2024-01-10 23:00:33.398178 | CVE-2024-0357  | cvss:5.5 (MEDIUM)   | "(SQL injection, Critical)"                                                   | https://www.cve.org/CVERecord?id=CVE-2024-0357  |
+| 2024-01-10 23:00:34.386815 | CVE-2024-0355  | cvss:5.5 (MEDIUM)   | "(PHP, SQL injection, Critical)"                                              | https://www.cve.org/CVERecord?id=CVE-2024-0355  |
+| 2024-01-10 23:00:35.544941 | CVE-2024-0354  | cvss:5.3 (MEDIUM)   | "(PHP, Path Traversal, Critical)"                                             | https://www.cve.org/CVERecord?id=CVE-2024-0354  |
+| 2024-01-10 23:00:36.582735 | CVE-2024-0352  | cvss:7.3 (HIGH)     | "(PHP, Unrestricted Upload, Critical)"                                        | https://www.cve.org/CVERecord?id=CVE-2024-0352  |
+| 2024-01-10 23:00:37.733138 | CVE-2023-47996 | cvss:0 (Not_rated)  | "(Denial of service, Integer Overflow)"                                       | https://www.cve.org/CVERecord?id=CVE-2023-47996 |
+| 2024-01-10 23:00:38.782107 | CVE-2023-47995 | cvss:0 (Not_rated)  | "(Denial of service, Buffer Overflow)"                                        | https://www.cve.org/CVERecord?id=CVE-2023-47995 |
+| 2024-01-10 23:00:39.769669 | CVE-2023-47994 | cvss:0 (Not_rated)  | "(Plugin, Denial of service, Integer Overflow, obtain sensitive information)" | https://www.cve.org/CVERecord?id=CVE-2023-47994 |
+| 2024-01-10 23:00:40.785491 | CVE-2023-47992 | cvss:0 (Not_rated)  | "(Integer Overflow, obtain sensitive information)"                            | https://www.cve.org/CVERecord?id=CVE-2023-47992 |
+| 2024-01-10 23:00:42.235960 | CVE-2024-0346  | cvss:3.5 (LOW)      | (PHP)                                                                         | https://www.cve.org/CVERecord?id=CVE-2024-0346  |
+| 2024-01-10 23:00:43.883550 | CVE-2023-6476  | cvss:0 (Not_rated)  | "(Kubernetes, Denial of service)"                                             | https://www.cve.org/CVERecord?id=CVE-2023-6476  |
+| 2024-01-10 23:00:44.853411 | CVE-2024-0345  | cvss:4.3 (MEDIUM)   | (PHP)                                                                         | https://www.cve.org/CVERecord?id=CVE-2024-0345  |
+| 2024-01-10 23:00:45.819750 | CVE-2024-0344  | cvss:5.5 (MEDIUM)   | "(PHP, SQL injection, Critical)"                                              | https://www.cve.org/CVERecord?id=CVE-2024-0344  |
+| 2024-01-10 23:00:46.864271 | CVE-2024-0342  | cvss:6.3 (MEDIUM)   | "(sqlite, PHP, SQL injection, Critical)"                                      | https://www.cve.org/CVERecord?id=CVE-2024-0342  |
+| 2024-01-10 23:00:47.875275 | CVE-2024-0341  | cvss:3.5 (LOW)      | "(PHP, Path Traversal)"                                                       | https://www.cve.org/CVERecord?id=CVE-2024-0341  |
+| 2024-01-10 23:00:48.859457 | CVE-2024-21309 | cvss:7.8 (HIGH)     | "(Windows Kernel, Elevation of privilege)"                                    | https://www.cve.org/CVERecord?id=CVE-2024-21309 |
+| 2024-01-10 23:00:49.819125 | CVE-2024-20700 | cvss:7.5 (HIGH)     | "(Windows Hyper-V, Remote code execution)"                                    | https://www.cve.org/CVERecord?id=CVE-2024-20700 |
+| 2024-01-10 23:00:50.779316 | CVE-2024-20699 | cvss:5.5 (MEDIUM)   | "(Windows Hyper-V, Denial of service)"                                        | https://www.cve.org/CVERecord?id=CVE-2024-20699 |
+| 2024-01-10 23:00:52.670065 | CVE-2024-20698 | cvss:7.8 (HIGH)     | "(Windows Kernel, Elevation of privilege)"                                    | https://www.cve.org/CVERecord?id=CVE-2024-20698 |
+| 2024-01-10 23:00:53.694302 | CVE-2024-20676 | cvss:8 (HIGH)       | "(Azure, Remote code execution)"                                              | https://www.cve.org/CVERecord?id=CVE-2024-20676 |
+| 2024-01-10 23:00:56.275987 | CVE-2024-20674 | cvss:9 (CRITICAL)   | "(Kerberos, Security Feature Bypass)"                                         | https://www.cve.org/CVERecord?id=CVE-2024-20674 |
+| 2024-01-10 23:00:57.199445 | CVE-2024-20672 | cvss:7.5 (HIGH)     | "(Visual Studio, Denial of service)"                                          | https://www.cve.org/CVERecord?id=CVE-2024-20672 |
+| 2024-01-10 23:00:58.165802 | CVE-2024-20656 | cvss:7.8 (HIGH)     | "(Visual Studio, Elevation of privilege)"                                     | https://www.cve.org/CVERecord?id=CVE-2024-20656 |
+| 2024-01-10 23:00:59.089375 | CVE-2024-20654 | cvss:8 (HIGH)       | "(ODBC Driver, Remote code execution)"                                        | https://www.cve.org/CVERecord?id=CVE-2024-20654 |
+| 2024-01-10 23:01:00.087722 | CVE-2024-0057  | cvss:9.1 (CRITICAL) | "(Visual Studio, Security Feature Bypass)"                                    | https://www.cve.org/CVERecord?id=CVE-2024-0057  |
+| 2024-01-10 23:01:01.123977 | CVE-2024-22165 | cvss:6.5 (MEDIUM)   | "(Splunk, Denial of service)"                                                 | https://www.cve.org/CVERecord?id=CVE-2024-22165 |
+| 2024-01-10 23:01:02.120254 | CVE-2024-22164 | cvss:4.3 (MEDIUM)   | "(Splunk, Denial of service)"                                                 | https://www.cve.org/CVERecord?id=CVE-2024-22164 |
+| 2024-01-10 23:01:03.125462 | CVE-2023-6129  | cvss:0 (Not_rated)  | "(OpenSSL, Denial of service)"                                                | https://www.cve.org/CVERecord?id=CVE-2023-6129  |
+| 2024-01-10 23:01:04.126476 | CVE-2024-0213  | cvss:8.2 (HIGH)     | "(Memory corruption, Denial of service, Buffer Overflow)"                     | https://www.cve.org/CVERecord?id=CVE-2024-0213  |
+| 2024-01-10 23:01:05.115097 | CVE-2023-49132 | cvss:7.8 (HIGH)     | (Solid Edge)                                                                  | https://www.cve.org/CVERecord?id=CVE-2023-49132 |
+| 2024-01-10 23:01:06.110002 | CVE-2023-49131 | cvss:7.8 (HIGH)     | (Solid Edge)                                                                  | https://www.cve.org/CVERecord?id=CVE-2023-49131 |
+| 2024-01-10 23:01:07.080186 | CVE-2023-49130 | cvss:7.8 (HIGH)     | (Solid Edge)                                                                  | https://www.cve.org/CVERecord?id=CVE-2023-49130 |
+| 2024-01-10 23:01:08.076895 | CVE-2023-49129 | cvss:7.8 (HIGH)     | "(Solid Edge, Stack Overflow)"                                                | https://www.cve.org/CVERecord?id=CVE-2023-49129 |
+| 2024-01-10 23:01:09.072713 | CVE-2023-49128 | cvss:7.8 (HIGH)     | "(Solid Edge, Out of Bounds)"                                                 | https://www.cve.org/CVERecord?id=CVE-2023-49128 |
+| 2024-01-10 23:01:10.067607 | CVE-2023-49127 | cvss:7.8 (HIGH)     | "(Solid Edge, Out of Bounds)"                                                 | https://www.cve.org/CVERecord?id=CVE-2023-49127 |
+| 2024-01-10 23:01:10.984587 | CVE-2023-49126 | cvss:7.8 (HIGH)     | "(Solid Edge, Out of Bounds)"                                                 | https://www.cve.org/CVERecord?id=CVE-2023-49126 |
+| 2024-01-10 23:01:13.118063 | CVE-2023-49124 | cvss:7.8 (HIGH)     | "(Solid Edge, Out of Bounds)"                                                 | https://www.cve.org/CVERecord?id=CVE-2023-49124 |
+| 2024-01-10 23:01:14.109382 | CVE-2023-49123 | cvss:7.8 (HIGH)     | "(Solid Edge, Buffer Overflow)"                                               | https://www.cve.org/CVERecord?id=CVE-2023-49123 |
+| 2024-01-10 23:01:15.072214 | CVE-2023-49122 | cvss:7.8 (HIGH)     | "(Solid Edge, Buffer Overflow)"                                               | https://www.cve.org/CVERecord?id=CVE-2023-49122 |
+| 2024-01-10 23:01:16.091262 | CVE-2023-49121 | cvss:7.8 (HIGH)     | "(Solid Edge, Buffer Overflow)"                                               | https://www.cve.org/CVERecord?id=CVE-2023-49121 |
+| 2024-01-10 23:01:17.164801 | CVE-2023-6149  | cvss:5.7 (MEDIUM)   | "(Jenkins, XXE, Plugin)"                                                      | https://www.cve.org/CVERecord?id=CVE-2023-6149  |
+| 2024-01-10 23:01:18.183216 | CVE-2023-49236 | cvss:0 (Not_rated)  | "(Command execution, Arbitrary Command, Buffer Overflow)"                     | https://www.cve.org/CVERecord?id=CVE-2023-49236 |
+| 2024-01-10 23:01:19.190034 | CVE-2023-6147  | cvss:5.7 (MEDIUM)   | "(Jenkins, XXE, Plugin)"                                                      | https://www.cve.org/CVERecord?id=CVE-2023-6147  |
+| 2024-01-10 23:01:20.194911 | CVE-2023-50931 | cvss:8.3 (HIGH)     | (Bitbucket)                                                                   | https://www.cve.org/CVERecord?id=CVE-2023-50931 |
