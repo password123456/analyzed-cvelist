@@ -1,0 +1,19 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id        | cvss_v3           | summary                                        | link                                           |
+|----------------------------|---------------|-------------------|------------------------------------------------|------------------------------------------------|
+| 2024-01-15 04:00:22.953731 | CVE-2024-0510 | cvss:7.3 (HIGH)   | "(PHP, Critical, Server-side Request Forgery)" | https://www.cve.org/CVERecord?id=CVE-2024-0510 |
+| 2024-01-15 04:00:23.895313 | CVE-2024-0505 | cvss:5.5 (MEDIUM) | "(Unrestricted Upload, Critical)"              | https://www.cve.org/CVERecord?id=CVE-2024-0505 |
+| 2024-01-15 04:00:24.907567 | CVE-2024-0504 | cvss:3.5 (LOW)    | (PHP)                                          | https://www.cve.org/CVERecord?id=CVE-2024-0504 |
+| 2024-01-15 04:00:26.059910 | CVE-2024-0503 | cvss:3.5 (LOW)    | (PHP)                                          | https://www.cve.org/CVERecord?id=CVE-2024-0503 |
+| 2024-01-15 04:00:27.087620 | CVE-2024-0498 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)"               | https://www.cve.org/CVERecord?id=CVE-2024-0498 |
+| 2024-01-15 04:00:28.072384 | CVE-2024-0497 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)"               | https://www.cve.org/CVERecord?id=CVE-2024-0497 |
+| 2024-01-15 04:00:29.015177 | CVE-2024-0496 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)"               | https://www.cve.org/CVERecord?id=CVE-2024-0496 |
+| 2024-01-15 04:00:29.970485 | CVE-2024-0495 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)"               | https://www.cve.org/CVERecord?id=CVE-2024-0495 |
+| 2024-01-15 04:00:30.934059 | CVE-2024-0494 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)"               | https://www.cve.org/CVERecord?id=CVE-2024-0494 |
+| 2024-01-15 04:00:31.932766 | CVE-2024-0493 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)"               | https://www.cve.org/CVERecord?id=CVE-2024-0493 |
+| 2024-01-15 04:00:32.895086 | CVE-2024-0492 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)"               | https://www.cve.org/CVERecord?id=CVE-2024-0492 |
+| 2024-01-15 04:00:33.868003 | CVE-2024-0489 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)"               | https://www.cve.org/CVERecord?id=CVE-2024-0489 |
+| 2024-01-15 04:00:34.792782 | CVE-2024-0488 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)"               | https://www.cve.org/CVERecord?id=CVE-2024-0488 |
+| 2024-01-15 04:00:35.784991 | CVE-2024-0487 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)"               | https://www.cve.org/CVERecord?id=CVE-2024-0487 |
+| 2024-01-15 04:00:36.726824 | CVE-2024-0486 | cvss:6.3 (MEDIUM) | "(PHP, SQL injection, Critical)"               | https://www.cve.org/CVERecord?id=CVE-2024-0486 |
