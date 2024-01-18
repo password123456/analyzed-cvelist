@@ -1,0 +1,34 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                                         | link                                            |
+|----------------------------|----------------|--------------------|---------------------------------------------------------------------------------|-------------------------------------------------|
+| 2024-01-17 13:00:22.350429 | CVE-2023-51807 | cvss:0 (Not_rated) | "(Remote Attack, obtain sensitive information)"                                 | https://www.cve.org/CVERecord?id=CVE-2023-51807 |
+| 2024-01-17 13:00:23.355948 | CVE-2024-20985 | cvss:6.5 (MEDIUM)  | "(MySQL, SQL Server, SQL Server)"                                               | https://www.cve.org/CVERecord?id=CVE-2024-20985 |
+| 2024-01-17 13:00:24.264987 | CVE-2024-20983 | cvss:4.9 (MEDIUM)  | "(MySQL, SQL Server, SQL Server)"                                               | https://www.cve.org/CVERecord?id=CVE-2024-20983 |
+| 2024-01-17 13:00:25.194624 | CVE-2024-20981 | cvss:4.9 (MEDIUM)  | "(MySQL, SQL Server, SQL Server)"                                               | https://www.cve.org/CVERecord?id=CVE-2024-20981 |
+| 2024-01-17 13:00:26.182231 | CVE-2024-20977 | cvss:6.5 (MEDIUM)  | "(MySQL, SQL Server, SQL Server)"                                               | https://www.cve.org/CVERecord?id=CVE-2024-20977 |
+| 2024-01-17 13:00:27.075552 | CVE-2024-20975 | cvss:6.5 (MEDIUM)  | "(MySQL, SQL Server, SQL Server)"                                               | https://www.cve.org/CVERecord?id=CVE-2024-20975 |
+| 2024-01-17 13:00:28.062276 | CVE-2024-20973 | cvss:6.5 (MEDIUM)  | "(MySQL, SQL Server, SQL Server)"                                               | https://www.cve.org/CVERecord?id=CVE-2024-20973 |
+| 2024-01-17 13:00:29.047914 | CVE-2024-20971 | cvss:4.9 (MEDIUM)  | "(MySQL, SQL Server, SQL Server)"                                               | https://www.cve.org/CVERecord?id=CVE-2024-20971 |
+| 2024-01-17 13:00:30.050845 | CVE-2024-20969 | cvss:5.5 (MEDIUM)  | "(MySQL, SQL Server, SQL Server)"                                               | https://www.cve.org/CVERecord?id=CVE-2024-20969 |
+| 2024-01-17 13:00:30.990129 | CVE-2024-20967 | cvss:5.5 (MEDIUM)  | "(MySQL, SQL Server, SQL Server)"                                               | https://www.cve.org/CVERecord?id=CVE-2024-20967 |
+| 2024-01-17 13:00:31.956786 | CVE-2024-20965 | cvss:4.9 (MEDIUM)  | "(MySQL, SQL Server, SQL Server)"                                               | https://www.cve.org/CVERecord?id=CVE-2024-20965 |
+| 2024-01-17 13:00:32.959636 | CVE-2024-20963 | cvss:6.5 (MEDIUM)  | "(MySQL, SQL Server, SQL Server)"                                               | https://www.cve.org/CVERecord?id=CVE-2024-20963 |
+| 2024-01-17 13:00:33.972159 | CVE-2024-20961 | cvss:6.5 (MEDIUM)  | "(MySQL, SQL Server, SQL Server)"                                               | https://www.cve.org/CVERecord?id=CVE-2024-20961 |
+| 2024-01-17 13:00:34.992498 | CVE-2024-20916 | cvss:8.3 (HIGH)    | "(Denial of service, Critical)"                                                 | https://www.cve.org/CVERecord?id=CVE-2024-20916 |
+| 2024-01-17 13:00:35.988127 | CVE-2024-0603  | cvss:7.3 (HIGH)    | "(PHP, Critical)"                                                               | https://www.cve.org/CVERecord?id=CVE-2024-0603  |
+| 2024-01-17 13:00:36.983922 | CVE-2024-0601  | cvss:6.3 (MEDIUM)  | "(Critical, Server-side Request Forgery)"                                       | https://www.cve.org/CVERecord?id=CVE-2024-0601  |
+| 2024-01-17 13:00:37.932883 | CVE-2024-0519  | cvss:0 (Not_rated) | "(Google Chrome, Remote Attack, Memory access, Out of Bounds, Heap corruption)" | https://www.cve.org/CVERecord?id=CVE-2024-0519  |
+| 2024-01-17 13:00:38.895293 | CVE-2024-0518  | cvss:0 (Not_rated) | "(Google Chrome, Remote Attack, Type confusion, Heap corruption)"               | https://www.cve.org/CVERecord?id=CVE-2024-0518  |
+| 2024-01-17 13:00:39.864921 | CVE-2024-0517  | cvss:0 (Not_rated) | "(Google Chrome, Remote Attack, Out of Bounds, Heap corruption)"                | https://www.cve.org/CVERecord?id=CVE-2024-0517  |
+| 2024-01-17 13:00:40.961804 | CVE-2023-5097  | cvss:7 (HIGH)      | "(Path Traversal, Input validation)"                                            | https://www.cve.org/CVERecord?id=CVE-2023-5097  |
+| 2024-01-17 13:00:42.067112 | CVE-2024-0507  | cvss:6.5 (MEDIUM)  | "(GitHub Enterprise Server, Command injection)"                                 | https://www.cve.org/CVERecord?id=CVE-2024-0507  |
+| 2024-01-17 13:00:43.145598 | CVE-2024-0200  | cvss:7.2 (HIGH)    | "(GitHub Enterprise Server, Remote code execution)"                             | https://www.cve.org/CVERecord?id=CVE-2024-0200  |
+| 2024-01-17 13:00:44.220161 | CVE-2023-51381 | cvss:3.7 (LOW)     | (GitHub Enterprise Server)                                                      | https://www.cve.org/CVERecord?id=CVE-2023-51381 |
+| 2024-01-17 13:00:45.248742 | CVE-2024-22627 | cvss:0 (Not_rated) | "(PHP, SQL injection)"                                                          | https://www.cve.org/CVERecord?id=CVE-2024-22627 |
+| 2024-01-17 13:00:46.275826 | CVE-2024-22626 | cvss:0 (Not_rated) | "(PHP, SQL injection)"                                                          | https://www.cve.org/CVERecord?id=CVE-2024-22626 |
+| 2024-01-17 13:00:47.396717 | CVE-2024-22625 | cvss:0 (Not_rated) | "(PHP, SQL injection)"                                                          | https://www.cve.org/CVERecord?id=CVE-2024-22625 |
+| 2024-01-17 13:00:48.449322 | CVE-2023-3771  | cvss:0 (Not_rated) | (WordPress)                                                                     | https://www.cve.org/CVERecord?id=CVE-2023-3771  |
+| 2024-01-17 13:00:49.559820 | CVE-2024-0232  | cvss:0 (Not_rated) | "(sqlite, use-after-free, Denial of service)"                                   | https://www.cve.org/CVERecord?id=CVE-2024-0232  |
+| 2024-01-17 13:00:50.542878 | CVE-2024-0553  | cvss:0 (Not_rated) | "(Remote Attack, Leakage of sensitive data)"                                    | https://www.cve.org/CVERecord?id=CVE-2024-0553  |
+| 2024-01-17 13:00:51.522279 | CVE-2023-52103 | cvss:0 (Not_rated) | "(Buffer Overflow, out-of-bounds)"                                              | https://www.cve.org/CVERecord?id=CVE-2023-52103 |
