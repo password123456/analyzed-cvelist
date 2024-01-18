@@ -1,0 +1,17 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                                                                     | link                                            |
+|----------------------------|----------------|--------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| 2024-01-18 09:00:22.642275 | CVE-2024-20287 | cvss:6.5 (MEDIUM)  | "(Command injection, Remote Attack, Arbitrary Command, Execute arbitrary command, Improper Validation)"     | https://www.cve.org/CVERecord?id=CVE-2024-20287 |
+| 2024-01-18 09:00:23.689779 | CVE-2024-20277 | cvss:6.8 (MEDIUM)  | "(Command injection, Remote Attack, Arbitrary Command, Execute arbitrary command, Insufficient Validation)" | https://www.cve.org/CVERecord?id=CVE-2024-20277 |
+| 2024-01-18 09:00:24.681905 | CVE-2024-20272 | cvss:7.3 (HIGH)    | "(Remote Attack, Arbitrary Command, Execute arbitrary command, Execute command, Improper Validation)"       | https://www.cve.org/CVERecord?id=CVE-2024-20272 |
+| 2024-01-18 09:00:25.646207 | CVE-2023-50950 | cvss:3.7 (LOW)     | (IBM QRadar)                                                                                                | https://www.cve.org/CVERecord?id=CVE-2023-50950 |
+| 2024-01-18 09:00:26.555401 | CVE-2023-20271 | cvss:6.5 (MEDIUM)  | "(Remote Attack, SQL injection, Improper Validation)"                                                       | https://www.cve.org/CVERecord?id=CVE-2023-20271 |
+| 2024-01-18 09:00:27.488418 | CVE-2023-20258 | cvss:6.5 (MEDIUM)  | "(Remote Attack, Arbitrary Command, Execute arbitrary command)"                                             | https://www.cve.org/CVERecord?id=CVE-2023-20258 |
+| 2024-01-18 09:00:28.469179 | CVE-2023-20257 | cvss:4.8 (MEDIUM)  | "(Remote Attack, Improper Validation)"                                                                      | https://www.cve.org/CVERecord?id=CVE-2023-20257 |
+| 2024-01-18 09:00:29.457351 | CVE-2024-0396  | cvss:7.1 (HIGH)    | "(Input validation, Denial of service)"                                                                     | https://www.cve.org/CVERecord?id=CVE-2024-0396  |
+| 2024-01-18 09:00:30.422059 | CVE-2024-0645  | cvss:7.3 (HIGH)    | "(Execute arbitrary code, Buffer Overflow)"                                                                 | https://www.cve.org/CVERecord?id=CVE-2024-0645  |
+| 2024-01-18 09:00:31.397308 | CVE-2024-0643  | cvss:10 (CRITICAL) | "(Remote Attack, Unrestricted Upload)"                                                                      | https://www.cve.org/CVERecord?id=CVE-2024-0643  |
+| 2024-01-18 09:00:32.485114 | CVE-2023-52285 | cvss:0 (Not_rated) | "(PHP, SQL injection)"                                                                                      | https://www.cve.org/CVERecord?id=CVE-2023-52285 |
+| 2024-01-18 09:00:33.442103 | CVE-2023-51743 | cvss:6.5 (MEDIUM)  | "(Remote Attack, Denial of service, Insufficient Validation)"                                               | https://www.cve.org/CVERecord?id=CVE-2023-51743 |
+| 2024-01-18 09:00:34.413500 | CVE-2023-51742 | cvss:6.5 (MEDIUM)  | "(Remote Attack, Denial of service, Insufficient Validation)"                                               | https://www.cve.org/CVERecord?id=CVE-2023-51742 |
