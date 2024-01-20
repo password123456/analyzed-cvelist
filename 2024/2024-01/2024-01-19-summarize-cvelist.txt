@@ -1,0 +1,36 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                                            | link                                            |
+|----------------------------|----------------|---------------------|--------------------------------------------------------------------|-------------------------------------------------|
+| 2024-01-19 08:00:23.859801 | CVE-2024-22400 | cvss:3.1 (LOW)      | (SAML)                                                             | https://www.cve.org/CVERecord?id=CVE-2024-22400 |
+| 2024-01-19 08:00:24.857698 | CVE-2024-0607  | cvss:0 (Not_rated)  | "(Denial of service, out-of-bounds)"                               | https://www.cve.org/CVERecord?id=CVE-2024-0607  |
+| 2024-01-19 08:00:25.749713 | CVE-2024-22317 | cvss:9.1 (CRITICAL) | "(Remote Attack, Denial of service, obtain sensitive information)" | https://www.cve.org/CVERecord?id=CVE-2024-22317 |
+| 2024-01-19 08:00:26.758506 | CVE-2023-5806  | cvss:9.8 (CRITICAL) | "(SQL injection, Improper Neutralization)"                         | https://www.cve.org/CVERecord?id=CVE-2023-5806  |
+| 2024-01-19 08:00:27.682123 | CVE-2024-0655  | cvss:5.5 (MEDIUM)   | "(SQL injection, Critical)"                                        | https://www.cve.org/CVERecord?id=CVE-2024-0655  |
+| 2024-01-19 08:00:28.623735 | CVE-2023-48359 | cvss:0 (Not_rated)  | "(Input validation, Denial of service, Out of Bounds)"             | https://www.cve.org/CVERecord?id=CVE-2023-48359 |
+| 2024-01-19 08:00:29.556965 | CVE-2023-48358 | cvss:0 (Not_rated)  | "(Denial of service, Out of Bounds)"                               | https://www.cve.org/CVERecord?id=CVE-2023-48358 |
+| 2024-01-19 08:00:30.459080 | CVE-2023-48357 | cvss:0 (Not_rated)  | "(Denial of service, Out of Bounds)"                               | https://www.cve.org/CVERecord?id=CVE-2023-48357 |
+| 2024-01-19 08:00:31.391820 | CVE-2023-48356 | cvss:0 (Not_rated)  | "(Denial of service, Out of Bounds)"                               | https://www.cve.org/CVERecord?id=CVE-2023-48356 |
+| 2024-01-19 08:00:32.453039 | CVE-2023-48355 | cvss:0 (Not_rated)  | "(Denial of service, Out of Bounds)"                               | https://www.cve.org/CVERecord?id=CVE-2023-48355 |
+| 2024-01-19 08:00:33.464983 | CVE-2023-48354 | cvss:0 (Not_rated)  | "(Input validation, Information disclosure)"                       | https://www.cve.org/CVERecord?id=CVE-2023-48354 |
+| 2024-01-19 08:00:34.477144 | CVE-2023-48353 | cvss:0 (Not_rated)  | "(Use after free, Denial of service)"                              | https://www.cve.org/CVERecord?id=CVE-2023-48353 |
+| 2024-01-19 08:00:35.514134 | CVE-2023-48352 | cvss:0 (Not_rated)  | "(Denial of service, Out of Bounds)"                               | https://www.cve.org/CVERecord?id=CVE-2023-48352 |
+| 2024-01-19 08:00:36.548405 | CVE-2023-48351 | cvss:0 (Not_rated)  | "(Denial of service, Out of Bounds)"                               | https://www.cve.org/CVERecord?id=CVE-2023-48351 |
+| 2024-01-19 08:00:37.543873 | CVE-2023-48350 | cvss:0 (Not_rated)  | "(Denial of service, Out of Bounds)"                               | https://www.cve.org/CVERecord?id=CVE-2023-48350 |
+| 2024-01-19 08:00:38.562578 | CVE-2023-48349 | cvss:0 (Not_rated)  | "(Denial of service, Out of Bounds)"                               | https://www.cve.org/CVERecord?id=CVE-2023-48349 |
+| 2024-01-19 08:00:39.575119 | CVE-2023-48348 | cvss:0 (Not_rated)  | "(Input validation, Denial of service, Out of Bounds)"             | https://www.cve.org/CVERecord?id=CVE-2023-48348 |
+| 2024-01-19 08:00:40.597430 | CVE-2023-48347 | cvss:0 (Not_rated)  | "(Input validation, Denial of service, Out of Bounds)"             | https://www.cve.org/CVERecord?id=CVE-2023-48347 |
+| 2024-01-19 08:00:41.576256 | CVE-2023-48346 | cvss:0 (Not_rated)  | "(Input validation, Denial of service)"                            | https://www.cve.org/CVERecord?id=CVE-2023-48346 |
+| 2024-01-19 08:00:42.556220 | CVE-2023-48345 | cvss:0 (Not_rated)  | "(Input validation, Denial of service, Out of Bounds)"             | https://www.cve.org/CVERecord?id=CVE-2023-48345 |
+| 2024-01-19 08:00:43.555010 | CVE-2023-48344 | cvss:0 (Not_rated)  | "(Input validation, Denial of service, Out of Bounds)"             | https://www.cve.org/CVERecord?id=CVE-2023-48344 |
+| 2024-01-19 08:00:44.528617 | CVE-2023-48343 | cvss:0 (Not_rated)  | "(Input validation, Denial of service, Out of Bounds)"             | https://www.cve.org/CVERecord?id=CVE-2023-48343 |
+| 2024-01-19 08:00:45.549841 | CVE-2023-48342 | cvss:0 (Not_rated)  | "(Denial of service, Out of Bounds)"                               | https://www.cve.org/CVERecord?id=CVE-2023-48342 |
+| 2024-01-19 08:00:46.505639 | CVE-2023-48341 | cvss:0 (Not_rated)  | "(Input validation, Denial of service, Out of Bounds)"             | https://www.cve.org/CVERecord?id=CVE-2023-48341 |
+| 2024-01-19 08:00:47.486825 | CVE-2023-48340 | cvss:0 (Not_rated)  | "(Input validation, Denial of service, Out of Bounds)"             | https://www.cve.org/CVERecord?id=CVE-2023-48340 |
+| 2024-01-19 08:00:48.453539 | CVE-2024-0652  | cvss:3.5 (LOW)      | (PHP)                                                              | https://www.cve.org/CVERecord?id=CVE-2024-0652  |
+| 2024-01-19 08:00:49.351296 | CVE-2024-0651  | cvss:6.3 (MEDIUM)   | "(PHP, SQL injection, Critical)"                                   | https://www.cve.org/CVERecord?id=CVE-2024-0651  |
+| 2024-01-19 08:00:50.288795 | CVE-2024-0650  | cvss:4.3 (MEDIUM)   | (PHP)                                                              | https://www.cve.org/CVERecord?id=CVE-2024-0650  |
+| 2024-01-19 08:00:51.265457 | CVE-2024-0649  | cvss:6.3 (MEDIUM)   | "(PHP, Critical, Server-side Request Forgery)"                     | https://www.cve.org/CVERecord?id=CVE-2024-0649  |
+| 2024-01-19 08:00:52.231309 | CVE-2024-0648  | cvss:7.3 (HIGH)     | "(PHP, Unrestricted Upload, Critical)"                             | https://www.cve.org/CVERecord?id=CVE-2024-0648  |
+| 2024-01-19 08:00:53.170441 | CVE-2024-22414 | cvss:6.5 (MEDIUM)   | (Flask)                                                            | https://www.cve.org/CVERecord?id=CVE-2024-22414 |
+| 2024-01-19 08:00:54.170758 | CVE-2023-6548  | cvss:5.5 (MEDIUM)   | "(Remote code execution, Code Injection)"                          | https://www.cve.org/CVERecord?id=CVE-2023-6548  |
