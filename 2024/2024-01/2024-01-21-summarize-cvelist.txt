@@ -1,0 +1,9 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                         | link                                            |
+|----------------------------|----------------|--------------------|-------------------------------------------------|-------------------------------------------------|
+| 2024-01-21 10:00:23.437638 | CVE-2024-0679  | cvss:6.5 (MEDIUM)  | "(WordPress, Plugin)"                           | https://www.cve.org/CVERecord?id=CVE-2024-0679  |
+| 2024-01-21 10:00:24.386563 | CVE-2023-51925 | cvss:0 (Not_rated) | "(File Upload, Execute arbitrary code)"         | https://www.cve.org/CVERecord?id=CVE-2023-51925 |
+| 2024-01-21 10:00:25.366132 | CVE-2023-51924 | cvss:0 (Not_rated) | "(File Upload, Execute arbitrary code)"         | https://www.cve.org/CVERecord?id=CVE-2023-51924 |
+| 2024-01-21 10:00:26.411946 | CVE-2023-51906 | cvss:0 (Not_rated) | "(Remote Attack, Execute arbitrary code)"       | https://www.cve.org/CVERecord?id=CVE-2023-51906 |
+| 2024-01-21 10:00:27.363235 | CVE-2023-47024 | cvss:0 (Not_rated) | "(Remote Attack, obtain sensitive information)" | https://www.cve.org/CVERecord?id=CVE-2023-47024 |
