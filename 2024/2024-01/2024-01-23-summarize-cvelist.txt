@@ -1,0 +1,20 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                                     | link                                            |
+|----------------------------|----------------|--------------------|-----------------------------------------------------------------------------|-------------------------------------------------|
+| 2024-01-23 04:00:23.042121 | CVE-2024-0782  | cvss:3.5 (LOW)     | (PHP)                                                                       | https://www.cve.org/CVERecord?id=CVE-2024-0782  |
+| 2024-01-23 04:00:23.965860 | CVE-2024-0781  | cvss:3.5 (LOW)     | (PHP)                                                                       | https://www.cve.org/CVERecord?id=CVE-2024-0781  |
+| 2024-01-23 04:00:24.855923 | CVE-2024-0778  | cvss:8 (HIGH)      | "(PHP, Command injection, Critical)"                                        | https://www.cve.org/CVERecord?id=CVE-2024-0778  |
+| 2024-01-23 04:00:25.859195 | CVE-2024-22233 | cvss:7.5 (HIGH)    | "(Spring Security, Spring Framework, spring-boot, Spring Boot, Spring MVC)" | https://www.cve.org/CVERecord?id=CVE-2024-22233 |
+| 2024-01-23 04:00:26.850886 | CVE-2023-52354 | cvss:0 (Not_rated) | (Squid)                                                                     | https://www.cve.org/CVERecord?id=CVE-2023-52354 |
+| 2024-01-23 04:00:27.927755 | CVE-2024-0773  | cvss:3.5 (LOW)     | (PHP)                                                                       | https://www.cve.org/CVERecord?id=CVE-2024-0773  |
+| 2024-01-23 10:00:22.963337 | CVE-2024-23340 | cvss:5.3 (MEDIUM)  | (Node.js)                                                                   | https://www.cve.org/CVERecord?id=CVE-2024-23340 |
+| 2024-01-23 10:00:24.021448 | CVE-2024-23678 | cvss:7.5 (HIGH)    | (Splunk)                                                                    | https://www.cve.org/CVERecord?id=CVE-2024-23678 |
+| 2024-01-23 10:00:25.046021 | CVE-2024-23677 | cvss:4.3 (MEDIUM)  | (Splunk)                                                                    | https://www.cve.org/CVERecord?id=CVE-2024-23677 |
+| 2024-01-23 10:00:26.135436 | CVE-2024-23676 | cvss:4.6 (MEDIUM)  | (Splunk)                                                                    | https://www.cve.org/CVERecord?id=CVE-2024-23676 |
+| 2024-01-23 10:00:27.128106 | CVE-2024-23675 | cvss:6.5 (MEDIUM)  | (Splunk)                                                                    | https://www.cve.org/CVERecord?id=CVE-2024-23675 |
+| 2024-01-23 10:00:28.100192 | CVE-2023-24135 | cvss:0 (Not_rated) | "(Command injection, Arbitrary Command, Execute arbitrary command)"         | https://www.cve.org/CVERecord?id=CVE-2023-24135 |
+| 2024-01-23 10:00:29.067236 | CVE-2024-0605  | cvss:0 (Not_rated) | "(Arbitrary code execution, Race Condition)"                                | https://www.cve.org/CVERecord?id=CVE-2024-0605  |
+| 2024-01-23 10:00:30.066489 | CVE-2023-48118 | cvss:0 (Not_rated) | "(Remote Attack, SQL injection, Execute arbitrary code, crafted request)"   | https://www.cve.org/CVERecord?id=CVE-2023-48118 |
+| 2024-01-23 10:00:31.098089 | CVE-2024-0784  | cvss:6.3 (MEDIUM)  | "(SQL injection, Critical)"                                                 | https://www.cve.org/CVERecord?id=CVE-2024-0784  |
+| 2024-01-23 10:00:32.046655 | CVE-2024-0783  | cvss:6.3 (MEDIUM)  | "(PHP, Unrestricted Upload, Critical)"                                      | https://www.cve.org/CVERecord?id=CVE-2024-0783  |
