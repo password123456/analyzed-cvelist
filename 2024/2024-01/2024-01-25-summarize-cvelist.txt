@@ -1,0 +1,53 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                              | link                                            |
+|----------------------------|----------------|--------------------|----------------------------------------------------------------------|-------------------------------------------------|
+| 2024-01-25 04:00:23.141958 | CVE-2023-51887 | cvss:0 (Not_rated) | "(Command injection, Remote Attack, Execute arbitrary code)"         | https://www.cve.org/CVERecord?id=CVE-2023-51887 |
+| 2024-01-25 04:00:24.171759 | CVE-2023-51886 | cvss:0 (Not_rated) | "(Remote Attack, Denial of service, Buffer Overflow)"                | https://www.cve.org/CVERecord?id=CVE-2023-51886 |
+| 2024-01-25 04:00:25.168657 | CVE-2023-51885 | cvss:0 (Not_rated) | "(Remote Attack, Execute arbitrary code, Buffer Overflow)"           | https://www.cve.org/CVERecord?id=CVE-2023-51885 |
+| 2024-01-25 04:00:26.180653 | CVE-2023-44281 | cvss:6.6 (MEDIUM)  | "(Elevation of privilege, Denial of service)"                        | https://www.cve.org/CVERecord?id=CVE-2023-44281 |
+| 2024-01-25 04:00:27.151894 | CVE-2023-51702 | cvss:0 (Not_rated) | (Kubernetes)                                                         | https://www.cve.org/CVERecord?id=CVE-2023-51702 |
+| 2024-01-25 04:00:28.060869 | CVE-2023-50944 | cvss:0 (Not_rated) | (Apache Airflow)                                                     | https://www.cve.org/CVERecord?id=CVE-2023-50944 |
+| 2024-01-25 04:00:29.134924 | CVE-2023-50943 | cvss:0 (Not_rated) | (Apache Airflow)                                                     | https://www.cve.org/CVERecord?id=CVE-2023-50943 |
+| 2024-01-25 04:00:30.232198 | CVE-2024-22372 | cvss:0 (Not_rated) | "(Command injection, crafted request)"                               | https://www.cve.org/CVERecord?id=CVE-2024-22372 |
+| 2024-01-25 04:00:31.187220 | CVE-2024-22380 | cvss:0 (Not_rated) | "(XXE, XML external entity)"                                         | https://www.cve.org/CVERecord?id=CVE-2024-22380 |
+| 2024-01-25 04:00:32.151779 | CVE-2024-21796 | cvss:0 (Not_rated) | "(XXE, XML external entity)"                                         | https://www.cve.org/CVERecord?id=CVE-2024-21796 |
+| 2024-01-25 04:00:33.159711 | CVE-2024-21765 | cvss:0 (Not_rated) | "(XXE, XML external entity)"                                         | https://www.cve.org/CVERecord?id=CVE-2024-21765 |
+| 2024-01-25 04:00:34.078147 | CVE-2024-23638 | cvss:6.5 (MEDIUM)  | "(Squid, Denial of service)"                                         | https://www.cve.org/CVERecord?id=CVE-2024-23638 |
+| 2024-01-25 04:00:34.955062 | CVE-2024-23633 | cvss:4.7 (MEDIUM)  | "(Django, Plugin)"                                                   | https://www.cve.org/CVERecord?id=CVE-2024-23633 |
+| 2024-01-25 04:00:35.851558 | CVE-2024-0814  | cvss:0 (Not_rated) | "(Google Chrome, Remote Attack)"                                     | https://www.cve.org/CVERecord?id=CVE-2024-0814  |
+| 2024-01-25 04:00:36.764108 | CVE-2024-0813  | cvss:0 (Not_rated) | "(Google Chrome, Use after free, Heap corruption)"                   | https://www.cve.org/CVERecord?id=CVE-2024-0813  |
+| 2024-01-25 04:00:37.744088 | CVE-2024-0812  | cvss:0 (Not_rated) | "(Google Chrome, Remote Attack, Inappropriate implementation)"       | https://www.cve.org/CVERecord?id=CVE-2024-0812  |
+| 2024-01-25 04:00:38.724560 | CVE-2024-0811  | cvss:0 (Not_rated) | "(Google Chrome, Inappropriate implementation)"                      | https://www.cve.org/CVERecord?id=CVE-2024-0811  |
+| 2024-01-25 04:00:39.651476 | CVE-2024-0810  | cvss:0 (Not_rated) | "(Google Chrome, Insufficient policy enforcement)"                   | https://www.cve.org/CVERecord?id=CVE-2024-0810  |
+| 2024-01-25 04:00:40.685354 | CVE-2024-0809  | cvss:0 (Not_rated) | "(Google Chrome, Remote Attack, Inappropriate implementation)"       | https://www.cve.org/CVERecord?id=CVE-2024-0809  |
+| 2024-01-25 04:00:41.649510 | CVE-2024-0808  | cvss:0 (Not_rated) | "(Google Chrome, Remote Attack, Integer Underflow, Heap corruption)" | https://www.cve.org/CVERecord?id=CVE-2024-0808  |
+| 2024-01-25 04:00:42.562050 | CVE-2024-0807  | cvss:0 (Not_rated) | "(Google Chrome, Use after free, Remote Attack, Heap corruption)"    | https://www.cve.org/CVERecord?id=CVE-2024-0807  |
+| 2024-01-25 04:00:43.555871 | CVE-2024-0806  | cvss:0 (Not_rated) | "(Google Chrome, Use after free, Remote Attack, Heap corruption)"    | https://www.cve.org/CVERecord?id=CVE-2024-0806  |
+| 2024-01-25 04:00:44.573926 | CVE-2024-0805  | cvss:0 (Not_rated) | "(Google Chrome, Remote Attack, Inappropriate implementation)"       | https://www.cve.org/CVERecord?id=CVE-2024-0805  |
+| 2024-01-25 04:00:45.591933 | CVE-2024-0804  | cvss:0 (Not_rated) | "(Google Chrome, Remote Attack, Insufficient policy enforcement)"    | https://www.cve.org/CVERecord?id=CVE-2024-0804  |
+| 2024-01-25 04:00:46.624408 | CVE-2023-51199 | cvss:0 (Not_rated) | "(Denial of service, Buffer Overflow)"                               | https://www.cve.org/CVERecord?id=CVE-2023-51199 |
+| 2024-01-25 04:00:47.547137 | CVE-2023-36177 | cvss:0 (Not_rated) | "(Remote Attack, Execute arbitrary code, crafted request)"           | https://www.cve.org/CVERecord?id=CVE-2023-36177 |
+| 2024-01-25 04:00:48.465486 | CVE-2023-31654 | cvss:0 (Not_rated) | (Redis)                                                              | https://www.cve.org/CVERecord?id=CVE-2023-31654 |
+| 2024-01-25 04:00:49.364144 | CVE-2023-52330 | cvss:0 (Not_rated) | "(Remote Attack, Execute arbitrary code)"                            | https://www.cve.org/CVERecord?id=CVE-2023-52330 |
+| 2024-01-25 04:00:50.351790 | CVE-2023-52325 | cvss:0 (Not_rated) | "(Remote Attack, Execute arbitrary code)"                            | https://www.cve.org/CVERecord?id=CVE-2023-52325 |
+| 2024-01-25 04:00:51.333020 | CVE-2023-52324 | cvss:0 (Not_rated) | "(Remote Attack, File Upload, Execute arbitrary code)"               | https://www.cve.org/CVERecord?id=CVE-2023-52324 |
+| 2024-01-25 04:00:52.380662 | CVE-2023-52094 | cvss:0 (Not_rated) | "(Privilege Escalation, Link Following)"                             | https://www.cve.org/CVERecord?id=CVE-2023-52094 |
+| 2024-01-25 04:00:53.380265 | CVE-2023-51210 | cvss:0 (Not_rated) | "(Remote Attack, SQL injection, Execute arbitrary code)"             | https://www.cve.org/CVERecord?id=CVE-2023-51210 |
+| 2024-01-25 04:00:54.342670 | CVE-2023-50275 | cvss:7.5 (HIGH)    | "(Denial of service, Authentication bypass)"                         | https://www.cve.org/CVERecord?id=CVE-2023-50275 |
+| 2024-01-25 04:00:55.292192 | CVE-2023-50274 | cvss:7.8 (HIGH)    | "(Command injection, Privilege Escalation)"                          | https://www.cve.org/CVERecord?id=CVE-2023-50274 |
+| 2024-01-25 04:00:56.394035 | CVE-2023-44401 | cvss:5.3 (MEDIUM)  | "(PHP, GraphQL, Plugin)"                                             | https://www.cve.org/CVERecord?id=CVE-2023-44401 |
+| 2024-01-25 04:00:57.464843 | CVE-2023-51043 | cvss:0 (Not_rated) | "(use-after-free, Race Condition)"                                   | https://www.cve.org/CVERecord?id=CVE-2023-51043 |
+| 2024-01-25 04:00:58.368706 | CVE-2024-23180 | cvss:0 (Not_rated) | "(Execute arbitrary code, Input validation)"                         | https://www.cve.org/CVERecord?id=CVE-2024-23180 |
+| 2024-01-25 04:00:59.462578 | CVE-2024-23222 | cvss:0 (Not_rated) | "(Arbitrary code execution, Type confusion)"                         | https://www.cve.org/CVERecord?id=CVE-2024-23222 |
+| 2024-01-25 04:01:00.471918 | CVE-2024-23214 | cvss:0 (Not_rated) | "(Arbitrary code execution, Memory corruption)"                      | https://www.cve.org/CVERecord?id=CVE-2024-23214 |
+| 2024-01-25 16:00:23.570299 | CVE-2024-23905 | cvss:0 (Not_rated) | "(Jenkins, Plugin)"                                                  | https://www.cve.org/CVERecord?id=CVE-2024-23905 |
+| 2024-01-25 16:00:24.538986 | CVE-2024-23904 | cvss:0 (Not_rated) | "(Jenkins, Plugin)"                                                  | https://www.cve.org/CVERecord?id=CVE-2024-23904 |
+| 2024-01-25 16:00:25.509460 | CVE-2024-23903 | cvss:0 (Not_rated) | "(Jenkins, Plugin)"                                                  | https://www.cve.org/CVERecord?id=CVE-2024-23903 |
+| 2024-01-25 16:00:26.540561 | CVE-2024-23901 | cvss:0 (Not_rated) | "(Jenkins, Plugin)"                                                  | https://www.cve.org/CVERecord?id=CVE-2024-23901 |
+| 2024-01-25 16:00:27.545060 | CVE-2024-23900 | cvss:0 (Not_rated) | "(Jenkins, Plugin)"                                                  | https://www.cve.org/CVERecord?id=CVE-2024-23900 |
+| 2024-01-25 16:00:28.499122 | CVE-2024-23899 | cvss:0 (Not_rated) | "(Jenkins, Plugin)"                                                  | https://www.cve.org/CVERecord?id=CVE-2024-23899 |
+| 2024-01-25 16:00:29.653899 | CVE-2024-23898 | cvss:0 (Not_rated) | "(Jenkins, Websocket)"                                               | https://www.cve.org/CVERecord?id=CVE-2024-23898 |
+| 2024-01-25 16:00:30.818528 | CVE-2024-23897 | cvss:0 (Not_rated) | (Jenkins)                                                            | https://www.cve.org/CVERecord?id=CVE-2024-23897 |
+| 2024-01-25 16:00:31.804999 | CVE-2023-51889 | cvss:0 (Not_rated) | "(Remote Attack, Execute arbitrary code, Stack Overflow)"            | https://www.cve.org/CVERecord?id=CVE-2023-51889 |
+| 2024-01-25 16:00:32.793262 | CVE-2023-51888 | cvss:0 (Not_rated) | "(Remote Attack, Denial of service, Buffer Overflow)"                | https://www.cve.org/CVERecord?id=CVE-2023-51888 |
