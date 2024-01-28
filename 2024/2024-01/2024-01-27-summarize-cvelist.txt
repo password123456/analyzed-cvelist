@@ -1,0 +1,37 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                                                 | link                                            |
+|----------------------------|----------------|---------------------|-------------------------------------------------------------------------|-------------------------------------------------|
+| 2024-01-27 03:00:23.177939 | CVE-2024-22550 | cvss:0 (Not_rated)  | "(File Upload, Execute arbitrary code)"                                 | https://www.cve.org/CVERecord?id=CVE-2024-22550 |
+| 2024-01-27 03:00:24.304326 | CVE-2024-0920  | cvss:4.7 (MEDIUM)   | "(Command injection, Critical)"                                         | https://www.cve.org/CVERecord?id=CVE-2024-0920  |
+| 2024-01-27 03:00:25.394407 | CVE-2024-0919  | cvss:6.3 (MEDIUM)   | "(Command injection, Critical)"                                         | https://www.cve.org/CVERecord?id=CVE-2024-0919  |
+| 2024-01-27 03:00:26.468409 | CVE-2024-0918  | cvss:4.7 (MEDIUM)   | "(Command injection, Critical)"                                         | https://www.cve.org/CVERecord?id=CVE-2024-0918  |
+| 2024-01-27 03:00:27.544611 | CVE-2024-0727  | cvss:0 (Not_rated)  | "(OpenSSL, Denial of service)"                                          | https://www.cve.org/CVERecord?id=CVE-2024-0727  |
+| 2024-01-27 03:00:28.472375 | CVE-2024-21387 | cvss:5.3 (MEDIUM)   | (Microsoft Edge)                                                        | https://www.cve.org/CVERecord?id=CVE-2024-21387 |
+| 2024-01-27 03:00:29.464731 | CVE-2024-21385 | cvss:8.3 (HIGH)     | "(Microsoft Edge, Elevation of privilege)"                              | https://www.cve.org/CVERecord?id=CVE-2024-21385 |
+| 2024-01-27 03:00:30.424014 | CVE-2024-21383 | cvss:3.3 (LOW)      | (Microsoft Edge)                                                        | https://www.cve.org/CVERecord?id=CVE-2024-21383 |
+| 2024-01-27 03:00:31.380043 | CVE-2024-21382 | cvss:4.3 (MEDIUM)   | "(Microsoft Edge, Information disclosure)"                              | https://www.cve.org/CVERecord?id=CVE-2024-21382 |
+| 2024-01-27 03:00:32.376589 | CVE-2024-21326 | cvss:9.6 (CRITICAL) | "(Microsoft Edge, Elevation of privilege)"                              | https://www.cve.org/CVERecord?id=CVE-2024-21326 |
+| 2024-01-27 03:00:33.369705 | CVE-2024-23622 | cvss:10 (CRITICAL)  | "(Remote code execution, Buffer Overflow)"                              | https://www.cve.org/CVERecord?id=CVE-2024-23622 |
+| 2024-01-27 03:00:34.265901 | CVE-2024-23621 | cvss:10 (CRITICAL)  | "(Remote code execution, Buffer Overflow)"                              | https://www.cve.org/CVERecord?id=CVE-2024-23621 |
+| 2024-01-27 03:00:35.248967 | CVE-2024-23619 | cvss:9.8 (CRITICAL) | "(Remote code execution, Information disclosure, Hardcoded Credential)" | https://www.cve.org/CVERecord?id=CVE-2024-23619 |
+| 2024-01-27 03:00:36.297214 | CVE-2024-23616 | cvss:10 (CRITICAL)  | "(Remote code execution, Buffer Overflow)"                              | https://www.cve.org/CVERecord?id=CVE-2024-23616 |
+| 2024-01-27 03:00:37.252502 | CVE-2024-23615 | cvss:10 (CRITICAL)  | "(Remote code execution, Buffer Overflow)"                              | https://www.cve.org/CVERecord?id=CVE-2024-23615 |
+| 2024-01-27 03:00:38.306287 | CVE-2024-23614 | cvss:10 (CRITICAL)  | "(Remote code execution, Buffer Overflow)"                              | https://www.cve.org/CVERecord?id=CVE-2024-23614 |
+| 2024-01-27 03:00:39.376867 | CVE-2024-23613 | cvss:10 (CRITICAL)  | "(Remote code execution, Buffer Overflow)"                              | https://www.cve.org/CVERecord?id=CVE-2024-23613 |
+| 2024-01-27 03:00:40.491840 | CVE-2024-21620 | cvss:8.8 (HIGH)     | "(PHP, Juniper Networks, Execute command, Improper Neutralization)"     | https://www.cve.org/CVERecord?id=CVE-2024-21620 |
+| 2024-01-27 03:00:41.604678 | CVE-2024-21619 | cvss:5.3 (MEDIUM)   | "(Juniper Networks, Critical, Missing Authentication)"                  | https://www.cve.org/CVERecord?id=CVE-2024-21619 |
+| 2024-01-27 03:00:42.688794 | CVE-2024-0890  | cvss:6.3 (MEDIUM)   | "(SQL injection, Critical)"                                             | https://www.cve.org/CVERecord?id=CVE-2024-0890  |
+| 2024-01-27 03:00:43.661223 | CVE-2024-23055 | cvss:0 (Not_rated)  | "(Docker, Remote code execution, Improper Validation)"                  | https://www.cve.org/CVERecord?id=CVE-2024-23055 |
+| 2024-01-27 03:00:44.642580 | CVE-2024-22922 | cvss:0 (Not_rated)  | (PHP)                                                                   | https://www.cve.org/CVERecord?id=CVE-2024-22922 |
+| 2024-01-27 03:00:45.776223 | CVE-2023-51833 | cvss:0 (Not_rated)  | "(Command injection, Execute arbitrary code)"                           | https://www.cve.org/CVERecord?id=CVE-2023-51833 |
+| 2024-01-27 03:00:46.711414 | CVE-2024-24399 | cvss:0 (Not_rated)  | "(PHP, File Upload, Execute arbitrary code)"                            | https://www.cve.org/CVERecord?id=CVE-2024-24399 |
+| 2024-01-27 03:00:47.699459 | CVE-2024-22638 | cvss:0 (Not_rated)  | "(PHP, Remote code execution)"                                          | https://www.cve.org/CVERecord?id=CVE-2024-22638 |
+| 2024-01-27 03:00:48.681967 | CVE-2023-52251 | cvss:0 (Not_rated)  | "(Remote Attack, Execute arbitrary code)"                               | https://www.cve.org/CVERecord?id=CVE-2023-52251 |
+| 2024-01-27 03:00:49.675700 | CVE-2023-52356 | cvss:0 (Not_rated)  | "(Libtiff, Remote Attack, Denial of service, Buffer Overflow)"          | https://www.cve.org/CVERecord?id=CVE-2023-52356 |
+| 2024-01-27 03:00:50.660600 | CVE-2023-52355 | cvss:0 (Not_rated)  | "(Libtiff, Remote Attack, Denial of service)"                           | https://www.cve.org/CVERecord?id=CVE-2023-52355 |
+| 2024-01-27 03:00:51.682206 | CVE-2023-41474 | cvss:0 (Not_rated)  | "(Ivanti, Directory traversal, obtain sensitive information)"           | https://www.cve.org/CVERecord?id=CVE-2023-41474 |
+| 2024-01-27 03:00:52.736165 | CVE-2023-7227  | cvss:9.8 (CRITICAL) | "(Command injection, Arbitrary Command, Execute arbitrary command)"     | https://www.cve.org/CVERecord?id=CVE-2023-7227  |
+| 2024-01-27 03:00:53.820295 | CVE-2023-52076 | cvss:8.5 (HIGH)     | "(Command execution, Path Traversal)"                                   | https://www.cve.org/CVERecord?id=CVE-2023-52076 |
+| 2024-01-27 03:00:54.848369 | CVE-2023-40547 | cvss:0 (Not_rated)  | "(Remote code execution, out-of-bounds)"                                | https://www.cve.org/CVERecord?id=CVE-2023-40547 |
+| 2024-01-27 03:00:55.770781 | CVE-2024-22432 | cvss:7.8 (HIGH)     | (MySQL)                                                                 | https://www.cve.org/CVERecord?id=CVE-2024-22432 |
