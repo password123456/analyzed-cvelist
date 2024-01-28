@@ -1,0 +1,20 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                                                                 | link                                            |
+|----------------------------|----------------|---------------------|-----------------------------------------------------------------------------------------|-------------------------------------------------|
+| 2024-01-28 14:00:23.884800 | CVE-2024-0962  | cvss:6.3 (MEDIUM)   | "(Buffer Overflow, Critical)"                                                           | https://www.cve.org/CVERecord?id=CVE-2024-0962  |
+| 2024-01-28 14:00:25.071575 | CVE-2024-22861 | cvss:0 (Not_rated)  | "(Denial of service, Integer Overflow)"                                                 | https://www.cve.org/CVERecord?id=CVE-2024-22861 |
+| 2024-01-28 14:00:26.044585 | CVE-2024-22862 | cvss:0 (Not_rated)  | "(Remote Attack, Execute arbitrary code, Integer Overflow)"                             | https://www.cve.org/CVERecord?id=CVE-2024-22862 |
+| 2024-01-28 14:00:27.008523 | CVE-2024-22860 | cvss:0 (Not_rated)  | "(Remote Attack, Execute arbitrary code, Integer Overflow)"                             | https://www.cve.org/CVERecord?id=CVE-2024-22860 |
+| 2024-01-28 14:00:27.971747 | CVE-2024-0958  | cvss:3.5 (LOW)      | (PHP)                                                                                   | https://www.cve.org/CVERecord?id=CVE-2024-0958  |
+| 2024-01-28 14:00:28.990010 | CVE-2023-52389 | cvss:0 (Not_rated)  | "(Buffer Overflow, Integer Overflow)"                                                   | https://www.cve.org/CVERecord?id=CVE-2023-52389 |
+| 2024-01-28 14:00:30.069444 | CVE-2024-22283 | cvss:8.5 (HIGH)     | "(SQL injection, Improper Neutralization)"                                              | https://www.cve.org/CVERecord?id=CVE-2024-22283 |
+| 2024-01-28 14:00:31.018013 | CVE-2024-22147 | cvss:7.6 (HIGH)     | "(SQL injection, Improper Neutralization)"                                              | https://www.cve.org/CVERecord?id=CVE-2024-22147 |
+| 2024-01-28 14:00:31.983944 | CVE-2024-0946  | cvss:7.3 (HIGH)     | "(PHP, Critical, Server-side Request Forgery)"                                          | https://www.cve.org/CVERecord?id=CVE-2024-0946  |
+| 2024-01-28 14:00:32.938251 | CVE-2024-0945  | cvss:7.3 (HIGH)     | "(PHP, Critical, Server-side Request Forgery)"                                          | https://www.cve.org/CVERecord?id=CVE-2024-0945  |
+| 2024-01-28 14:00:33.858322 | CVE-2024-0941  | cvss:5.5 (MEDIUM)   | "(SQL injection, Critical)"                                                             | https://www.cve.org/CVERecord?id=CVE-2024-0941  |
+| 2024-01-28 14:00:34.770392 | CVE-2024-0939  | cvss:6.3 (MEDIUM)   | "(PHP, Unrestricted Upload, Critical)"                                                  | https://www.cve.org/CVERecord?id=CVE-2024-0939  |
+| 2024-01-28 14:00:35.764092 | CVE-2024-21336 | cvss:2.5 (LOW)      | (Microsoft Edge)                                                                        | https://www.cve.org/CVERecord?id=CVE-2024-21336 |
+| 2024-01-28 14:00:36.868243 | CVE-2024-20253 | cvss:9.9 (CRITICAL) | "(Remote Attack, Arbitrary Command, Execute arbitrary code, Execute arbitrary command)" | https://www.cve.org/CVERecord?id=CVE-2024-20253 |
+| 2024-01-28 14:00:37.865418 | CVE-2024-0938  | cvss:5.5 (MEDIUM)   | "(PHP, SQL injection, Critical)"                                                        | https://www.cve.org/CVERecord?id=CVE-2024-0938  |
+| 2024-01-28 14:00:38.924943 | CVE-2024-0933  | cvss:6.3 (MEDIUM)   | "(PHP, Unrestricted Upload, Critical)"                                                  | https://www.cve.org/CVERecord?id=CVE-2024-0933  |
