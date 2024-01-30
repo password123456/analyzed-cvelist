@@ -1,0 +1,25 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                                             | link                                            |
+|----------------------------|----------------|---------------------|---------------------------------------------------------------------|-------------------------------------------------|
+| 2024-01-30 04:00:22.769685 | CVE-2024-23828 | cvss:8.8 (HIGH)     | "(Nginx, Command execution, Arbitrary Command)"                     | https://www.cve.org/CVERecord?id=CVE-2024-23828 |
+| 2024-01-30 04:00:23.886476 | CVE-2023-40551 | cvss:0 (Not_rated)  | "(out-of-bounds, Exposure of Sensitive)"                            | https://www.cve.org/CVERecord?id=CVE-2023-40551 |
+| 2024-01-30 04:00:24.912709 | CVE-2023-40549 | cvss:0 (Not_rated)  | "(Denial of service, out-of-bounds)"                                | https://www.cve.org/CVERecord?id=CVE-2023-40549 |
+| 2024-01-30 04:00:25.848919 | CVE-2023-1705  | cvss:8.4 (HIGH)     | "(Privilege Escalation, Missing Authorization)"                     | https://www.cve.org/CVERecord?id=CVE-2023-1705  |
+| 2024-01-30 04:00:26.876838 | CVE-2024-23827 | cvss:9.8 (CRITICAL) | "(Nginx, Remote code execution, Overwriting)"                       | https://www.cve.org/CVERecord?id=CVE-2024-23827 |
+| 2024-01-30 04:00:27.812898 | CVE-2024-23822 | cvss:5.4 (MEDIUM)   | "(File Upload, Path Traversal, Directory traversal)"                | https://www.cve.org/CVERecord?id=CVE-2024-23822 |
+| 2024-01-30 04:00:28.864863 | CVE-2024-1006  | cvss:7.3 (HIGH)     | "(PHP, Critical)"                                                   | https://www.cve.org/CVERecord?id=CVE-2024-1006  |
+| 2024-01-30 04:00:29.971697 | CVE-2023-7204  | cvss:0 (Not_rated)  | "(WordPress, Plugin)"                                               | https://www.cve.org/CVERecord?id=CVE-2023-7204  |
+| 2024-01-30 04:00:31.091732 | CVE-2023-40548 | cvss:0 (Not_rated)  | "(Memory corruption, Buffer Overflow)"                              | https://www.cve.org/CVERecord?id=CVE-2023-40548 |
+| 2024-01-30 04:00:32.147062 | CVE-2024-0989  | cvss:5.4 (MEDIUM)   | "(PHP, Path Traversal)"                                             | https://www.cve.org/CVERecord?id=CVE-2024-0989  |
+| 2024-01-30 04:00:33.265315 | CVE-2024-0988  | cvss:6.3 (MEDIUM)   | "(PHP, Critical)"                                                   | https://www.cve.org/CVERecord?id=CVE-2024-0988  |
+| 2024-01-30 04:00:34.220120 | CVE-2024-0986  | cvss:4.7 (MEDIUM)   | "(PHP, Command injection, Critical)"                                | https://www.cve.org/CVERecord?id=CVE-2024-0986  |
+| 2024-01-30 18:00:23.725341 | CVE-2024-21488 | cvss:7.3 (HIGH)     | "(Command injection, Arbitrary Command, Execute arbitrary command)" | https://www.cve.org/CVERecord?id=CVE-2024-21488 |
+| 2024-01-30 18:00:24.878830 | CVE-2024-22938 | cvss:0 (Not_rated)  | "(PHP, Execute arbitrary code, Insecure permission)"                | https://www.cve.org/CVERecord?id=CVE-2024-22938 |
+| 2024-01-30 18:00:26.075074 | CVE-2023-51813 | cvss:0 (Not_rated)  | "(PHP, Remote Attack, Execute arbitrary code)"                      | https://www.cve.org/CVERecord?id=CVE-2023-51813 |
+| 2024-01-30 18:00:27.325516 | CVE-2024-1022  | cvss:2.4 (LOW)      | (PHP)                                                               | https://www.cve.org/CVERecord?id=CVE-2024-1022  |
+| 2024-01-30 18:00:28.389780 | CVE-2024-1021  | cvss:6.3 (MEDIUM)   | "(Critical, Server-side Request Forgery)"                           | https://www.cve.org/CVERecord?id=CVE-2024-1021  |
+| 2024-01-30 18:00:29.374337 | CVE-2023-4554  | cvss:4.9 (MEDIUM)   | "(XXE, XML external entity, Server-side Request Forgery)"           | https://www.cve.org/CVERecord?id=CVE-2023-4554  |
+| 2024-01-30 18:00:30.348339 | CVE-2023-49038 | cvss:0 (Not_rated)  | "(Command injection, Arbitrary Command)"                            | https://www.cve.org/CVERecord?id=CVE-2023-49038 |
+| 2024-01-30 18:00:31.367755 | CVE-2023-4551  | cvss:7.2 (HIGH)     | "(Command injection, Input validation)"                             | https://www.cve.org/CVERecord?id=CVE-2023-4551  |
+| 2024-01-30 18:00:32.373953 | CVE-2024-1018  | cvss:2.4 (LOW)      | (PHP)                                                               | https://www.cve.org/CVERecord?id=CVE-2024-1018  |
