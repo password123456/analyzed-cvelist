@@ -1,0 +1,33 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                               | link                                            |
+|----------------------------|----------------|--------------------|-----------------------------------------------------------------------|-------------------------------------------------|
+| 2024-01-31 04:00:23.419853 | CVE-2024-1034  | cvss:7.3 (HIGH)    | "(PHP, Unrestricted Upload, Critical)"                                | https://www.cve.org/CVERecord?id=CVE-2024-1034  |
+| 2024-01-31 04:00:24.473454 | CVE-2024-1033  | cvss:4.3 (MEDIUM)  | "(PHP, Information disclosure)"                                       | https://www.cve.org/CVERecord?id=CVE-2024-1033  |
+| 2024-01-31 04:00:25.363683 | CVE-2024-1032  | cvss:7.3 (HIGH)    | "(PHP, Critical)"                                                     | https://www.cve.org/CVERecord?id=CVE-2024-1032  |
+| 2024-01-31 04:00:26.262821 | CVE-2024-1031  | cvss:3.5 (LOW)     | (PHP)                                                                 | https://www.cve.org/CVERecord?id=CVE-2024-1031  |
+| 2024-01-31 04:00:27.268360 | CVE-2024-0675  | cvss:6.3 (MEDIUM)  | "(Arbitrary Command, Execute arbitrary command)"                      | https://www.cve.org/CVERecord?id=CVE-2024-0675  |
+| 2024-01-31 04:00:28.252554 | CVE-2024-22894 | cvss:0 (Not_rated) | "(Remote Attack, Execute arbitrary code)"                             | https://www.cve.org/CVERecord?id=CVE-2024-22894 |
+| 2024-01-31 04:00:29.260759 | CVE-2024-1030  | cvss:3.5 (LOW)     | (PHP)                                                                 | https://www.cve.org/CVERecord?id=CVE-2024-1030  |
+| 2024-01-31 04:00:30.159051 | CVE-2024-22523 | cvss:0 (Not_rated) | "(Remote Attack, Directory traversal, obtain sensitive information)"  | https://www.cve.org/CVERecord?id=CVE-2024-22523 |
+| 2024-01-31 04:00:31.084835 | CVE-2023-6942  | cvss:7.5 (HIGH)    | "(Critical, Missing Authentication)"                                  | https://www.cve.org/CVERecord?id=CVE-2023-6942  |
+| 2024-01-31 04:00:32.077912 | CVE-2023-6374  | cvss:5.9 (MEDIUM)  | "(Remote Attack, Authentication bypass)"                              | https://www.cve.org/CVERecord?id=CVE-2023-6374  |
+| 2024-01-31 04:00:33.091454 | CVE-2023-36260 | cvss:0 (Not_rated) | "(Remote Attack, Denial of service)"                                  | https://www.cve.org/CVERecord?id=CVE-2023-36260 |
+| 2024-01-31 04:00:34.054837 | CVE-2024-1029  | cvss:3.5 (LOW)     | (PHP)                                                                 | https://www.cve.org/CVERecord?id=CVE-2024-1029  |
+| 2024-01-31 18:00:23.731673 | CVE-2024-22236 | cvss:3.3 (LOW)     | "(Spring Cloud, Information disclosure)"                              | https://www.cve.org/CVERecord?id=CVE-2024-22236 |
+| 2024-01-31 18:00:24.618821 | CVE-2023-31505 | cvss:0 (Not_rated) | "(File Upload, Execute arbitrary code, obtain sensitive information)" | https://www.cve.org/CVERecord?id=CVE-2023-31505 |
+| 2024-01-31 18:00:25.524478 | CVE-2024-23745 | cvss:0 (Not_rated) | "(Arbitrary Command, Execute arbitrary command)"                      | https://www.cve.org/CVERecord?id=CVE-2024-23745 |
+| 2024-01-31 18:00:26.521839 | CVE-2024-1077  | cvss:0 (Not_rated) | "(Google Chrome, Use after free, Remote Attack, Heap corruption)"     | https://www.cve.org/CVERecord?id=CVE-2024-1077  |
+| 2024-01-31 18:00:27.447446 | CVE-2024-1060  | cvss:0 (Not_rated) | "(Google Chrome, Use after free, Remote Attack, Heap corruption)"     | https://www.cve.org/CVERecord?id=CVE-2024-1060  |
+| 2024-01-31 18:00:28.359747 | CVE-2024-1059  | cvss:0 (Not_rated) | "(Google Chrome, Use after free, Remote Attack)"                      | https://www.cve.org/CVERecord?id=CVE-2024-1059  |
+| 2024-01-31 18:00:29.244879 | CVE-2023-51202 | cvss:0 (Not_rated) | "(Command injection, Arbitrary Command)"                              | https://www.cve.org/CVERecord?id=CVE-2023-51202 |
+| 2024-01-31 18:00:30.136622 | CVE-2023-51197 | cvss:0 (Not_rated) | "(Command execution, Arbitrary Command)"                              | https://www.cve.org/CVERecord?id=CVE-2023-51197 |
+| 2024-01-31 18:00:31.037205 | CVE-2024-24558 | cvss:8.2 (HIGH)    | (npm)                                                                 | https://www.cve.org/CVERecord?id=CVE-2024-24558 |
+| 2024-01-31 18:00:31.949901 | CVE-2024-23841 | cvss:8.2 (HIGH)    | "(npm, GraphQL)"                                                      | https://www.cve.org/CVERecord?id=CVE-2024-23841 |
+| 2024-01-31 18:00:32.863294 | CVE-2024-21388 | cvss:6.5 (MEDIUM)  | "(Microsoft Edge, Elevation of privilege)"                            | https://www.cve.org/CVERecord?id=CVE-2024-21388 |
+| 2024-01-31 18:00:33.775673 | CVE-2024-1036  | cvss:7.3 (HIGH)    | "(PHP, Unrestricted Upload, Critical)"                                | https://www.cve.org/CVERecord?id=CVE-2024-1036  |
+| 2024-01-31 18:00:34.675946 | CVE-2023-46231 | cvss:8.8 (HIGH)    | (Splunk)                                                              | https://www.cve.org/CVERecord?id=CVE-2023-46231 |
+| 2024-01-31 18:00:35.655540 | CVE-2023-46230 | cvss:8.2 (HIGH)    | (Splunk)                                                              | https://www.cve.org/CVERecord?id=CVE-2023-46230 |
+| 2024-01-31 18:00:36.579012 | CVE-2024-22200 | cvss:3.3 (LOW)     | "(Docker, Nginx)"                                                     | https://www.cve.org/CVERecord?id=CVE-2024-22200 |
+| 2024-01-31 18:00:37.436099 | CVE-2024-21653 | cvss:6.5 (MEDIUM)  | (Docker)                                                              | https://www.cve.org/CVERecord?id=CVE-2024-21653 |
+| 2024-01-31 18:00:38.455925 | CVE-2024-1035  | cvss:7.3 (HIGH)    | "(PHP, Unrestricted Upload, Critical)"                                | https://www.cve.org/CVERecord?id=CVE-2024-1035  |
