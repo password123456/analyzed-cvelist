@@ -1,0 +1,17 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                          | link                                            |
+|----------------------------|----------------|--------------------|------------------------------------------------------------------|-------------------------------------------------|
+| 2024-02-02 02:00:24.050141 | CVE-2024-22449 | cvss:6.6 (MEDIUM)  | "(Critical, Missing Authentication)"                             | https://www.cve.org/CVERecord?id=CVE-2024-22449 |
+| 2024-02-02 02:00:24.944585 | CVE-2023-37621 | cvss:0 (Not_rated) | "(Remote Attack, crafted request, obtain sensitive information)" | https://www.cve.org/CVERecord?id=CVE-2023-37621 |
+| 2024-02-02 02:00:25.880699 | CVE-2023-51939 | cvss:0 (Not_rated) | "(Remote Attack, obtain sensitive information)"                  | https://www.cve.org/CVERecord?id=CVE-2023-51939 |
+| 2024-02-02 02:00:26.730425 | CVE-2024-0831  | cvss:4.5 (MEDIUM)  | (Vault Enterprise)                                               | https://www.cve.org/CVERecord?id=CVE-2024-0831  |
+| 2024-02-02 02:00:27.655508 | CVE-2024-24573 | cvss:8.8 (HIGH)    | (PHP)                                                            | https://www.cve.org/CVERecord?id=CVE-2024-24573 |
+| 2024-02-02 02:00:28.642134 | CVE-2024-24572 | cvss:6.5 (MEDIUM)  | "(PHP, SQL injection)"                                           | https://www.cve.org/CVERecord?id=CVE-2024-24572 |
+| 2024-02-02 02:00:29.544136 | CVE-2024-23652 | cvss:10 (CRITICAL) | (Docker)                                                         | https://www.cve.org/CVERecord?id=CVE-2024-23652 |
+| 2024-02-02 02:00:30.453630 | CVE-2024-23651 | cvss:8.7 (HIGH)    | "(Docker, Race Condition)"                                       | https://www.cve.org/CVERecord?id=CVE-2024-23651 |
+| 2024-02-02 02:00:31.469277 | CVE-2024-1117  | cvss:7.3 (HIGH)    | "(PHP, Code Injection, Critical)"                                | https://www.cve.org/CVERecord?id=CVE-2024-1117  |
+| 2024-02-02 02:00:32.457513 | CVE-2024-1116  | cvss:7.3 (HIGH)    | "(PHP, Unrestricted Upload, Plugin, Critical)"                   | https://www.cve.org/CVERecord?id=CVE-2024-1116  |
+| 2024-02-02 02:00:33.464358 | CVE-2024-1115  | cvss:7.3 (HIGH)    | "(PHP, Websocket, Command injection, Critical)"                  | https://www.cve.org/CVERecord?id=CVE-2024-1115  |
+| 2024-02-02 02:00:34.370813 | CVE-2024-1114  | cvss:6.5 (MEDIUM)  | "(PHP, Improper access control, Critical)"                       | https://www.cve.org/CVERecord?id=CVE-2024-1114  |
+| 2024-02-02 02:00:35.350582 | CVE-2024-1113  | cvss:6.3 (MEDIUM)  | "(PHP, Unrestricted Upload, Critical)"                           | https://www.cve.org/CVERecord?id=CVE-2024-1113  |
