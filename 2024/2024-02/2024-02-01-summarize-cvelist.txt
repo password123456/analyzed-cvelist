@@ -1,0 +1,16 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                          | link                                            |
+|----------------------------|----------------|--------------------|--------------------------------------------------|-------------------------------------------------|
+| 2024-02-01 02:00:22.155707 | CVE-2023-44313 | cvss:7.6 (HIGH)    | "(Server-side Request Forgery, crafted request)" | https://www.cve.org/CVERecord?id=CVE-2023-44313 |
+| 2024-02-01 02:00:23.095311 | CVE-2024-23775 | cvss:0 (Not_rated) | "(Denial of service, Integer Overflow)"          | https://www.cve.org/CVERecord?id=CVE-2024-23775 |
+| 2024-02-01 02:00:24.089525 | CVE-2024-1012  | cvss:6.3 (MEDIUM)  | "(SQL injection, Critical)"                      | https://www.cve.org/CVERecord?id=CVE-2024-1012  |
+| 2024-02-01 08:00:23.373616 | CVE-2024-21893 | cvss:0 (Not_rated) | "(SAML, Ivanti, Server-side Request Forgery)"    | https://www.cve.org/CVERecord?id=CVE-2024-21893 |
+| 2024-02-01 08:00:24.356440 | CVE-2024-21888 | cvss:0 (Not_rated) | "(Ivanti, Privilege Escalation)"                 | https://www.cve.org/CVERecord?id=CVE-2024-21888 |
+| 2024-02-01 08:00:25.378118 | CVE-2024-1103  | cvss:3.5 (LOW)     | (PHP)                                            | https://www.cve.org/CVERecord?id=CVE-2024-1103  |
+| 2024-02-01 08:00:26.354730 | CVE-2024-1112  | cvss:7.3 (HIGH)    | "(Execute arbitrary code, Buffer Overflow)"      | https://www.cve.org/CVERecord?id=CVE-2024-1112  |
+| 2024-02-01 08:00:27.374550 | CVE-2023-6246  | cvss:0 (Not_rated) | "(Privilege Escalation, Buffer Overflow)"        | https://www.cve.org/CVERecord?id=CVE-2023-6246  |
+| 2024-02-01 08:00:28.375348 | CVE-2024-1086  | cvss:7.8 (HIGH)    | "(use-after-free, Privilege Escalation)"         | https://www.cve.org/CVERecord?id=CVE-2024-1086  |
+| 2024-02-01 08:00:29.270692 | CVE-2024-1085  | cvss:7.8 (HIGH)    | "(use-after-free, Privilege Escalation)"         | https://www.cve.org/CVERecord?id=CVE-2024-1085  |
+| 2024-02-01 08:00:30.224356 | CVE-2024-23507 | cvss:8.5 (HIGH)    | "(SQL injection, Improper Neutralization)"       | https://www.cve.org/CVERecord?id=CVE-2024-23507 |
+| 2024-02-01 08:00:31.212886 | CVE-2024-22305 | cvss:7.5 (HIGH)    | "(WordPress, Authorization bypass)"              | https://www.cve.org/CVERecord?id=CVE-2024-22305 |
