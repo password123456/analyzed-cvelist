@@ -1,0 +1,51 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                                                               | link                                            |
+|----------------------------|----------------|---------------------|---------------------------------------------------------------------------------------|-------------------------------------------------|
+| 2024-02-03 00:00:24.732761 | CVE-2024-22320 | cvss:9.8 (CRITICAL) | "(Execute arbitrary code, crafted request)"                                           | https://www.cve.org/CVERecord?id=CVE-2024-22320 |
+| 2024-02-03 00:00:25.650113 | CVE-2024-22319 | cvss:8.1 (HIGH)     | "(Remote Attack, crafted request)"                                                    | https://www.cve.org/CVERecord?id=CVE-2024-22319 |
+| 2024-02-03 00:00:26.577935 | CVE-2024-22901 | cvss:0 (Not_rated)  | (MySQL)                                                                               | https://www.cve.org/CVERecord?id=CVE-2024-22901 |
+| 2024-02-03 00:00:27.562113 | CVE-2024-22779 | cvss:8.8 (HIGH)     | "(Remote Attack, Execute arbitrary code, Directory traversal)"                        | https://www.cve.org/CVERecord?id=CVE-2024-22779 |
+| 2024-02-03 00:00:28.551660 | CVE-2023-32333 | cvss:6.5 (MEDIUM)   | "(Remote Attack, Improper access control)"                                            | https://www.cve.org/CVERecord?id=CVE-2023-32333 |
+| 2024-02-03 00:00:29.451601 | CVE-2024-21399 | cvss:8.3 (HIGH)     | "(Microsoft Edge, Remote code execution)"                                             | https://www.cve.org/CVERecord?id=CVE-2024-21399 |
+| 2024-02-03 00:00:30.379791 | CVE-2023-50933 | cvss:6.1 (MEDIUM)   | "(Remote Attack, HTML injection)"                                                     | https://www.cve.org/CVERecord?id=CVE-2023-50933 |
+| 2024-02-03 00:00:31.386275 | CVE-2024-24756 | cvss:7.5 (HIGH)     | (Docker)                                                                              | https://www.cve.org/CVERecord?id=CVE-2024-24756 |
+| 2024-02-03 00:00:32.365078 | CVE-2024-24557 | cvss:6.9 (MEDIUM)   | (Docker)                                                                              | https://www.cve.org/CVERecord?id=CVE-2024-24557 |
+| 2024-02-03 00:00:33.360058 | CVE-2024-24754 | cvss:3.7 (LOW)      | (PHP)                                                                                 | https://www.cve.org/CVERecord?id=CVE-2024-24754 |
+| 2024-02-03 00:00:34.266160 | CVE-2024-24753 | cvss:4.8 (MEDIUM)   | (PHP)                                                                                 | https://www.cve.org/CVERecord?id=CVE-2024-24753 |
+| 2024-02-03 00:00:35.149088 | CVE-2024-24752 | cvss:6.5 (MEDIUM)   | (PHP)                                                                                 | https://www.cve.org/CVERecord?id=CVE-2024-24752 |
+| 2024-02-03 00:00:36.086644 | CVE-2023-6078  | cvss:8.8 (HIGH)     | "(Command injection, Command execution, Arbitrary Command)"                           | https://www.cve.org/CVERecord?id=CVE-2023-6078  |
+| 2024-02-03 16:00:22.484436 | CVE-2023-43016 | cvss:7.3 (HIGH)     | (Docker)                                                                              | https://www.cve.org/CVERecord?id=CVE-2023-43016 |
+| 2024-02-03 16:00:23.494186 | CVE-2023-32329 | cvss:6.2 (MEDIUM)   | (Docker)                                                                              | https://www.cve.org/CVERecord?id=CVE-2023-32329 |
+| 2024-02-03 16:00:24.483994 | CVE-2023-32327 | cvss:7.1 (HIGH)     | "(Docker, Remote Attack, XXE, XML external entity)"                                   | https://www.cve.org/CVERecord?id=CVE-2023-32327 |
+| 2024-02-03 16:00:25.382543 | CVE-2023-31006 | cvss:6.5 (MEDIUM)   | "(Docker, Denial of service)"                                                         | https://www.cve.org/CVERecord?id=CVE-2023-31006 |
+| 2024-02-03 16:00:26.277442 | CVE-2023-31005 | cvss:6.2 (MEDIUM)   | (Docker)                                                                              | https://www.cve.org/CVERecord?id=CVE-2023-31005 |
+| 2024-02-03 16:00:27.206668 | CVE-2023-31004 | cvss:8.3 (HIGH)     | "(Docker, Remote Attack)"                                                             | https://www.cve.org/CVERecord?id=CVE-2023-31004 |
+| 2024-02-03 16:00:28.124199 | CVE-2023-30999 | cvss:7.5 (HIGH)     | "(Docker, Denial of service)"                                                         | https://www.cve.org/CVERecord?id=CVE-2023-30999 |
+| 2024-02-03 16:00:29.065830 | CVE-2024-1198  | cvss:6.3 (MEDIUM)   | "(PHP, Critical)"                                                                     | https://www.cve.org/CVERecord?id=CVE-2024-1198  |
+| 2024-02-03 16:00:29.971962 | CVE-2024-1195  | cvss:5.5 (MEDIUM)   | "(Denial of service, Critical)"                                                       | https://www.cve.org/CVERecord?id=CVE-2024-1195  |
+| 2024-02-03 16:00:30.903848 | CVE-2024-1193  | cvss:3.3 (LOW)      | "(MySQL, Denial of service)"                                                          | https://www.cve.org/CVERecord?id=CVE-2024-1193  |
+| 2024-02-03 16:00:31.806294 | CVE-2024-24760 | cvss:8.8 (HIGH)     | (Docker)                                                                              | https://www.cve.org/CVERecord?id=CVE-2024-24760 |
+| 2024-02-03 16:00:32.778097 | CVE-2024-24470 | cvss:0 (Not_rated)  | "(PHP, Remote Attack, Execute arbitrary code)"                                        | https://www.cve.org/CVERecord?id=CVE-2024-24470 |
+| 2024-02-03 16:00:33.787696 | CVE-2024-23824 | cvss:4.7 (MEDIUM)   | (Docker)                                                                              | https://www.cve.org/CVERecord?id=CVE-2024-23824 |
+| 2024-02-03 16:00:34.785412 | CVE-2024-22108 | cvss:0 (Not_rated)  | "(PHP, SQL injection)"                                                                | https://www.cve.org/CVERecord?id=CVE-2024-22108 |
+| 2024-02-03 16:00:35.756894 | CVE-2024-22107 | cvss:0 (Not_rated)  | "(PHP, Command injection, Arbitrary Command)"                                         | https://www.cve.org/CVERecord?id=CVE-2024-22107 |
+| 2024-02-03 16:00:36.824651 | CVE-2023-6387  | cvss:7.5 (HIGH)     | "(Remote code execution, Denial of service, Buffer Overflow)"                         | https://www.cve.org/CVERecord?id=CVE-2023-6387  |
+| 2024-02-03 16:00:37.825392 | CVE-2023-47567 | cvss:4.7 (MEDIUM)   | "(Command injection, Execute command)"                                                | https://www.cve.org/CVERecord?id=CVE-2023-47567 |
+| 2024-02-03 16:00:38.740163 | CVE-2023-47566 | cvss:6.7 (MEDIUM)   | "(Command injection, Execute command)"                                                | https://www.cve.org/CVERecord?id=CVE-2023-47566 |
+| 2024-02-03 16:00:39.693482 | CVE-2023-47562 | cvss:7.4 (HIGH)     | "(Command injection, Execute command)"                                                | https://www.cve.org/CVERecord?id=CVE-2023-47562 |
+| 2024-02-03 16:00:40.644583 | CVE-2023-45025 | cvss:9 (CRITICAL)   | "(Command injection, Execute command)"                                                | https://www.cve.org/CVERecord?id=CVE-2023-45025 |
+| 2024-02-03 16:00:41.548248 | CVE-2023-41283 | cvss:5.5 (MEDIUM)   | "(Command injection, Execute command)"                                                | https://www.cve.org/CVERecord?id=CVE-2023-41283 |
+| 2024-02-03 16:00:42.481278 | CVE-2023-41282 | cvss:5.5 (MEDIUM)   | "(Command injection, Execute command)"                                                | https://www.cve.org/CVERecord?id=CVE-2023-41282 |
+| 2024-02-03 16:00:43.360255 | CVE-2023-41281 | cvss:5.5 (MEDIUM)   | "(Command injection, Execute command)"                                                | https://www.cve.org/CVERecord?id=CVE-2023-41281 |
+| 2024-02-03 16:00:44.381449 | CVE-2023-39302 | cvss:6.6 (MEDIUM)   | "(Command injection, Execute command)"                                                | https://www.cve.org/CVERecord?id=CVE-2023-39302 |
+| 2024-02-03 16:00:45.404515 | CVE-2023-39297 | cvss:8.8 (HIGH)     | "(Command injection, Execute command)"                                                | https://www.cve.org/CVERecord?id=CVE-2023-39297 |
+| 2024-02-03 16:00:46.338103 | CVE-2023-47148 | cvss:5.3 (MEDIUM)   | "(Remote Attack, Improper Validation, obtain sensitive information)"                  | https://www.cve.org/CVERecord?id=CVE-2023-47148 |
+| 2024-02-03 16:00:47.338338 | CVE-2024-0338  | cvss:7.3 (HIGH)     | "(Execute arbitrary code, Buffer Overflow)"                                           | https://www.cve.org/CVERecord?id=CVE-2024-0338  |
+| 2024-02-03 16:00:48.243445 | CVE-2024-22851 | cvss:0 (Not_rated)  | "(Remote Attack, Directory traversal, crafted request, obtain sensitive information)" | https://www.cve.org/CVERecord?id=CVE-2024-22851 |
+| 2024-02-03 16:00:49.136279 | CVE-2024-24524 | cvss:0 (Not_rated)  | "(PHP, Remote Attack, Execute arbitrary code)"                                        | https://www.cve.org/CVERecord?id=CVE-2024-24524 |
+| 2024-02-03 16:00:50.030926 | CVE-2024-21860 | cvss:8.2 (HIGH)     | "(Use after free, Arbitrary code execution)"                                          | https://www.cve.org/CVERecord?id=CVE-2024-21860 |
+| 2024-02-03 16:00:50.956633 | CVE-2024-21780 | cvss:0 (Not_rated)  | "(Denial of service, Buffer Overflow)"                                                | https://www.cve.org/CVERecord?id=CVE-2024-21780 |
+| 2024-02-03 16:00:51.853723 | CVE-2023-45734 | cvss:4.2 (MEDIUM)   | "(Arbitrary code execution, out-of-bounds)"                                           | https://www.cve.org/CVERecord?id=CVE-2023-45734 |
+| 2024-02-03 16:00:52.730244 | CVE-2023-38263 | cvss:6.5 (MEDIUM)   | "(Plugin, Improper access control)"                                                   | https://www.cve.org/CVERecord?id=CVE-2023-38263 |
+| 2024-02-03 16:00:53.683843 | CVE-2023-38019 | cvss:8.1 (HIGH)     | "(Remote Attack, Plugin, Traverse Directories)"                                       | https://www.cve.org/CVERecord?id=CVE-2023-38019 |
