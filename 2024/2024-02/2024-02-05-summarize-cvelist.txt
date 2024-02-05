@@ -1,0 +1,29 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                    | link                                            |
+|----------------------------|----------------|--------------------|------------------------------------------------------------|-------------------------------------------------|
+| 2024-02-05 23:00:23.644401 | CVE-2023-5249  | cvss:0 (Not_rated) | "(use-after-free, Use after free, Race Condition)"         | https://www.cve.org/CVERecord?id=CVE-2023-5249  |
+| 2024-02-05 23:00:24.556345 | CVE-2024-24864 | cvss:5.3 (MEDIUM)  | "(Denial of service, Race Condition)"                      | https://www.cve.org/CVERecord?id=CVE-2024-24864 |
+| 2024-02-05 23:00:25.474605 | CVE-2024-24861 | cvss:3.3 (LOW)     | "(Denial of service, Race Condition)"                      | https://www.cve.org/CVERecord?id=CVE-2024-24861 |
+| 2024-02-05 23:00:26.445943 | CVE-2024-24860 | cvss:4.6 (MEDIUM)  | "(Denial of service, Race Condition)"                      | https://www.cve.org/CVERecord?id=CVE-2024-24860 |
+| 2024-02-05 23:00:27.446370 | CVE-2024-24859 | cvss:4.6 (MEDIUM)  | "(Denial of service, Race Condition)"                      | https://www.cve.org/CVERecord?id=CVE-2024-24859 |
+| 2024-02-05 23:00:28.446369 | CVE-2024-24858 | cvss:4.6 (MEDIUM)  | "(Denial of service, Race Condition)"                      | https://www.cve.org/CVERecord?id=CVE-2024-24858 |
+| 2024-02-05 23:00:29.368570 | CVE-2024-24857 | cvss:4.6 (MEDIUM)  | "(Denial of service, Race Condition)"                      | https://www.cve.org/CVERecord?id=CVE-2024-24857 |
+| 2024-02-05 23:00:30.232706 | CVE-2024-24855 | cvss:5 (MEDIUM)    | "(Denial of service, Race Condition)"                      | https://www.cve.org/CVERecord?id=CVE-2024-24855 |
+| 2024-02-05 23:00:31.174096 | CVE-2024-23196 | cvss:5.3 (MEDIUM)  | "(Denial of service, Race Condition)"                      | https://www.cve.org/CVERecord?id=CVE-2024-23196 |
+| 2024-02-05 23:00:32.085149 | CVE-2024-22386 | cvss:5.3 (MEDIUM)  | "(Denial of service, Race Condition)"                      | https://www.cve.org/CVERecord?id=CVE-2024-22386 |
+| 2024-02-05 23:00:32.985775 | CVE-2024-20016 | cvss:0 (Not_rated) | "(Denial of service, Out of Bounds, Integer Overflow)"     | https://www.cve.org/CVERecord?id=CVE-2024-20016 |
+| 2024-02-05 23:00:33.860700 | CVE-2024-20013 | cvss:0 (Not_rated) | "(Escalation of Privilege, Out of Bounds)"                 | https://www.cve.org/CVERecord?id=CVE-2024-20013 |
+| 2024-02-05 23:00:34.718564 | CVE-2024-20012 | cvss:0 (Not_rated) | "(Escalation of Privilege, Type confusion)"                | https://www.cve.org/CVERecord?id=CVE-2024-20012 |
+| 2024-02-05 23:00:35.676049 | CVE-2024-20011 | cvss:0 (Not_rated) | "(Remote code execution, Information disclosure)"          | https://www.cve.org/CVERecord?id=CVE-2024-20011 |
+| 2024-02-05 23:00:36.652774 | CVE-2024-20010 | cvss:0 (Not_rated) | "(Escalation of Privilege, Type confusion)"                | https://www.cve.org/CVERecord?id=CVE-2024-20010 |
+| 2024-02-05 23:00:37.569489 | CVE-2024-20009 | cvss:0 (Not_rated) | "(Escalation of Privilege, Out of Bounds)"                 | https://www.cve.org/CVERecord?id=CVE-2024-20009 |
+| 2024-02-05 23:00:38.576369 | CVE-2024-20007 | cvss:0 (Not_rated) | "(Escalation of Privilege, Out of Bounds, Race Condition)" | https://www.cve.org/CVERecord?id=CVE-2024-20007 |
+| 2024-02-05 23:00:39.608443 | CVE-2024-20006 | cvss:0 (Not_rated) | "(Escalation of Privilege, Out of Bounds)"                 | https://www.cve.org/CVERecord?id=CVE-2024-20006 |
+| 2024-02-05 23:00:40.592559 | CVE-2024-20004 | cvss:0 (Not_rated) | "(Input validation, Denial of service)"                    | https://www.cve.org/CVERecord?id=CVE-2024-20004 |
+| 2024-02-05 23:00:41.541819 | CVE-2024-20003 | cvss:0 (Not_rated) | "(Input validation, Denial of service)"                    | https://www.cve.org/CVERecord?id=CVE-2024-20003 |
+| 2024-02-05 23:00:42.572380 | CVE-2024-20002 | cvss:0 (Not_rated) | "(Escalation of Privilege, Out of Bounds)"                 | https://www.cve.org/CVERecord?id=CVE-2024-20002 |
+| 2024-02-05 23:00:43.571293 | CVE-2024-20001 | cvss:0 (Not_rated) | "(Escalation of Privilege, Out of Bounds)"                 | https://www.cve.org/CVERecord?id=CVE-2024-20001 |
+| 2024-02-05 23:00:44.562533 | CVE-2023-5800  | cvss:5.4 (MEDIUM)  | "(Remote code execution, Input validation)"                | https://www.cve.org/CVERecord?id=CVE-2023-5800  |
+| 2024-02-05 23:00:45.550697 | CVE-2023-5677  | cvss:6.3 (MEDIUM)  | "(Remote code execution, Input validation)"                | https://www.cve.org/CVERecord?id=CVE-2023-5677  |
+| 2024-02-05 23:00:46.528873 | CVE-2024-25089 | cvss:0 (Not_rated) | "(Remote Attack, Execute arbitrary code)"                  | https://www.cve.org/CVERecord?id=CVE-2024-25089 |
