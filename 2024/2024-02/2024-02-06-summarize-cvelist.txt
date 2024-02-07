@@ -1,0 +1,25 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                                                            | link                                            |
+|----------------------------|----------------|---------------------|------------------------------------------------------------------------------------|-------------------------------------------------|
+| 2024-02-06 12:00:24.320026 | CVE-2023-47022 | cvss:0 (Not_rated)  | "(Remote Attack, Execute arbitrary code)"                                          | https://www.cve.org/CVERecord?id=CVE-2023-47022 |
+| 2024-02-06 12:00:25.253898 | CVE-2023-46359 | cvss:0 (Not_rated)  | "(Command injection, Remote Attack, Arbitrary Command, Execute arbitrary command)" | https://www.cve.org/CVERecord?id=CVE-2023-46359 |
+| 2024-02-06 12:00:26.130685 | CVE-2024-24398 | cvss:0 (Not_rated)  | "(Remote Attack, Execute arbitrary code, Directory traversal)"                     | https://www.cve.org/CVERecord?id=CVE-2024-24398 |
+| 2024-02-06 12:00:27.068793 | CVE-2024-23049 | cvss:0 (Not_rated)  | "(Log4j, Remote Attack, Execute arbitrary code)"                                   | https://www.cve.org/CVERecord?id=CVE-2024-23049 |
+| 2024-02-06 12:00:27.964807 | CVE-2024-24595 | cvss:6 (MEDIUM)     | (MongoDB)                                                                          | https://www.cve.org/CVERecord?id=CVE-2024-24595 |
+| 2024-02-06 12:00:28.935908 | CVE-2024-0835  | cvss:4.3 (MEDIUM)   | (WordPress)                                                                        | https://www.cve.org/CVERecord?id=CVE-2024-0835  |
+| 2024-02-06 12:00:30.024779 | CVE-2023-34042 | cvss:4.1 (MEDIUM)   | "(Spring Security, Critical)"                                                      | https://www.cve.org/CVERecord?id=CVE-2023-34042 |
+| 2024-02-06 12:00:30.962400 | CVE-2024-24807 | cvss:2.7 (LOW)      | (PHP)                                                                              | https://www.cve.org/CVERecord?id=CVE-2024-24807 |
+| 2024-02-06 12:00:31.835439 | CVE-2024-22208 | cvss:6.5 (MEDIUM)   | "(MySQL, PHP, phpmyfaq)"                                                           | https://www.cve.org/CVERecord?id=CVE-2024-22208 |
+| 2024-02-06 12:00:32.767241 | CVE-2023-51951 | cvss:0 (Not_rated)  | "(PHP, Remote Attack, SQL injection, Execute arbitrary code)"                      | https://www.cve.org/CVERecord?id=CVE-2023-51951 |
+| 2024-02-06 12:00:33.666490 | CVE-2024-22202 | cvss:5.7 (MEDIUM)   | "(MySQL, PHP, phpmyfaq)"                                                           | https://www.cve.org/CVERecord?id=CVE-2024-22202 |
+| 2024-02-06 12:00:34.677060 | CVE-2024-24396 | cvss:0 (Not_rated)  | "(Remote Attack, Execute arbitrary code)"                                          | https://www.cve.org/CVERecord?id=CVE-2024-24396 |
+| 2024-02-06 12:00:35.675336 | CVE-2024-24469 | cvss:0 (Not_rated)  | "(PHP, Remote Attack, Execute arbitrary code)"                                     | https://www.cve.org/CVERecord?id=CVE-2024-24469 |
+| 2024-02-06 12:00:36.679233 | CVE-2024-24468 | cvss:0 (Not_rated)  | "(PHP, Remote Attack, Execute arbitrary code)"                                     | https://www.cve.org/CVERecord?id=CVE-2024-24468 |
+| 2024-02-06 12:00:37.668210 | CVE-2024-24397 | cvss:0 (Not_rated)  | "(Remote Attack, Execute arbitrary code)"                                          | https://www.cve.org/CVERecord?id=CVE-2024-24397 |
+| 2024-02-06 12:00:38.680258 | CVE-2024-23054 | cvss:0 (Not_rated)  | "(Docker, npm, Remote code execution)"                                             | https://www.cve.org/CVERecord?id=CVE-2024-23054 |
+| 2024-02-06 12:00:39.658574 | CVE-2023-7216  | cvss:0 (Not_rated)  | "(Arbitrary Command, Path Traversal)"                                              | https://www.cve.org/CVERecord?id=CVE-2023-7216  |
+| 2024-02-06 12:00:40.567148 | CVE-2023-52138 | cvss:8.2 (HIGH)     | "(Command execution, Path Traversal)"                                              | https://www.cve.org/CVERecord?id=CVE-2023-52138 |
+| 2024-02-06 12:00:41.578042 | CVE-2024-23109 | cvss:9.7 (CRITICAL) | "(Fortinet, Command injection, Improper Neutralization)"                           | https://www.cve.org/CVERecord?id=CVE-2024-23109 |
+| 2024-02-06 12:00:42.555933 | CVE-2024-23108 | cvss:9.7 (CRITICAL) | "(Fortinet, Command injection, Improper Neutralization)"                           | https://www.cve.org/CVERecord?id=CVE-2024-23108 |
+| 2024-02-06 12:00:43.483338 | CVE-2024-1225  | cvss:7.3 (HIGH)     | "(PHP, Critical)"                                                                  | https://www.cve.org/CVERecord?id=CVE-2024-1225  |
