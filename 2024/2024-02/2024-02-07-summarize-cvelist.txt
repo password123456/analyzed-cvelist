@@ -1,0 +1,29 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                            | link                                            |
+|----------------------------|----------------|--------------------|--------------------------------------------------------------------|-------------------------------------------------|
+| 2024-02-07 00:00:24.970659 | CVE-2023-43517 | cvss:8.4 (HIGH)    | "(Memory corruption, Improper access control)"                     | https://www.cve.org/CVERecord?id=CVE-2023-43517 |
+| 2024-02-07 00:00:26.018592 | CVE-2024-20820 | cvss:4.4 (MEDIUM)  | "(Input validation, out-of-bounds)"                                | https://www.cve.org/CVERecord?id=CVE-2024-20820 |
+| 2024-02-07 00:00:26.938777 | CVE-2024-20813 | cvss:8.4 (HIGH)    | "(Execute arbitrary code, out-of-bounds)"                          | https://www.cve.org/CVERecord?id=CVE-2024-20813 |
+| 2024-02-07 00:00:27.847981 | CVE-2024-20812 | cvss:8.4 (HIGH)    | "(Execute arbitrary code, out-of-bounds)"                          | https://www.cve.org/CVERecord?id=CVE-2024-20812 |
+| 2024-02-07 14:00:22.636494 | CVE-2024-24680 | cvss:0 (Not_rated) | (Django)                                                           | https://www.cve.org/CVERecord?id=CVE-2024-24680 |
+| 2024-02-07 14:00:23.763882 | CVE-2024-24577 | cvss:8.6 (HIGH)    | "(Arbitrary code execution, Heap corruption)"                      | https://www.cve.org/CVERecord?id=CVE-2024-24577 |
+| 2024-02-07 14:00:24.721664 | CVE-2024-1261  | cvss:6.3 (MEDIUM)  | "(PHP, Unrestricted Upload, Critical)"                             | https://www.cve.org/CVERecord?id=CVE-2024-1261  |
+| 2024-02-07 14:00:25.731740 | CVE-2024-1260  | cvss:6.3 (MEDIUM)  | "(PHP, Unrestricted Upload, Critical)"                             | https://www.cve.org/CVERecord?id=CVE-2024-1260  |
+| 2024-02-07 14:00:26.819903 | CVE-2024-1259  | cvss:6.3 (MEDIUM)  | "(PHP, Unrestricted Upload, Critical)"                             | https://www.cve.org/CVERecord?id=CVE-2024-1259  |
+| 2024-02-07 14:00:27.731716 | CVE-2024-1258  | cvss:3.1 (LOW)     | (PHP)                                                              | https://www.cve.org/CVERecord?id=CVE-2024-1258  |
+| 2024-02-07 14:00:28.601818 | CVE-2024-1254  | cvss:4.7 (MEDIUM)  | "(PHP, SQL injection, Critical)"                                   | https://www.cve.org/CVERecord?id=CVE-2024-1254  |
+| 2024-02-07 14:00:29.635233 | CVE-2023-40545 | cvss:8.8 (HIGH)    | "(crafted request, Authentication bypass)"                         | https://www.cve.org/CVERecord?id=CVE-2023-40545 |
+| 2024-02-07 14:00:30.539000 | CVE-2024-1253  | cvss:4.7 (MEDIUM)  | "(PHP, Unrestricted Upload, Critical)"                             | https://www.cve.org/CVERecord?id=CVE-2024-1253  |
+| 2024-02-07 14:00:31.534185 | CVE-2024-1251  | cvss:5.5 (MEDIUM)  | "(PHP, SQL injection, Critical)"                                   | https://www.cve.org/CVERecord?id=CVE-2024-1251  |
+| 2024-02-07 14:00:32.391736 | CVE-2023-50395 | cvss:8 (HIGH)      | "(Remote code execution, SQL injection)"                           | https://www.cve.org/CVERecord?id=CVE-2023-50395 |
+| 2024-02-07 14:00:33.292712 | CVE-2023-35188 | cvss:8 (HIGH)      | "(Remote code execution, SQL injection)"                           | https://www.cve.org/CVERecord?id=CVE-2023-35188 |
+| 2024-02-07 21:00:23.690755 | CVE-2024-1268  | cvss:6.3 (MEDIUM)  | "(PHP, Unrestricted Upload, Critical)"                             | https://www.cve.org/CVERecord?id=CVE-2024-1268  |
+| 2024-02-07 21:00:24.625033 | CVE-2024-1267  | cvss:3.5 (LOW)     | (PHP)                                                              | https://www.cve.org/CVERecord?id=CVE-2024-1267  |
+| 2024-02-07 21:00:25.646472 | CVE-2024-1266  | cvss:2.4 (LOW)     | (PHP)                                                              | https://www.cve.org/CVERecord?id=CVE-2024-1266  |
+| 2024-02-07 21:00:26.611414 | CVE-2024-1284  | cvss:0 (Not_rated) | "(Google Chrome, Use after free, Remote Attack, Heap corruption)"  | https://www.cve.org/CVERecord?id=CVE-2024-1284  |
+| 2024-02-07 21:00:27.639444 | CVE-2024-1283  | cvss:0 (Not_rated) | "(Google Chrome, Remote Attack, Buffer Overflow, Heap corruption)" | https://www.cve.org/CVERecord?id=CVE-2024-1283  |
+| 2024-02-07 21:00:28.676468 | CVE-2024-1264  | cvss:6.3 (MEDIUM)  | "(PHP, Unrestricted Upload, Critical)"                             | https://www.cve.org/CVERecord?id=CVE-2024-1264  |
+| 2024-02-07 21:00:29.740684 | CVE-2024-0971  | cvss:6.5 (MEDIUM)  | "(Remote Attack, SQL injection)"                                   | https://www.cve.org/CVERecord?id=CVE-2024-0971  |
+| 2024-02-07 21:00:30.848166 | CVE-2024-1263  | cvss:6.3 (MEDIUM)  | "(PHP, Unrestricted Upload, Critical)"                             | https://www.cve.org/CVERecord?id=CVE-2024-1263  |
+| 2024-02-07 21:00:31.827565 | CVE-2024-1262  | cvss:6.3 (MEDIUM)  | "(PHP, Unrestricted Upload, Critical)"                             | https://www.cve.org/CVERecord?id=CVE-2024-1262  |
