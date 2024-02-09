@@ -1,0 +1,30 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                                                       | link                                            |
+|----------------------------|----------------|---------------------|-------------------------------------------------------------------------------|-------------------------------------------------|
+| 2024-02-09 20:00:40.331966 | CVE-2024-23749 | cvss:0 (Not_rated)  | "(Command injection, Arbitrary code execution)"                               | https://www.cve.org/CVERecord?id=CVE-2024-23749 |
+| 2024-02-09 20:00:41.335167 | CVE-2024-25004 | cvss:0 (Not_rated)  | "(Arbitrary code execution, Buffer Overflow)"                                 | https://www.cve.org/CVERecord?id=CVE-2024-25004 |
+| 2024-02-09 20:00:42.326090 | CVE-2024-25003 | cvss:0 (Not_rated)  | "(Arbitrary code execution, Buffer Overflow)"                                 | https://www.cve.org/CVERecord?id=CVE-2024-25003 |
+| 2024-02-09 20:00:43.304512 | CVE-2024-0229  | cvss:0 (Not_rated)  | "(Remote code execution, Memory access, Privilege Escalation, out-of-bounds)" | https://www.cve.org/CVERecord?id=CVE-2024-0229  |
+| 2024-02-09 20:00:44.200794 | CVE-2023-46687 | cvss:9.8 (CRITICAL) | "(Arbitrary Command, Execute arbitrary command)"                              | https://www.cve.org/CVERecord?id=CVE-2023-46687 |
+| 2024-02-09 20:00:45.157917 | CVE-2024-1353  | cvss:6.3 (MEDIUM)   | "(PHP, Critical)"                                                             | https://www.cve.org/CVERecord?id=CVE-2024-1353  |
+| 2024-02-09 20:00:46.031183 | CVE-2024-24821 | cvss:8.8 (HIGH)     | "(PHP, Arbitrary code execution, Plugin, Privilege Escalation)"               | https://www.cve.org/CVERecord?id=CVE-2024-24821 |
+| 2024-02-09 20:00:46.905613 | CVE-2023-51630 | cvss:0 (Not_rated)  | "(Remote Attack, Authentication bypass)"                                      | https://www.cve.org/CVERecord?id=CVE-2023-51630 |
+| 2024-02-09 20:00:47.867634 | CVE-2024-22024 | cvss:None           | "(SAML, Ivanti, XXE, XML external entity)"                                    | https://www.cve.org/CVERecord?id=CVE-2024-22024 |
+| 2024-02-09 20:00:48.816669 | CVE-2024-24393 | cvss:0 (Not_rated)  | "(PHP, Remote Attack, File Upload, Execute arbitrary code)"                   | https://www.cve.org/CVERecord?id=CVE-2024-24393 |
+| 2024-02-09 20:00:49.714160 | CVE-2023-40265 | cvss:0 (Not_rated)  | "(Remote code execution, File Upload)"                                        | https://www.cve.org/CVERecord?id=CVE-2023-40265 |
+| 2024-02-09 20:00:50.719028 | CVE-2024-24499 | cvss:0 (Not_rated)  | "(PHP, Remote Attack, SQL injection)"                                         | https://www.cve.org/CVERecord?id=CVE-2024-24499 |
+| 2024-02-09 20:00:51.693849 | CVE-2024-24498 | cvss:0 (Not_rated)  | "(PHP, Remote Attack, File Upload, Execute arbitrary code)"                   | https://www.cve.org/CVERecord?id=CVE-2024-24498 |
+| 2024-02-09 20:00:52.610618 | CVE-2024-24497 | cvss:0 (Not_rated)  | "(PHP, Remote Attack, SQL injection)"                                         | https://www.cve.org/CVERecord?id=CVE-2024-24497 |
+| 2024-02-09 20:00:53.624878 | CVE-2024-24496 | cvss:0 (Not_rated)  | "(PHP, Remote Attack)"                                                        | https://www.cve.org/CVERecord?id=CVE-2024-24496 |
+| 2024-02-09 20:00:54.621049 | CVE-2024-24495 | cvss:0 (Not_rated)  | "(PHP, Remote Attack, SQL injection, Execute arbitrary code)"                 | https://www.cve.org/CVERecord?id=CVE-2024-24495 |
+| 2024-02-09 20:00:55.514820 | CVE-2024-24494 | cvss:0 (Not_rated)  | "(PHP, Remote Attack, Execute arbitrary code)"                                | https://www.cve.org/CVERecord?id=CVE-2024-24494 |
+| 2024-02-09 20:00:56.501890 | CVE-2024-23756 | cvss:0 (Not_rated)  | (Docker)                                                                      | https://www.cve.org/CVERecord?id=CVE-2024-23756 |
+| 2024-02-09 20:00:57.540342 | CVE-2024-24321 | cvss:0 (Not_rated)  | "(Remote Attack, Execute arbitrary code)"                                     | https://www.cve.org/CVERecord?id=CVE-2024-24321 |
+| 2024-02-09 20:00:58.510833 | CVE-2024-25191 | cvss:0 (Not_rated)  | (PHP)                                                                         | https://www.cve.org/CVERecord?id=CVE-2024-25191 |
+| 2024-02-09 20:00:59.453775 | CVE-2023-42282 | cvss:0 (Not_rated)  | "(npm, Execute arbitrary code, obtain sensitive information)"                 | https://www.cve.org/CVERecord?id=CVE-2023-42282 |
+| 2024-02-09 20:01:00.365180 | CVE-2024-22464 | cvss:6.2 (MEDIUM)   | "(Remote Attack, Exposure of Sensitive)"                                      | https://www.cve.org/CVERecord?id=CVE-2024-22464 |
+| 2024-02-09 20:01:01.314068 | CVE-2024-24034 | cvss:0 (Not_rated)  | "(Remote Attack, Execute arbitrary code)"                                     | https://www.cve.org/CVERecord?id=CVE-2024-24034 |
+| 2024-02-09 20:01:02.363979 | CVE-2024-24216 | cvss:0 (Not_rated)  | "(PHP, Remote code execution)"                                                | https://www.cve.org/CVERecord?id=CVE-2024-24216 |
+| 2024-02-09 20:01:03.337383 | CVE-2024-24091 | cvss:0 (Not_rated)  | "(Command injection, File Upload)"                                            | https://www.cve.org/CVERecord?id=CVE-2024-24091 |
+| 2024-02-09 20:01:04.310308 | CVE-2024-24202 | cvss:0 (Not_rated)  | "(PHP, File Upload, Execute arbitrary code)"                                  | https://www.cve.org/CVERecord?id=CVE-2024-24202 |
