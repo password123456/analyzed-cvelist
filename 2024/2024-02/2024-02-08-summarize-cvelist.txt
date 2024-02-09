@@ -1,0 +1,14 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                | link                                            |
+|----------------------------|----------------|--------------------|--------------------------------------------------------|-------------------------------------------------|
+| 2024-02-08 16:00:11.603279 | CVE-2024-24350 | cvss:0 (Not_rated) | "(Remote Attack, File Upload, Execute arbitrary code)" | https://www.cve.org/CVERecord?id=CVE-2024-24350 |
+| 2024-02-08 16:00:13.105547 | CVE-2024-23448 | cvss:5.7 (MEDIUM)  | (ElasticSearch)                                        | https://www.cve.org/CVERecord?id=CVE-2024-23448 |
+| 2024-02-08 16:00:14.091205 | CVE-2024-1066  | cvss:6.5 (MEDIUM)  | (GraphQL)                                              | https://www.cve.org/CVERecord?id=CVE-2024-1066  |
+| 2024-02-08 16:00:15.411434 | CVE-2024-24824 | cvss:8.8 (HIGH)    | "(Graylog, Execute arbitrary code)"                    | https://www.cve.org/CVERecord?id=CVE-2024-24824 |
+| 2024-02-08 16:00:16.323590 | CVE-2024-24823 | cvss:5.7 (MEDIUM)  | (Graylog)                                              | https://www.cve.org/CVERecord?id=CVE-2024-24823 |
+| 2024-02-08 16:00:17.415138 | CVE-2024-20290 | cvss:7.5 (HIGH)    | "(ClamAV, Remote Attack, Denial of service)"           | https://www.cve.org/CVERecord?id=CVE-2024-20290 |
+| 2024-02-08 16:00:18.300341 | CVE-2023-38369 | cvss:6.2 (MEDIUM)  | (Docker)                                               | https://www.cve.org/CVERecord?id=CVE-2023-38369 |
+| 2024-02-08 16:00:19.181302 | CVE-2024-22012 | cvss:0 (Not_rated) | "(Escalation of Privilege, Out of Bounds)"             | https://www.cve.org/CVERecord?id=CVE-2024-22012 |
+| 2024-02-08 16:00:20.108094 | CVE-2024-25143 | cvss:6.5 (MEDIUM)  | "(Memory Consumption, Denial of service)"              | https://www.cve.org/CVERecord?id=CVE-2024-25143 |
+| 2024-02-08 16:00:21.115728 | CVE-2023-51437 | cvss:7.4 (HIGH)    | (Websocket)                                            | https://www.cve.org/CVERecord?id=CVE-2023-51437 |
