@@ -1,0 +1,6 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3           | summary                    | link                                            |
+|----------------------------|----------------|-------------------|----------------------------|-------------------------------------------------|
+| 2024-02-11 14:00:37.996059 | CVE-2024-21490 | cvss:7.5 (HIGH)   | "(npm, Denial of service)" | https://www.cve.org/CVERecord?id=CVE-2024-21490 |
+| 2024-02-11 14:00:38.885061 | CVE-2024-24828 | cvss:6.6 (MEDIUM) | (Node.js)                  | https://www.cve.org/CVERecord?id=CVE-2024-24828 |
