@@ -1,0 +1,8 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                         | link                                            |
+|----------------------------|----------------|--------------------|-------------------------------------------------|-------------------------------------------------|
+| 2024-02-12 12:00:38.931994 | CVE-2024-25728 | cvss:0 (Not_rated) | "(Remote Attack, obtain sensitive information)" | https://www.cve.org/CVERecord?id=CVE-2024-25728 |
+| 2024-02-12 12:00:39.811612 | CVE-2024-25722 | cvss:0 (Not_rated) | "(MySQL, SQL injection)"                        | https://www.cve.org/CVERecord?id=CVE-2024-25722 |
+| 2024-02-12 12:00:40.706252 | CVE-2024-25718 | cvss:0 (Not_rated) | (SAML)                                          | https://www.cve.org/CVERecord?id=CVE-2024-25718 |
+| 2024-02-12 16:00:10.394057 | CVE-2024-1433  | cvss:3.1 (LOW)     | "(Path Traversal, Plugin)"                      | https://www.cve.org/CVERecord?id=CVE-2024-1433  |
