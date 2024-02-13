@@ -1,0 +1,19 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                                      | link                                            |
+|----------------------------|----------------|---------------------|--------------------------------------------------------------|-------------------------------------------------|
+| 2024-02-13 18:00:39.185838 | CVE-2023-50358 | cvss:5.8 (MEDIUM)   | "(Command injection, Execute command)"                       | https://www.cve.org/CVERecord?id=CVE-2023-50358 |
+| 2024-02-13 18:00:40.090046 | CVE-2023-47218 | cvss:5.8 (MEDIUM)   | "(Command injection, Execute command)"                       | https://www.cve.org/CVERecord?id=CVE-2023-47218 |
+| 2024-02-13 18:00:41.012653 | CVE-2023-42374 | cvss:0 (Not_rated)  | "(Remote Attack, Execute arbitrary code, Denial of service)" | https://www.cve.org/CVERecord?id=CVE-2023-42374 |
+| 2024-02-13 18:00:42.026634 | CVE-2024-24826 | cvss:5.5 (MEDIUM)   | "(out-of-bounds, Out of Bounds)"                             | https://www.cve.org/CVERecord?id=CVE-2024-24826 |
+| 2024-02-13 18:00:42.926666 | CVE-2023-28018 | cvss:5.5 (MEDIUM)   | "(Denial of service, Improper Validation, crafted request)"  | https://www.cve.org/CVERecord?id=CVE-2023-28018 |
+| 2024-02-13 18:00:43.793744 | CVE-2024-23762 | cvss:0 (Not_rated)  | "(PHP, File Upload, Execute arbitrary code)"                 | https://www.cve.org/CVERecord?id=CVE-2024-23762 |
+| 2024-02-13 18:00:44.729472 | CVE-2024-23833 | cvss:7.5 (HIGH)     | (MySQL)                                                      | https://www.cve.org/CVERecord?id=CVE-2024-23833 |
+| 2024-02-13 18:00:45.629359 | CVE-2024-1459  | cvss:0 (Not_rated)  | "(Remote Attack, Path Traversal)"                            | https://www.cve.org/CVERecord?id=CVE-2024-1459  |
+| 2024-02-13 18:00:46.618795 | CVE-2024-25110 | cvss:9.8 (CRITICAL) | "(Remote code execution, use-after-free)"                    | https://www.cve.org/CVERecord?id=CVE-2024-25110 |
+| 2024-02-13 18:00:47.534635 | CVE-2024-22227 | cvss:7.8 (HIGH)     | "(Command injection, Execute command)"                       | https://www.cve.org/CVERecord?id=CVE-2024-22227 |
+| 2024-02-13 18:00:48.398766 | CVE-2024-22221 | cvss:4.5 (MEDIUM)   | "(SQL injection, Exposure of Sensitive)"                     | https://www.cve.org/CVERecord?id=CVE-2024-22221 |
+| 2024-02-13 18:00:49.397196 | CVE-2024-0168  | cvss:7.8 (HIGH)     | "(Command injection, Execute command)"                       | https://www.cve.org/CVERecord?id=CVE-2024-0168  |
+| 2024-02-13 18:00:50.351167 | CVE-2024-0167  | cvss:7.8 (HIGH)     | "(Command injection, Overwrite Arbitrary Files)"             | https://www.cve.org/CVERecord?id=CVE-2024-0167  |
+| 2024-02-13 18:00:51.294829 | CVE-2024-0164  | cvss:7.8 (HIGH)     | "(Command injection, Arbitrary Command)"                     | https://www.cve.org/CVERecord?id=CVE-2024-0164  |
+| 2024-02-13 18:00:52.234256 | CVE-2024-24926 | cvss:7.5 (HIGH)     | (WordPress)                                                  | https://www.cve.org/CVERecord?id=CVE-2024-24926 |
