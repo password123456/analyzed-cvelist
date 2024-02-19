@@ -1,0 +1,30 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                               | link                                            |
+|----------------------------|----------------|--------------------|-----------------------------------------------------------------------|-------------------------------------------------|
+| 2024-02-19 10:00:39.399710 | CVE-2024-22337 | cvss:5.1 (MEDIUM)  | (IBM QRadar)                                                          | https://www.cve.org/CVERecord?id=CVE-2024-22337 |
+| 2024-02-19 10:00:40.296637 | CVE-2024-22336 | cvss:5.1 (MEDIUM)  | (IBM QRadar)                                                          | https://www.cve.org/CVERecord?id=CVE-2024-22336 |
+| 2024-02-19 10:00:41.298696 | CVE-2024-22335 | cvss:5.1 (MEDIUM)  | (IBM QRadar)                                                          | https://www.cve.org/CVERecord?id=CVE-2024-22335 |
+| 2024-02-19 10:00:42.302891 | CVE-2023-50951 | cvss:4 (MEDIUM)    | (IBM QRadar)                                                          | https://www.cve.org/CVERecord?id=CVE-2023-50951 |
+| 2024-02-19 10:00:43.232363 | CVE-2024-25298 | cvss:0 (Not_rated) | "(PHP, Execute arbitrary code, obtain sensitive information)"         | https://www.cve.org/CVERecord?id=CVE-2024-25298 |
+| 2024-02-19 10:00:44.090203 | CVE-2024-20984 | cvss:4.4 (MEDIUM)  | "(MySQL, SQL Server, SQL Server)"                                     | https://www.cve.org/CVERecord?id=CVE-2024-20984 |
+| 2024-02-19 10:00:45.006102 | CVE-2024-20982 | cvss:4.9 (MEDIUM)  | "(MySQL, SQL Server, SQL Server)"                                     | https://www.cve.org/CVERecord?id=CVE-2024-20982 |
+| 2024-02-19 10:00:45.926513 | CVE-2024-20978 | cvss:4.9 (MEDIUM)  | "(MySQL, SQL Server, SQL Server)"                                     | https://www.cve.org/CVERecord?id=CVE-2024-20978 |
+| 2024-02-19 10:00:46.794840 | CVE-2024-20976 | cvss:4.9 (MEDIUM)  | "(MySQL, SQL Server, SQL Server)"                                     | https://www.cve.org/CVERecord?id=CVE-2024-20976 |
+| 2024-02-19 10:00:47.702693 | CVE-2024-20974 | cvss:4.9 (MEDIUM)  | "(MySQL, SQL Server, SQL Server)"                                     | https://www.cve.org/CVERecord?id=CVE-2024-20974 |
+| 2024-02-19 10:00:48.699449 | CVE-2024-20972 | cvss:4.9 (MEDIUM)  | "(MySQL, SQL Server, SQL Server)"                                     | https://www.cve.org/CVERecord?id=CVE-2024-20972 |
+| 2024-02-19 10:00:49.597775 | CVE-2024-20970 | cvss:4.9 (MEDIUM)  | "(MySQL, SQL Server, SQL Server)"                                     | https://www.cve.org/CVERecord?id=CVE-2024-20970 |
+| 2024-02-19 10:00:50.514907 | CVE-2024-20968 | cvss:4.4 (MEDIUM)  | "(MySQL, SQL Server, SQL Server)"                                     | https://www.cve.org/CVERecord?id=CVE-2024-20968 |
+| 2024-02-19 10:00:51.519886 | CVE-2024-20966 | cvss:4.9 (MEDIUM)  | "(MySQL, SQL Server, SQL Server)"                                     | https://www.cve.org/CVERecord?id=CVE-2024-20966 |
+| 2024-02-19 10:00:52.527640 | CVE-2024-20964 | cvss:5.3 (MEDIUM)  | "(MySQL, SQL Server, SQL Server)"                                     | https://www.cve.org/CVERecord?id=CVE-2024-20964 |
+| 2024-02-19 10:00:53.427437 | CVE-2024-20962 | cvss:6.5 (MEDIUM)  | "(MySQL, SQL Server, SQL Server)"                                     | https://www.cve.org/CVERecord?id=CVE-2024-20962 |
+| 2024-02-19 10:00:54.281438 | CVE-2024-20960 | cvss:6.5 (MEDIUM)  | "(MySQL, SQL Server, SQL Server)"                                     | https://www.cve.org/CVERecord?id=CVE-2024-20960 |
+| 2024-02-19 10:00:55.191273 | CVE-2024-20917 | cvss:7.5 (HIGH)    | "(Denial of service, Critical)"                                       | https://www.cve.org/CVERecord?id=CVE-2024-20917 |
+| 2024-02-19 10:00:56.108509 | CVE-2024-24758 | cvss:3.9 (LOW)     | (Node.js)                                                             | https://www.cve.org/CVERecord?id=CVE-2024-24758 |
+| 2024-02-19 10:00:57.028301 | CVE-2024-24750 | cvss:6.5 (MEDIUM)  | (Node.js)                                                             | https://www.cve.org/CVERecord?id=CVE-2024-24750 |
+| 2024-02-19 10:00:57.986128 | CVE-2024-0023  | cvss:0 (Not_rated) | "(Escalation of Privilege, Out of Bounds)"                            | https://www.cve.org/CVERecord?id=CVE-2024-0023  |
+| 2024-02-19 10:00:58.931228 | CVE-2024-0018  | cvss:0 (Not_rated) | "(Escalation of Privilege, Buffer Overflow, Out of Bounds)"           | https://www.cve.org/CVERecord?id=CVE-2024-0018  |
+| 2024-02-19 10:00:59.780947 | CVE-2024-0016  | cvss:0 (Not_rated) | "(Information disclosure, Out of Bounds)"                             | https://www.cve.org/CVERecord?id=CVE-2024-0016  |
+| 2024-02-19 10:01:00.732590 | CVE-2023-40085 | cvss:0 (Not_rated) | "(Information disclosure, Out of Bounds)"                             | https://www.cve.org/CVERecord?id=CVE-2023-40085 |
+| 2024-02-19 10:01:01.732072 | CVE-2023-21165 | cvss:0 (Not_rated) | "(Use after free, Arbitrary code execution, Escalation of Privilege)" | https://www.cve.org/CVERecord?id=CVE-2023-21165 |
+| 2024-02-19 10:01:02.725127 | CVE-2024-25320 | cvss:0 (Not_rated) | "(PHP, SQL injection)"                                                | https://www.cve.org/CVERecord?id=CVE-2024-25320 |
