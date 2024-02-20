@@ -1,0 +1,13 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3             | summary                                        | link                                            |
+|----------------------------|----------------|---------------------|------------------------------------------------|-------------------------------------------------|
+| 2024-02-20 18:00:37.897627 | CVE-2024-1346  | cvss:6.8 (MEDIUM)   | (MySQL)                                        | https://www.cve.org/CVERecord?id=CVE-2024-1346  |
+| 2024-02-20 18:00:38.825535 | CVE-2024-1345  | cvss:6.8 (MEDIUM)   | (MySQL)                                        | https://www.cve.org/CVERecord?id=CVE-2024-1345  |
+| 2024-02-20 18:00:39.823008 | CVE-2024-1580  | cvss:5.9 (MEDIUM)   | "(Memory corruption, Integer Overflow)"        | https://www.cve.org/CVERecord?id=CVE-2024-1580  |
+| 2024-02-20 22:00:39.432892 | CVE-2024-25606 | cvss:8 (HIGH)       | "(XXE, obtain sensitive information)"          | https://www.cve.org/CVERecord?id=CVE-2024-25606 |
+| 2024-02-20 22:00:40.474127 | CVE-2024-22234 | cvss:7.4 (HIGH)     | (Spring Security)                              | https://www.cve.org/CVERecord?id=CVE-2024-22234 |
+| 2024-02-20 22:00:41.681741 | CVE-2024-1644  | cvss:9.9 (CRITICAL) | (PHP)                                          | https://www.cve.org/CVERecord?id=CVE-2024-1644  |
+| 2024-02-20 22:00:42.622088 | CVE-2024-1297  | cvss:10 (CRITICAL)  | "(Command injection, Arbitrary Command)"       | https://www.cve.org/CVERecord?id=CVE-2024-1297  |
+| 2024-02-20 22:00:43.535464 | CVE-2023-6260  | cvss:7.4 (HIGH)     | "(Command injection, Improper Neutralization)" | https://www.cve.org/CVERecord?id=CVE-2023-6260  |
+| 2024-02-20 22:00:44.480579 | CVE-2024-25626 | cvss:8.8 (HIGH)     | "(Remote code execution, Input validation)"    | https://www.cve.org/CVERecord?id=CVE-2024-25626 |
