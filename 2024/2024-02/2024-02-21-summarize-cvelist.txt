@@ -1,0 +1,10 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                               | link                                            |
+|----------------------------|----------------|--------------------|-------------------------------------------------------|-------------------------------------------------|
+| 2024-02-21 05:00:38.827062 | CVE-2024-25366 | cvss:0 (Not_rated) | "(Remote Attack, Denial of service, Buffer Overflow)" | https://www.cve.org/CVERecord?id=CVE-2024-25366 |
+| 2024-02-21 05:00:39.882417 | CVE-2024-25274 | cvss:0 (Not_rated) | "(File Upload, Execute arbitrary code)"               | https://www.cve.org/CVERecord?id=CVE-2024-25274 |
+| 2024-02-21 05:00:40.817658 | CVE-2024-22824 | cvss:0 (Not_rated) | "(Remote Attack, Execute arbitrary code)"             | https://www.cve.org/CVERecord?id=CVE-2024-22824 |
+| 2024-02-21 05:00:41.692156 | CVE-2023-45318 | cvss:10 (CRITICAL) | "(Arbitrary code execution, Buffer Overflow)"         | https://www.cve.org/CVERecord?id=CVE-2023-45318 |
+| 2024-02-21 05:00:42.710808 | CVE-2023-39541 | cvss:5.9 (MEDIUM)  | "(Denial of service, out-of-bounds)"                  | https://www.cve.org/CVERecord?id=CVE-2023-39541 |
+| 2024-02-21 05:00:43.597723 | CVE-2023-39540 | cvss:5.9 (MEDIUM)  | "(Denial of service, out-of-bounds)"                  | https://www.cve.org/CVERecord?id=CVE-2023-39540 |
