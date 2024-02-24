@@ -1,0 +1,14 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                          | link                                            |
+|----------------------------|----------------|--------------------|--------------------------------------------------|-------------------------------------------------|
+| 2024-02-23 00:00:40.082517 | CVE-2023-3966  | cvss:0 (Not_rated) | "(Memory access, Denial of service)"             | https://www.cve.org/CVERecord?id=CVE-2023-3966  |
+| 2024-02-23 00:00:41.021006 | CVE-2024-25021 | cvss:8.4 (HIGH)    | "(Arbitrary Command, Execute arbitrary command)" | https://www.cve.org/CVERecord?id=CVE-2024-25021 |
+| 2024-02-23 00:00:42.019979 | CVE-2024-0220  | cvss:8.3 (HIGH)    | "(Code Injection, Execute arbitrary code)"       | https://www.cve.org/CVERecord?id=CVE-2024-0220  |
+| 2024-02-23 00:00:42.908847 | CVE-2023-29181 | cvss:8.3 (HIGH)    | (Fortinet)                                       | https://www.cve.org/CVERecord?id=CVE-2023-29181 |
+| 2024-02-23 00:00:43.887733 | CVE-2023-29180 | cvss:7.3 (HIGH)    | "(Fortinet, Denial of service)"                  | https://www.cve.org/CVERecord?id=CVE-2023-29180 |
+| 2024-02-23 00:00:44.816003 | CVE-2023-29179 | cvss:6.4 (MEDIUM)  | "(Fortinet, Denial of service)"                  | https://www.cve.org/CVERecord?id=CVE-2023-29179 |
+| 2024-02-23 04:00:39.824038 | CVE-2023-52452 | cvss:0 (Not_rated) | "(Memory access, out-of-bounds)"                 | https://www.cve.org/CVERecord?id=CVE-2023-52452 |
+| 2024-02-23 04:00:40.804182 | CVE-2024-25828 | cvss:0 (Not_rated) | (PHP)                                            | https://www.cve.org/CVERecord?id=CVE-2024-25828 |
+| 2024-02-23 04:00:41.748296 | CVE-2024-25873 | cvss:0 (Not_rated) | "(Execute arbitrary code, HTML injection)"       | https://www.cve.org/CVERecord?id=CVE-2024-25873 |
+| 2024-02-23 09:00:38.318602 | CVE-2024-1750  | cvss:5.6 (MEDIUM)  | "(PHP, Critical)"                                | https://www.cve.org/CVERecord?id=CVE-2024-1750  |
