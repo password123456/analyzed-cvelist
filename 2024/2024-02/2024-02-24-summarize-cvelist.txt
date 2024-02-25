@@ -1,0 +1,23 @@
+# Timezone is GMT/UTC+9
+
+| datetime                   | cve_id         | cvss_v3            | summary                                                        | link                                            |
+|----------------------------|----------------|--------------------|----------------------------------------------------------------|-------------------------------------------------|
+| 2024-02-24 12:00:40.707521 | CVE-2024-26192 | cvss:8.2 (HIGH)    | "(Microsoft Edge, Information disclosure)"                     | https://www.cve.org/CVERecord?id=CVE-2024-26192 |
+| 2024-02-24 12:00:41.587483 | CVE-2024-26188 | cvss:4.3 (MEDIUM)  | (Microsoft Edge)                                               | https://www.cve.org/CVERecord?id=CVE-2024-26188 |
+| 2024-02-24 12:00:42.555104 | CVE-2024-25469 | cvss:0 (Not_rated) | "(Remote Attack, SQL injection, obtain sensitive information)" | https://www.cve.org/CVERecord?id=CVE-2024-25469 |
+| 2024-02-24 12:00:43.526066 | CVE-2024-21423 | cvss:4.8 (MEDIUM)  | "(Microsoft Edge, Information disclosure)"                     | https://www.cve.org/CVERecord?id=CVE-2024-21423 |
+| 2024-02-24 12:00:44.503629 | CVE-2024-1830  | cvss:7.3 (HIGH)    | "(PHP, SQL injection, Critical)"                               | https://www.cve.org/CVERecord?id=CVE-2024-1830  |
+| 2024-02-24 12:00:45.396360 | CVE-2024-1829  | cvss:7.3 (HIGH)    | "(PHP, SQL injection, Critical)"                               | https://www.cve.org/CVERecord?id=CVE-2024-1829  |
+| 2024-02-24 12:00:46.408845 | CVE-2024-1828  | cvss:7.3 (HIGH)    | "(PHP, SQL injection, Critical)"                               | https://www.cve.org/CVERecord?id=CVE-2024-1828  |
+| 2024-02-24 12:00:47.294547 | CVE-2024-1827  | cvss:7.3 (HIGH)    | "(PHP, SQL injection, Critical)"                               | https://www.cve.org/CVERecord?id=CVE-2024-1827  |
+| 2024-02-24 12:00:48.201344 | CVE-2024-1826  | cvss:7.3 (HIGH)    | "(PHP, SQL injection, Critical)"                               | https://www.cve.org/CVERecord?id=CVE-2024-1826  |
+| 2024-02-24 12:00:49.096086 | CVE-2024-1824  | cvss:7.3 (HIGH)    | "(PHP, SQL injection, Critical)"                               | https://www.cve.org/CVERecord?id=CVE-2024-1824  |
+| 2024-02-24 12:00:50.027284 | CVE-2024-1823  | cvss:5.3 (MEDIUM)  | "(PHP, Improper access control, Critical)"                     | https://www.cve.org/CVERecord?id=CVE-2024-1823  |
+| 2024-02-24 12:00:50.893192 | CVE-2024-1822  | cvss:2.4 (LOW)     | (PHP)                                                          | https://www.cve.org/CVERecord?id=CVE-2024-1822  |
+| 2024-02-24 12:00:51.810826 | CVE-2024-1821  | cvss:5.5 (MEDIUM)  | "(PHP, SQL injection, Critical)"                               | https://www.cve.org/CVERecord?id=CVE-2024-1821  |
+| 2024-02-24 12:00:52.701733 | CVE-2024-1820  | cvss:7.3 (HIGH)    | "(PHP, SQL injection, Critical)"                               | https://www.cve.org/CVERecord?id=CVE-2024-1820  |
+| 2024-02-24 12:00:53.709140 | CVE-2024-1819  | cvss:4.7 (MEDIUM)  | "(Unrestricted Upload, Critical)"                              | https://www.cve.org/CVERecord?id=CVE-2024-1819  |
+| 2024-02-24 12:00:54.698115 | CVE-2024-1818  | cvss:4.7 (MEDIUM)  | "(Unrestricted Upload, Critical)"                              | https://www.cve.org/CVERecord?id=CVE-2024-1818  |
+| 2024-02-24 12:00:55.681318 | CVE-2024-1817  | cvss:7.3 (HIGH)    | "(PHP, Critical)"                                              | https://www.cve.org/CVERecord?id=CVE-2024-1817  |
+| 2024-02-24 12:00:56.629989 | CVE-2024-25928 | cvss:7.1 (HIGH)    | "(SQL injection, Improper Neutralization)"                     | https://www.cve.org/CVERecord?id=CVE-2024-25928 |
+| 2024-02-24 12:00:57.611860 | CVE-2024-1784  | cvss:3.9 (LOW)     | "(PHP, SQL injection)"                                         | https://www.cve.org/CVERecord?id=CVE-2024-1784  |
