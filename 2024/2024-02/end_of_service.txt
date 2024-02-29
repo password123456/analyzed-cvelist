@@ -1,0 +1,4 @@
+Thanks for watching this repository
+
+For the improvement and changes in the system to fetch and analyze CVE information, this repository is being discontinued.
+Once the system is enhanced, we will resume with different and exciting content.
